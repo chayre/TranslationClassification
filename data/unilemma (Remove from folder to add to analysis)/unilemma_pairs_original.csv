@@ -1,0 +1,407 @@
+uni_lemma,norwegian_word,norwegian_category,norwegian_gloss,english_word,english_category
+airplane,fly,vehicles,plane,aeroplane / plane,vehicles
+all,alle,quantifiers,all of them,all,prepositions
+all gone,borte,descriptive_words,away,all gone,descriptive_words
+animal,dyr,animals,animals,animal,animals
+another,en annen,quantifiers,another one,another,prepositions
+apple,eple,food_drink,apple,apple,food_drink
+arm,arm,body_parts,arm,arm,body_parts
+aunt,tante,people,Aunt,aunt,people
+away,bort,locations,away,away,prepositions
+away,borte,locations,away,away,prepositions
+away,vekk,locations,away,away,prepositions
+baa baa,bææ,sounds,bææ,baa baa,sounds
+baby,baby,people,baby,baby,people
+bad,dårlig,descriptive_words,bad,bad,descriptive_words
+bad,frekk,descriptive_words,rude,bad,descriptive_words
+ball,ball,toys,prom,ball,toys
+balloon,ballong,toys,balloon,balloon,toys
+banana,banan,food_drink,banana,banana,food_drink
+bath,bade,games_routines,bathing,bath,games_routines
+bathroom,bad,furniture_rooms,bathroom,bathroom,furniture_rooms
+bathtub,badekar,furniture_rooms,bathtub,bath / bathtub,clothing
+beach,strand,places,beach,beach,outside
+bear,bjørn,animals,Bears,bear,animals
+bed,seng,furniture_rooms,bed,bed,furniture_rooms
+bedroom,soverom,furniture_rooms,bedroom,bedroom,furniture_rooms
+belly button,navle,body_parts,belly button,belly button / tummy button,body_parts
+bib,smekke,clothing,bib,bib,clothing
+bicycle,sykkel,vehicles,bicycle,bicycle / bike,vehicles
+big,stor,descriptive_words,large,big,descriptive_words
+bird,fugl,animals,bird,bird,animals
+bite,bite,action_words,bite,bite,action_words
+blanket,dyne,household,duvet,blanket,household
+blanket,teppe,household,blanket,blanket,household
+blocks,klosser,toys,bricks,block / brick,toys
+blocks,lego,toys,Lego,block / brick,toys
+blow,blåse,action_words,blow,blow,action_words
+blue,blå,descriptive_words,blue,blue,descriptive_words
+boat,båt,vehicles,boat,boat,vehicles
+book,bok,toys,book,book,toys
+bottle,flaske,household,bottle,bottle,household
+bowl,skål,household,Cheers,bowl,household
+box,boks,household,box,box,household
+box,eske,household,box,box,household
+box,kasse,household,Checkout,box,household
+boy,gutt,people,boy,boy,people
+bread,brød,food_drink,loaf of bread,bread,food_drink
+break,ødelegge,action_words,tear up,break,action_words
+breakfast,frokost,games_routines,breakfast,breakfast,games_routines
+broken,ødelagt,descriptive_words,destroyed,broken,descriptive_words
+broom,kost,household,costly,broom,household
+brother,bror,people,brother,brother,people
+brush (object),børste,household,brush,brush,household
+bubbles,såpebobler,toys,soap bubbles,bubble,toys
+bucket,bøtte,household,bucket,bucket,outside
+bunny,kanin,animals,rabbit,bunny / rabbit,animals
+bus,buss,vehicles,coach,bus,vehicles
+butter,smør,food_drink,butter,butter,food_drink
+butterfly,sommerfugl,animals,butterfly,butterfly,animals
+button,knapper,clothing,Buttons,button,clothing
+bye,ha det,games_routines,bye bye,bye bye,games_routines
+cake,kake,food_drink,cake,cake,food_drink
+call,ringe,games_routines,call,call,action_words
+car,bil,vehicles,car,car,vehicles
+careful,forsiktig,descriptive_words,careful,careful,descriptive_words
+carrot,gulrot,food_drink,carrot,carrot,food_drink
+carry,bære,action_words,carry,carry,action_words
+cat,katt,animals,cat,cat,animals
+catch,fange,action_words,catch,catch,action_words
+cereal,frokostblanding,food_drink,cereal,cereal,food_drink
+chair,stol,furniture_rooms,chair,chair,furniture_rooms
+cheek,kinn,body_parts,cheek,cheek,body_parts
+cheese,ost,food_drink,cheese,cheese,food_drink
+chicken (animal),kylling (animal),animals,chicken,chicken,animals
+chicken (food),kylling (food),food_drink,chicken,chicken,food_drink
+child,barn,people,children,child,people
+choo choo,tøff-tøff,sounds,tough-tough,choo choo,sounds
+church,kirke,places,church,church,outside
+clean (action),rydde,action_words,clear,clean,action_words
+clean (description),ren,descriptive_words,clean,clean,descriptive_words
+clock,klokke,household,clock,clock,household
+close,lukke,action_words,close,shut / close,action_words
+coat,regntøy,clothing,rainwear,coat,clothing
+cockadoodledoo,kykeliky,sounds,kykeliky,cockadoodledoo,sounds
+coffee,kaffe,food_drink,coffee,coffee,food_drink
+cold,kald,descriptive_words,cold,cold,descriptive_words
+comb (object),kam,household,comb,comb,household
+couch,sofa,furniture_rooms,sofa,settee / sofa,furniture_rooms
+cow,ku,animals,cow,cow,animals
+cry,gråte,action_words,cry,cry,action_words
+cup,kopp,household,cup,cup,household
+cup,kopp,household,cup,mug,household
+cut,skjære,action_words,Magpie,cut,action_words
+daddy,pappa/far,people,dad / father,daddy,people
+dance,danse,action_words,dance,dance,action_words
+dark,mørkt,descriptive_words,dark,dark,descriptive_words
+day,dag,time_words,day,day,time_words
+deer,reinsdyr,animals,reindeer,deer,animals
+diaper,bleie,clothing,Diaper,nappy,clothing
+dinner,middag,games_routines,dinner,dinner,games_routines
+dirty,skitten,descriptive_words,filthy,dirty,descriptive_words
+doctor,doktor,people,Doctor,doctor,people
+dog,hund,animals,dog,dog,animals
+doll,dukke,toys,baby doll,doll,toys
+don't,ikke (routine),games_routines,do not,don't,games_routines
+donkey,esel,animals,ass,donkey,animals
+door,dør,furniture_rooms,dies,door,furniture_rooms
+down,ned,locations,down,down,prepositions
+down,nede,locations,down,down,prepositions
+down,nedi,locations,down,down,prepositions
+draw,tegne,action_words,draw,draw,action_words
+drawer,skuff,furniture_rooms,Tray,drawer,furniture_rooms
+dress (object),kjole,clothing,dress,dress,clothing
+drink (action),drikke (action),action_words,drink,drink,action_words
+drink (beverage),drikke (beverage),food_drink,drink,drink,food_drink
+drive,kjøre,action_words,driving,drive,action_words
+dry (description),tørr,descriptive_words,dry,dry,descriptive_words
+duck,and,animals,duck,duck,animals
+ear,øre,body_parts,ear,ear,body_parts
+eat,spise,action_words,eat,eat,action_words
+egg,egg,food_drink,eggs,egg,food_drink
+elephant,elefant,animals,elephant,elephant,animals
+empty,tom,descriptive_words,empty,empty,descriptive_words
+eye,øye,body_parts,eye,eye,body_parts
+face,ansikt,body_parts,face,face,body_parts
+fall,falle,action_words,fall,fall,action_words
+fast,fort,descriptive_words,fast,fast,descriptive_words
+feed,mate,action_words,feed,feed,action_words
+find,finne,action_words,find,find,action_words
+fine,fin,descriptive_words,nice,fine,descriptive_words
+finger,finger,body_parts,finger,finger,body_parts
+finish,gjøre seg ferdig,action_words,should finish,finish,action_words
+firetruck,brannbil,vehicles,fire truck,fire engine,vehicles
+fish (animal),fisk (animal),animals,fish,fish,animals
+fish (food),fisk (food),food_drink,fish,fish,food_drink
+flower,blomst,outside,flower,flower,outside
+food,mat,food_drink,food,food,food_drink
+foot,fot,body_parts,foot,foot,body_parts
+fork,gaffel,household,fork,fork,household
+french fries,pommes frites,food_drink,french fries,chips,food_drink
+friend,venn,people,friend,friend,people
+friend,venninne,people,Girlfriend,friend,people
+frog,frosk,animals,frog,frog,animals
+garage,garasje,furniture_rooms,garage,garage,furniture_rooms
+garden,hage,places,garden,garden,outside
+get,få,action_words,get,get,action_words
+get,få,helping_verbs,get,get,action_words
+get,hente,action_words,fetch,get,action_words
+giraffe,sjiraff,animals,giraffe,giraffe,animals
+girl,jente,people,girl,girl,people
+give,gi,action_words,give,give,action_words
+glass,glass,household,glass,glass,household
+glasses,briller,household,glasses,glasses / specs,clothing
+go,dra,action_words,drag,go,action_words
+good,bra,descriptive_words,good,good,descriptive_words
+good,god,descriptive_words,good,good,descriptive_words
+good night,god natt,games_routines,good night,night night,games_routines
+goose,gås,animals,goose,goose,animals
+grandma,bestemor,people,grandmother,grandma,people
+grandma,farmor,people,grandmother,grandma,people
+grandma,mormor,people,Granny,grandma,people
+grandpa,bestefar,people,grandfather,grandpa,people
+grandpa,farfar,people,grandfather,grandpa,people
+grandpa,morfar,people,grandfather,grandpa,people
+green,grønn,descriptive_words,green,green,descriptive_words
+grrr,grr,sounds,grrr,grr,sounds
+hair,hår,body_parts,hair,hair,body_parts
+hammer,hammer,household,hammer,hammer,household
+hand,hånd,body_parts,hand,hand,body_parts
+happy,glad,descriptive_words,happy,happy,descriptive_words
+hard,hard,descriptive_words,hard,hard,descriptive_words
+hat,lue,clothing,cap,hat,clothing
+have,ha,action_words,have,have,action_words
+have,ha,helping_verbs,have,have,action_words
+have,har,helping_verbs,have,have,action_words
+head,hode,body_parts,head,head,body_parts
+hear,høre,action_words,hear,hear,action_words
+hello,hallo,games_routines,Hello,hello,games_routines
+help,hjelpe,action_words,help,help,action_words
+hi,hei,games_routines,hey there,hi,games_routines
+high chair,barnestol,furniture_rooms,Highchair,high chair,furniture_rooms
+hit,slå,action_words,switch,hit,action_words
+hit,treffe,action_words,hit,hit,action_words
+horse,hest,animals,horse,horse,animals
+hot,varm,descriptive_words,hot,hot,descriptive_words
+house,hus,places,house,house,outside
+how,hvordan,question_words,how to,how,question_words
+hug,klemme,action_words,clamp,hug,action_words
+hungry,sulten,descriptive_words,hungry,hungry,descriptive_words
+hurry,forte seg,action_words,hurry,hurry,action_words
+hurry,skynde seg,action_words,hasten,hurry,action_words
+hurt (description),vondt,descriptive_words,ache,hurt,descriptive_words
+ice cream,is,food_drink,ice,ice cream,food_drink
+in,i,locations,in,in,prepositions
+inside,inn,locations,in,inside,prepositions
+inside,inne,locations,in,inside,prepositions
+inside,inni,locations,Occasionally,inside,prepositions
+it,det,quantifiers,it,it,pronouns
+jacket,jakke,clothing,jacket,jacket,clothing
+jam,syltetøy,food_drink,jam,jam,food_drink
+juice,juice,food_drink,juice,juice,food_drink
+juice,saft,food_drink,squash,juice,food_drink
+jump,hoppe,action_words,jump,jump,action_words
+key,nøkler,household,Keys,key,household
+kick,sparke,action_words,Kick,kick,action_words
+kiss,kysse,action_words,kiss,kiss,action_words
+kitchen,kjøkken,furniture_rooms,kitchen,kitchen,furniture_rooms
+kitty,kattunge,animals,kitten,kitten,animals
+knee,kne,body_parts,knee,knee,body_parts
+lady,dame,people,lady,lady,people
+lamb,lam,animals,lamb,lamb,animals
+lamp,lampe,household,lamp,lamp,household
+later,senere,time_words,later on,later,time_words
+leg,bein,body_parts,bone,leg,body_parts
+light (object),lys,household,light,light,household
+like,like,action_words,equally,like,action_words
+lion,løve,animals,lion,lion,animals
+little (description),liten,descriptive_words,small,little,descriptive_words
+living room,stue,furniture_rooms,living room,living room,furniture_rooms
+look,se på,action_words,look at,look,action_words
+love,elske,action_words,making love,love,action_words
+love,være glad i,action_words,be fond of,love,action_words
+lunch,lunsj,games_routines,lunch,lunch,games_routines
+man,mann,people,husband,man,people
+meat,kjøtt,food_drink,meat,meat,food_drink
+medicine,medisin,household,medicine,medicine,household
+meow,mjau,sounds,meow,meow,sounds
+milk,melk,food_drink,milk,milk,food_drink
+mommy,mamma/mor,people,mom / mother,mummy,people
+money,penger,household,money,money,household
+monkey,apekatt,animals,monkey,monkey,animals
+moo,møø,sounds,Need we say,moo,sounds
+moon,måne,outside,moon,moon,outside
+more,mer,quantifiers,more,more,prepositions
+morning,formiddag,time_words,morning,morning,time_words
+morning,morgen,time_words,morning,morning,time_words
+motorcycle,motorsykkel,vehicles,motorcycle,motor-bike,vehicles
+mouse,mus,animals,mouse,mouse,animals
+mouth,munn,body_parts,mouth,mouth,body_parts
+nap,sovetid,games_routines,sleeping time,nap,games_routines
+naughty,slem,descriptive_words,naughty,naughty,descriptive_words
+necklace,halskjede,clothing,Necklace,necklace,clothing
+nice,snill,descriptive_words,kind,nice,descriptive_words
+night,natt,time_words,night,night,time_words
+no,nei,games_routines,no,no,games_routines
+none,ingen,quantifiers,no one,none,prepositions
+nose,nese,body_parts,nose,nose,body_parts
+not,ikke (amount),quantifiers,do not,not,prepositions
+now,nå,time_words,by now,now,time_words
+old,gammel,descriptive_words,old,old,descriptive_words
+on,på,locations,on the,on,prepositions
+open (action),åpne,action_words,open up,open,action_words
+orange (food),appelsin,food_drink,orange,orange,food_drink
+other,andre,quantifiers,other,other,prepositions
+ouch,au,sounds,sheep,ouch,sounds
+out,ut,locations,out,out,prepositions
+outside,ut,places,out,outside,outside
+outside,ute (location),locations,out,outside,outside
+outside,utenfor,locations,outside,outside,outside
+outside,utenpå,locations,surface,outside,outside
+owl,ugle,animals,owl,owl,animals
+pacifier,smokk,clothing,pacifier,dummy,household
+pajamas,pysjamas,clothing,pajamas,pyjamas,clothing
+pants,bukse,clothing,pants,trousers,clothing
+paper,papir,household,paper,paper,household
+park,park,places,park,park,outside
+party,fest,places,fest,party,outside
+pasta,pasta,food_drink,pasta,pasta / spaghetti,food_drink
+pasta,spagetti,food_drink,spaghetti,pasta / spaghetti,food_drink
+pattycake,klappe kake,games_routines,pat cake,pat-a-cake,games_routines
+peas,erter,food_drink,peas,peas,food_drink
+peekaboo,Borte! (lek hvor ansikt gjemmes og plutselig vises),games_routines,Gone! (Play where face hidden and suddenly appears),peekaboo,games_routines
+pen,penn,toys,pen,pen,toys
+penguin,pingvin,animals,Penguin,penguin,animals
+people,folk,people,people,people,people
+person,mennesker,people,human beings,person,people
+picture,bilde,household,picture,picture,household
+pig,gris,animals,pig,pig,animals
+pillow,pute,household,pillow,pillow,household
+pizza,pizza,food_drink,pizza,pizza,food_drink
+plant,plante,household,plant,plant,household
+plate,fat,household,barrel,plate,household
+plate,tallerken,household,plate,plate,household
+play,leke (action),action_words,play,play,action_words
+play,spille,action_words,play,play,action_words
+play pen,lekegrind,furniture_rooms,playpen,play pen,furniture_rooms
+please,vær så snill,games_routines,por favor,please,games_routines
+police,politi,people,police,policeman,people
+pony,ponni,animals,pony,pony,animals
+pool,badebasseng,outside,swimming pool,pool,outside
+pool,svømmehall,places,svømmehall,pool,outside
+potty,potte,furniture_rooms,Potty,potty,furniture_rooms
+pretty,pen,descriptive_words,pretty,pretty,descriptive_words
+puppy,valp,animals,Puppy,puppy,animals
+push,dytte,action_words,shove,push,action_words
+put,legge,action_words,put,put,action_words
+put,putte,action_words,put,put,action_words
+quack quack,gakk gakk,sounds,gakk gakk,quack,sounds
+radio,radio,household,radio,radio,household
+rain,regn,outside,rain,rain,outside
+read,lese,action_words,read,read,action_words
+red,rød,descriptive_words,red,red,descriptive_words
+refrigerator,kjøleskap,furniture_rooms,refrigerator,refrigerator / fridge,furniture_rooms
+ride,ri,action_words,ri,ride,action_words
+rocking chair,gyngestol,furniture_rooms,rocking chair,rocking chair,furniture_rooms
+run,løpe,action_words,run,run,action_words
+same,samme,quantifiers,same,same,prepositions
+say,si,action_words,say,say,action_words
+scared,redd,descriptive_words,afraid,scared,descriptive_words
+school,skole,places,school,school,outside
+scissors,saks,household,scissors,scissors,household
+see,se,action_words,see,see,action_words
+sheep,sau,animals,sheep,sheep,animals
+shh,hysj,games_routines,hush,shh / hush / shush,games_routines
+shirt,skjorte,clothing,shirt,shirt,clothing
+shoe,sko,clothing,shoe,shoe,clothing
+shorts,shorts,clothing,shorts,shorts,clothing
+show,vise,action_words,view,show,action_words
+sick,syk,descriptive_words,sick,sick,descriptive_words
+sing,synge,action_words,sing,sing,action_words
+sink,vask,furniture_rooms,wash,sink,furniture_rooms
+sister,søster,people,sister,sister,people
+sky,himmel,outside,heaven,sky,outside
+sleep,sove,action_words,sleep,sleep,action_words
+sleepy,søvnig,descriptive_words,sleepy,sleepy,descriptive_words
+slide (object),sklie,outside,slide,slide,outside
+smile,smile,action_words,smile,smile,action_words
+snow,snø,outside,snow,snow,outside
+soap,såpe,household,soap,soap,household
+sock,sokker,clothing,socks,sock,clothing
+splash,plaske,action_words,splash,splash,action_words
+spoon,skje,household,spoon,spoon,household
+squirrel,ekorn,animals,Squirrel,squirrel,animals
+stairs,trapp,furniture_rooms,staircase,stairs,furniture_rooms
+star,stjerner,outside,stars,star,outside
+stop,stoppe,action_words,stop,stop,action_words
+store,butikk,places,shop,shop,outside
+stove,komfyr,furniture_rooms,stove,cooker / stove / oven,furniture_rooms
+stroller,barnevogn,vehicles,stroller,pushchair / buggy,vehicles
+sun,sol,outside,sun,sun,outside
+sweater,genser,clothing,sweater,jumper / sweater,clothing
+swim,svømme,action_words,swim,swim,action_words
+swing (object),huske (object),outside,remember,swing,outside
+table,bord,furniture_rooms,table,table,furniture_rooms
+take,ta,action_words,take,take,action_words
+tea,te,food_drink,tea,tea,food_drink
+tea,te,food_drink,tea,tea,games_routines
+teacher,lærer,people,teacher,teacher,people
+teddybear,(leke)bamse,animals,(Play) teddy bear,teddy bear,toys
+telephone,telefon,household,phone,telephone,household
+thank you,takk,games_routines,thank you,thank you,games_routines
+that,at,connecting_words,that,that,pronouns
+that,det,pronouns,it,that,pronouns
+there,der,locations,there,there,prepositions
+thirsty,tørst,descriptive_words,thirst,thirsty,descriptive_words
+this,denne,pronouns,this,this,pronouns
+this,dette,pronouns,this,this,pronouns
+throw,kaste,action_words,throw,throw,action_words
+tickle,kile,action_words,wedge,tickle,action_words
+tiger,tiger,animals,tiger,tiger,animals
+tired,trøtt,descriptive_words,sleepy,tired,descriptive_words
+toast,ristet brød,food_drink,toast,toast,food_drink
+today,i dag,time_words,present day,today,time_words
+toe,tå,body_parts,toe,toe,body_parts
+tomorrow,i morgen,time_words,tomorrow,tomorrow,time_words
+tongue,tunge,body_parts,tongue,tongue,body_parts
+tonight,i kveld,time_words,tonight,tonight,time_words
+tooth,tenner,body_parts,teeth,tooth,body_parts
+toothbrush,tannbørste,household,toothbrush,toothbrush,household
+towel,håndkle,household,towel,towel,household
+toy (object),leke (object),toys,play,toy,toys
+train,tog,vehicles,train,train,vehicles
+trash,søppel,household,trash,rubbish,household
+tree,tre,outside,three,tree,outside
+truck,lastebil,vehicles,truck,lorry / truck,vehicles
+tummy,mage,body_parts,stomach,tummy,body_parts
+turtle,skilpadde,animals,tortoise,turtle,animals
+tv,TV,furniture_rooms,Television,TV / television,furniture_rooms
+uncle,onkel,people,Uncle,uncle,people
+under,under,locations,under,under,prepositions
+up,opp,locations,up,up,prepositions
+up,oppe,locations,up,up,prepositions
+vacuum,støvsuger,household,vacuum cleaner,hoover / vacuum,household
+vroom,brrr (bil-lyd),sounds,brr (car audio),vroom,sounds
+wait,vent,games_routines,hold it,wait,games_routines
+wait,vente,action_words,wait,wait,games_routines
+walk,gå,action_words,go,walk,action_words
+wanna,vil,games_routines,want to,want to,games_routines
+wash,vaske,action_words,wash,wash,action_words
+watch (action),holde øye med,action_words,keep an eye on,watch,action_words
+water (beverage),vann (beverage),food_drink,water,water,food_drink
+water (not beverage),vann (not beverage),outside,water,water,outside
+wet (description),våt,descriptive_words,wet,wet,descriptive_words
+what,hva,question_words,what,what,question_words
+when (question),når,question_words,what time,when,question_words
+where (question),hvor,question_words,where,where,question_words
+who,hvem,question_words,who,who,question_words
+why,hvorfor,question_words,how come,why,question_words
+window,vindu,furniture_rooms,window,window,furniture_rooms
+woof woof,voff voff,sounds,voff voff,woof,sounds
+work (place),jobb,places,job,work,outside
+write,skrive,action_words,write,write,action_words
+yellow,gul,descriptive_words,yellow,yellow,descriptive_words
+yes,ja,games_routines,yes,yes,games_routines
+yum yum,nam - nam,sounds,nam - nam,yum,sounds
+zipper,glidelås,clothing,zipper,zip,clothing
+zoo,dyrehage,places,zoo,zoo,outside

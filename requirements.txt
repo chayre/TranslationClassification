@@ -1,7 +1,13 @@
-# CDI Semantic Similarity — dependencies
-# Install with:  pip install -r requirements.txt
+# Use install.py instead of pip install -r requirements.txt directly.
+# This file documents core dependencies for reference only.
+# Optional model dependencies (fastText) are handled by install.py.
+#
+#   python install.py              # core only
+#   python install.py --fasttext   # core + fastText
 
-sentence-transformers>=2.7.0   # LaBSE model + HuggingFace integration
-torch>=2.0.0                   # PyTorch backend (CPU build is fine)
+sentence-transformers>=2.7.0
+torch>=2.0.0
 numpy>=1.24.0
-openpyxl>=3.1.0                # Excel file creation (used by top10.py)
+openpyxl>=3.1.0
+anthropic>=0.20.0
+gensim>=4.3.0

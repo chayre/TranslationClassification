@@ -1,0 +1,407 @@
+uni_lemma,norwegian_word,norwegian_category,norwegian_gloss,english_word,english_category,polish_word,polish_category,polish_gloss
+airplane,fly,vehicles,plane,aeroplane / plane,vehicles,placeholder,placeholder,placeholder
+all,alle,quantifiers,all of them,all,prepositions,placeholder,placeholder,placeholder
+all gone,borte,descriptive_words,away,all gone,descriptive_words,placeholder,placeholder,placeholder
+animal,dyr,animals,animals,animal,animals,placeholder,placeholder,placeholder
+another,en annen,quantifiers,another one,another,prepositions,placeholder,placeholder,placeholder
+apple,eple,food_drink,apple,apple,food_drink,placeholder,placeholder,placeholder
+arm,arm,body_parts,arm,arm,body_parts,placeholder,placeholder,placeholder
+aunt,tante,people,Aunt,aunt,people,placeholder,placeholder,placeholder
+away,bort,locations,away,away,prepositions,placeholder,placeholder,placeholder
+away,borte,locations,away,away,prepositions,placeholder,placeholder,placeholder
+away,vekk,locations,away,away,prepositions,placeholder,placeholder,placeholder
+baa baa,bææ,sounds,bææ,baa baa,sounds,placeholder,placeholder,placeholder
+baby,baby,people,baby,baby,people,placeholder,placeholder,placeholder
+bad,dårlig,descriptive_words,bad,bad,descriptive_words,placeholder,placeholder,placeholder
+bad,frekk,descriptive_words,rude,bad,descriptive_words,placeholder,placeholder,placeholder
+ball,ball,toys,prom,ball,toys,placeholder,placeholder,placeholder
+balloon,ballong,toys,balloon,balloon,toys,placeholder,placeholder,placeholder
+banana,banan,food_drink,banana,banana,food_drink,placeholder,placeholder,placeholder
+bath,bade,games_routines,bathing,bath,games_routines,placeholder,placeholder,placeholder
+bathroom,bad,furniture_rooms,bathroom,bathroom,furniture_rooms,placeholder,placeholder,placeholder
+bathtub,badekar,furniture_rooms,bathtub,bath / bathtub,clothing,placeholder,placeholder,placeholder
+beach,strand,places,beach,beach,outside,placeholder,placeholder,placeholder
+bear,bjørn,animals,Bears,bear,animals,placeholder,placeholder,placeholder
+bed,seng,furniture_rooms,bed,bed,furniture_rooms,placeholder,placeholder,placeholder
+bedroom,soverom,furniture_rooms,bedroom,bedroom,furniture_rooms,placeholder,placeholder,placeholder
+belly button,navle,body_parts,belly button,belly button / tummy button,body_parts,placeholder,placeholder,placeholder
+bib,smekke,clothing,bib,bib,clothing,placeholder,placeholder,placeholder
+bicycle,sykkel,vehicles,bicycle,bicycle / bike,vehicles,placeholder,placeholder,placeholder
+big,stor,descriptive_words,large,big,descriptive_words,placeholder,placeholder,placeholder
+bird,fugl,animals,bird,bird,animals,placeholder,placeholder,placeholder
+bite,bite,action_words,bite,bite,action_words,placeholder,placeholder,placeholder
+blanket,dyne,household,duvet,blanket,household,placeholder,placeholder,placeholder
+blanket,teppe,household,blanket,blanket,household,placeholder,placeholder,placeholder
+blocks,klosser,toys,bricks,block / brick,toys,placeholder,placeholder,placeholder
+blocks,lego,toys,Lego,block / brick,toys,placeholder,placeholder,placeholder
+blow,blåse,action_words,blow,blow,action_words,placeholder,placeholder,placeholder
+blue,blå,descriptive_words,blue,blue,descriptive_words,placeholder,placeholder,placeholder
+boat,båt,vehicles,boat,boat,vehicles,placeholder,placeholder,placeholder
+book,bok,toys,book,book,toys,placeholder,placeholder,placeholder
+bottle,flaske,household,bottle,bottle,household,placeholder,placeholder,placeholder
+bowl,skål,household,Cheers,bowl,household,placeholder,placeholder,placeholder
+box,boks,household,box,box,household,placeholder,placeholder,placeholder
+box,eske,household,box,box,household,placeholder,placeholder,placeholder
+box,kasse,household,Checkout,box,household,placeholder,placeholder,placeholder
+boy,gutt,people,boy,boy,people,placeholder,placeholder,placeholder
+bread,brød,food_drink,loaf of bread,bread,food_drink,placeholder,placeholder,placeholder
+break,ødelegge,action_words,tear up,break,action_words,placeholder,placeholder,placeholder
+breakfast,frokost,games_routines,breakfast,breakfast,games_routines,placeholder,placeholder,placeholder
+broken,ødelagt,descriptive_words,destroyed,broken,descriptive_words,placeholder,placeholder,placeholder
+broom,kost,household,costly,broom,household,placeholder,placeholder,placeholder
+brother,bror,people,brother,brother,people,placeholder,placeholder,placeholder
+brush (object),børste,household,brush,brush,household,placeholder,placeholder,placeholder
+bubbles,såpebobler,toys,soap bubbles,bubble,toys,placeholder,placeholder,placeholder
+bucket,bøtte,household,bucket,bucket,outside,placeholder,placeholder,placeholder
+bunny,kanin,animals,rabbit,bunny / rabbit,animals,placeholder,placeholder,placeholder
+bus,buss,vehicles,coach,bus,vehicles,placeholder,placeholder,placeholder
+butter,smør,food_drink,butter,butter,food_drink,placeholder,placeholder,placeholder
+butterfly,sommerfugl,animals,butterfly,butterfly,animals,placeholder,placeholder,placeholder
+button,knapper,clothing,Buttons,button,clothing,placeholder,placeholder,placeholder
+bye,ha det,games_routines,bye bye,bye bye,games_routines,placeholder,placeholder,placeholder
+cake,kake,food_drink,cake,cake,food_drink,placeholder,placeholder,placeholder
+call,ringe,games_routines,call,call,action_words,placeholder,placeholder,placeholder
+car,bil,vehicles,car,car,vehicles,placeholder,placeholder,placeholder
+careful,forsiktig,descriptive_words,careful,careful,descriptive_words,placeholder,placeholder,placeholder
+carrot,gulrot,food_drink,carrot,carrot,food_drink,placeholder,placeholder,placeholder
+carry,bære,action_words,carry,carry,action_words,placeholder,placeholder,placeholder
+cat,katt,animals,cat,cat,animals,placeholder,placeholder,placeholder
+catch,fange,action_words,catch,catch,action_words,placeholder,placeholder,placeholder
+cereal,frokostblanding,food_drink,cereal,cereal,food_drink,placeholder,placeholder,placeholder
+chair,stol,furniture_rooms,chair,chair,furniture_rooms,placeholder,placeholder,placeholder
+cheek,kinn,body_parts,cheek,cheek,body_parts,placeholder,placeholder,placeholder
+cheese,ost,food_drink,cheese,cheese,food_drink,placeholder,placeholder,placeholder
+chicken (animal),kylling (animal),animals,chicken,chicken,animals,placeholder,placeholder,placeholder
+chicken (food),kylling (food),food_drink,chicken,chicken,food_drink,placeholder,placeholder,placeholder
+child,barn,people,children,child,people,placeholder,placeholder,placeholder
+choo choo,tøff-tøff,sounds,tough-tough,choo choo,sounds,placeholder,placeholder,placeholder
+church,kirke,places,church,church,outside,placeholder,placeholder,placeholder
+clean (action),rydde,action_words,clear,clean,action_words,placeholder,placeholder,placeholder
+clean (description),ren,descriptive_words,clean,clean,descriptive_words,placeholder,placeholder,placeholder
+clock,klokke,household,clock,clock,household,placeholder,placeholder,placeholder
+close,lukke,action_words,close,shut / close,action_words,placeholder,placeholder,placeholder
+coat,regntøy,clothing,rainwear,coat,clothing,placeholder,placeholder,placeholder
+cockadoodledoo,kykeliky,sounds,kykeliky,cockadoodledoo,sounds,placeholder,placeholder,placeholder
+coffee,kaffe,food_drink,coffee,coffee,food_drink,placeholder,placeholder,placeholder
+cold,kald,descriptive_words,cold,cold,descriptive_words,placeholder,placeholder,placeholder
+comb (object),kam,household,comb,comb,household,placeholder,placeholder,placeholder
+couch,sofa,furniture_rooms,sofa,settee / sofa,furniture_rooms,placeholder,placeholder,placeholder
+cow,ku,animals,cow,cow,animals,placeholder,placeholder,placeholder
+cry,gråte,action_words,cry,cry,action_words,placeholder,placeholder,placeholder
+cup,kopp,household,cup,cup,household,placeholder,placeholder,placeholder
+cup,kopp,household,cup,mug,household,placeholder,placeholder,placeholder
+cut,skjære,action_words,Magpie,cut,action_words,placeholder,placeholder,placeholder
+daddy,pappa/far,people,dad / father,daddy,people,placeholder,placeholder,placeholder
+dance,danse,action_words,dance,dance,action_words,placeholder,placeholder,placeholder
+dark,mørkt,descriptive_words,dark,dark,descriptive_words,placeholder,placeholder,placeholder
+day,dag,time_words,day,day,time_words,placeholder,placeholder,placeholder
+deer,reinsdyr,animals,reindeer,deer,animals,placeholder,placeholder,placeholder
+diaper,bleie,clothing,Diaper,nappy,clothing,placeholder,placeholder,placeholder
+dinner,middag,games_routines,dinner,dinner,games_routines,placeholder,placeholder,placeholder
+dirty,skitten,descriptive_words,filthy,dirty,descriptive_words,placeholder,placeholder,placeholder
+doctor,doktor,people,Doctor,doctor,people,placeholder,placeholder,placeholder
+dog,hund,animals,dog,dog,animals,placeholder,placeholder,placeholder
+doll,dukke,toys,baby doll,doll,toys,placeholder,placeholder,placeholder
+don't,ikke (routine),games_routines,do not,don't,games_routines,placeholder,placeholder,placeholder
+donkey,esel,animals,ass,donkey,animals,placeholder,placeholder,placeholder
+door,dør,furniture_rooms,dies,door,furniture_rooms,placeholder,placeholder,placeholder
+down,ned,locations,down,down,prepositions,placeholder,placeholder,placeholder
+down,nede,locations,down,down,prepositions,placeholder,placeholder,placeholder
+down,nedi,locations,down,down,prepositions,placeholder,placeholder,placeholder
+draw,tegne,action_words,draw,draw,action_words,placeholder,placeholder,placeholder
+drawer,skuff,furniture_rooms,Tray,drawer,furniture_rooms,placeholder,placeholder,placeholder
+dress (object),kjole,clothing,dress,dress,clothing,placeholder,placeholder,placeholder
+drink (action),drikke (action),action_words,drink,drink,action_words,placeholder,placeholder,placeholder
+drink (beverage),drikke (beverage),food_drink,drink,drink,food_drink,placeholder,placeholder,placeholder
+drive,kjøre,action_words,driving,drive,action_words,placeholder,placeholder,placeholder
+dry (description),tørr,descriptive_words,dry,dry,descriptive_words,placeholder,placeholder,placeholder
+duck,and,animals,duck,duck,animals,placeholder,placeholder,placeholder
+ear,øre,body_parts,ear,ear,body_parts,placeholder,placeholder,placeholder
+eat,spise,action_words,eat,eat,action_words,placeholder,placeholder,placeholder
+egg,egg,food_drink,eggs,egg,food_drink,placeholder,placeholder,placeholder
+elephant,elefant,animals,elephant,elephant,animals,placeholder,placeholder,placeholder
+empty,tom,descriptive_words,empty,empty,descriptive_words,placeholder,placeholder,placeholder
+eye,øye,body_parts,eye,eye,body_parts,placeholder,placeholder,placeholder
+face,ansikt,body_parts,face,face,body_parts,placeholder,placeholder,placeholder
+fall,falle,action_words,fall,fall,action_words,placeholder,placeholder,placeholder
+fast,fort,descriptive_words,fast,fast,descriptive_words,placeholder,placeholder,placeholder
+feed,mate,action_words,feed,feed,action_words,placeholder,placeholder,placeholder
+find,finne,action_words,find,find,action_words,placeholder,placeholder,placeholder
+fine,fin,descriptive_words,nice,fine,descriptive_words,placeholder,placeholder,placeholder
+finger,finger,body_parts,finger,finger,body_parts,placeholder,placeholder,placeholder
+finish,gjøre seg ferdig,action_words,should finish,finish,action_words,placeholder,placeholder,placeholder
+firetruck,brannbil,vehicles,fire truck,fire engine,vehicles,placeholder,placeholder,placeholder
+fish (animal),fisk (animal),animals,fish,fish,animals,placeholder,placeholder,placeholder
+fish (food),fisk (food),food_drink,fish,fish,food_drink,placeholder,placeholder,placeholder
+flower,blomst,outside,flower,flower,outside,placeholder,placeholder,placeholder
+food,mat,food_drink,food,food,food_drink,placeholder,placeholder,placeholder
+foot,fot,body_parts,foot,foot,body_parts,placeholder,placeholder,placeholder
+fork,gaffel,household,fork,fork,household,placeholder,placeholder,placeholder
+french fries,pommes frites,food_drink,french fries,chips,food_drink,placeholder,placeholder,placeholder
+friend,venn,people,friend,friend,people,placeholder,placeholder,placeholder
+friend,venninne,people,Girlfriend,friend,people,placeholder,placeholder,placeholder
+frog,frosk,animals,frog,frog,animals,placeholder,placeholder,placeholder
+garage,garasje,furniture_rooms,garage,garage,furniture_rooms,placeholder,placeholder,placeholder
+garden,hage,places,garden,garden,outside,placeholder,placeholder,placeholder
+get,få,action_words,get,get,action_words,placeholder,placeholder,placeholder
+get,få,helping_verbs,get,get,action_words,placeholder,placeholder,placeholder
+get,hente,action_words,fetch,get,action_words,placeholder,placeholder,placeholder
+giraffe,sjiraff,animals,giraffe,giraffe,animals,placeholder,placeholder,placeholder
+girl,jente,people,girl,girl,people,placeholder,placeholder,placeholder
+give,gi,action_words,give,give,action_words,placeholder,placeholder,placeholder
+glass,glass,household,glass,glass,household,placeholder,placeholder,placeholder
+glasses,briller,household,glasses,glasses / specs,clothing,placeholder,placeholder,placeholder
+go,dra,action_words,drag,go,action_words,placeholder,placeholder,placeholder
+good,bra,descriptive_words,good,good,descriptive_words,placeholder,placeholder,placeholder
+good,god,descriptive_words,good,good,descriptive_words,placeholder,placeholder,placeholder
+good night,god natt,games_routines,good night,night night,games_routines,placeholder,placeholder,placeholder
+goose,gås,animals,goose,goose,animals,placeholder,placeholder,placeholder
+grandma,bestemor,people,grandmother,grandma,people,placeholder,placeholder,placeholder
+grandma,farmor,people,grandmother,grandma,people,placeholder,placeholder,placeholder
+grandma,mormor,people,Granny,grandma,people,placeholder,placeholder,placeholder
+grandpa,bestefar,people,grandfather,grandpa,people,placeholder,placeholder,placeholder
+grandpa,farfar,people,grandfather,grandpa,people,placeholder,placeholder,placeholder
+grandpa,morfar,people,grandfather,grandpa,people,placeholder,placeholder,placeholder
+green,grønn,descriptive_words,green,green,descriptive_words,placeholder,placeholder,placeholder
+grrr,grr,sounds,grrr,grr,sounds,placeholder,placeholder,placeholder
+hair,hår,body_parts,hair,hair,body_parts,placeholder,placeholder,placeholder
+hammer,hammer,household,hammer,hammer,household,placeholder,placeholder,placeholder
+hand,hånd,body_parts,hand,hand,body_parts,placeholder,placeholder,placeholder
+happy,glad,descriptive_words,happy,happy,descriptive_words,placeholder,placeholder,placeholder
+hard,hard,descriptive_words,hard,hard,descriptive_words,placeholder,placeholder,placeholder
+hat,lue,clothing,cap,hat,clothing,placeholder,placeholder,placeholder
+have,ha,action_words,have,have,action_words,placeholder,placeholder,placeholder
+have,ha,helping_verbs,have,have,action_words,placeholder,placeholder,placeholder
+have,har,helping_verbs,have,have,action_words,placeholder,placeholder,placeholder
+head,hode,body_parts,head,head,body_parts,placeholder,placeholder,placeholder
+hear,høre,action_words,hear,hear,action_words,placeholder,placeholder,placeholder
+hello,hallo,games_routines,Hello,hello,games_routines,placeholder,placeholder,placeholder
+help,hjelpe,action_words,help,help,action_words,placeholder,placeholder,placeholder
+hi,hei,games_routines,hey there,hi,games_routines,placeholder,placeholder,placeholder
+high chair,barnestol,furniture_rooms,Highchair,high chair,furniture_rooms,placeholder,placeholder,placeholder
+hit,slå,action_words,switch,hit,action_words,placeholder,placeholder,placeholder
+hit,treffe,action_words,hit,hit,action_words,placeholder,placeholder,placeholder
+horse,hest,animals,horse,horse,animals,placeholder,placeholder,placeholder
+hot,varm,descriptive_words,hot,hot,descriptive_words,placeholder,placeholder,placeholder
+house,hus,places,house,house,outside,placeholder,placeholder,placeholder
+how,hvordan,question_words,how to,how,question_words,placeholder,placeholder,placeholder
+hug,klemme,action_words,clamp,hug,action_words,placeholder,placeholder,placeholder
+hungry,sulten,descriptive_words,hungry,hungry,descriptive_words,placeholder,placeholder,placeholder
+hurry,forte seg,action_words,hurry,hurry,action_words,placeholder,placeholder,placeholder
+hurry,skynde seg,action_words,hasten,hurry,action_words,placeholder,placeholder,placeholder
+hurt (description),vondt,descriptive_words,ache,hurt,descriptive_words,placeholder,placeholder,placeholder
+ice cream,is,food_drink,ice,ice cream,food_drink,placeholder,placeholder,placeholder
+in,i,locations,in,in,prepositions,placeholder,placeholder,placeholder
+inside,inn,locations,in,inside,prepositions,placeholder,placeholder,placeholder
+inside,inne,locations,in,inside,prepositions,placeholder,placeholder,placeholder
+inside,inni,locations,Occasionally,inside,prepositions,placeholder,placeholder,placeholder
+it,det,quantifiers,it,it,pronouns,placeholder,placeholder,placeholder
+jacket,jakke,clothing,jacket,jacket,clothing,placeholder,placeholder,placeholder
+jam,syltetøy,food_drink,jam,jam,food_drink,placeholder,placeholder,placeholder
+juice,juice,food_drink,juice,juice,food_drink,placeholder,placeholder,placeholder
+juice,saft,food_drink,squash,juice,food_drink,placeholder,placeholder,placeholder
+jump,hoppe,action_words,jump,jump,action_words,placeholder,placeholder,placeholder
+key,nøkler,household,Keys,key,household,placeholder,placeholder,placeholder
+kick,sparke,action_words,Kick,kick,action_words,placeholder,placeholder,placeholder
+kiss,kysse,action_words,kiss,kiss,action_words,placeholder,placeholder,placeholder
+kitchen,kjøkken,furniture_rooms,kitchen,kitchen,furniture_rooms,placeholder,placeholder,placeholder
+kitty,kattunge,animals,kitten,kitten,animals,placeholder,placeholder,placeholder
+knee,kne,body_parts,knee,knee,body_parts,placeholder,placeholder,placeholder
+lady,dame,people,lady,lady,people,placeholder,placeholder,placeholder
+lamb,lam,animals,lamb,lamb,animals,placeholder,placeholder,placeholder
+lamp,lampe,household,lamp,lamp,household,placeholder,placeholder,placeholder
+later,senere,time_words,later on,later,time_words,placeholder,placeholder,placeholder
+leg,bein,body_parts,bone,leg,body_parts,placeholder,placeholder,placeholder
+light (object),lys,household,light,light,household,placeholder,placeholder,placeholder
+like,like,action_words,equally,like,action_words,placeholder,placeholder,placeholder
+lion,løve,animals,lion,lion,animals,placeholder,placeholder,placeholder
+little (description),liten,descriptive_words,small,little,descriptive_words,placeholder,placeholder,placeholder
+living room,stue,furniture_rooms,living room,living room,furniture_rooms,placeholder,placeholder,placeholder
+look,se på,action_words,look at,look,action_words,placeholder,placeholder,placeholder
+love,elske,action_words,making love,love,action_words,placeholder,placeholder,placeholder
+love,være glad i,action_words,be fond of,love,action_words,placeholder,placeholder,placeholder
+lunch,lunsj,games_routines,lunch,lunch,games_routines,placeholder,placeholder,placeholder
+man,mann,people,husband,man,people,placeholder,placeholder,placeholder
+meat,kjøtt,food_drink,meat,meat,food_drink,placeholder,placeholder,placeholder
+medicine,medisin,household,medicine,medicine,household,placeholder,placeholder,placeholder
+meow,mjau,sounds,meow,meow,sounds,placeholder,placeholder,placeholder
+milk,melk,food_drink,milk,milk,food_drink,placeholder,placeholder,placeholder
+mommy,mamma/mor,people,mom / mother,mummy,people,placeholder,placeholder,placeholder
+money,penger,household,money,money,household,placeholder,placeholder,placeholder
+monkey,apekatt,animals,monkey,monkey,animals,placeholder,placeholder,placeholder
+moo,møø,sounds,Need we say,moo,sounds,placeholder,placeholder,placeholder
+moon,måne,outside,moon,moon,outside,placeholder,placeholder,placeholder
+more,mer,quantifiers,more,more,prepositions,placeholder,placeholder,placeholder
+morning,formiddag,time_words,morning,morning,time_words,placeholder,placeholder,placeholder
+morning,morgen,time_words,morning,morning,time_words,placeholder,placeholder,placeholder
+motorcycle,motorsykkel,vehicles,motorcycle,motor-bike,vehicles,placeholder,placeholder,placeholder
+mouse,mus,animals,mouse,mouse,animals,placeholder,placeholder,placeholder
+mouth,munn,body_parts,mouth,mouth,body_parts,placeholder,placeholder,placeholder
+nap,sovetid,games_routines,sleeping time,nap,games_routines,placeholder,placeholder,placeholder
+naughty,slem,descriptive_words,naughty,naughty,descriptive_words,placeholder,placeholder,placeholder
+necklace,halskjede,clothing,Necklace,necklace,clothing,placeholder,placeholder,placeholder
+nice,snill,descriptive_words,kind,nice,descriptive_words,placeholder,placeholder,placeholder
+night,natt,time_words,night,night,time_words,placeholder,placeholder,placeholder
+no,nei,games_routines,no,no,games_routines,placeholder,placeholder,placeholder
+none,ingen,quantifiers,no one,none,prepositions,placeholder,placeholder,placeholder
+nose,nese,body_parts,nose,nose,body_parts,placeholder,placeholder,placeholder
+not,ikke (amount),quantifiers,do not,not,prepositions,placeholder,placeholder,placeholder
+now,nå,time_words,by now,now,time_words,placeholder,placeholder,placeholder
+old,gammel,descriptive_words,old,old,descriptive_words,placeholder,placeholder,placeholder
+on,på,locations,on the,on,prepositions,placeholder,placeholder,placeholder
+open (action),åpne,action_words,open up,open,action_words,placeholder,placeholder,placeholder
+orange (food),appelsin,food_drink,orange,orange,food_drink,placeholder,placeholder,placeholder
+other,andre,quantifiers,other,other,prepositions,placeholder,placeholder,placeholder
+ouch,au,sounds,sheep,ouch,sounds,placeholder,placeholder,placeholder
+out,ut,locations,out,out,prepositions,placeholder,placeholder,placeholder
+outside,ut,places,out,outside,outside,placeholder,placeholder,placeholder
+outside,ute (location),locations,out,outside,outside,placeholder,placeholder,placeholder
+outside,utenfor,locations,outside,outside,outside,placeholder,placeholder,placeholder
+outside,utenpå,locations,surface,outside,outside,placeholder,placeholder,placeholder
+owl,ugle,animals,owl,owl,animals,placeholder,placeholder,placeholder
+pacifier,smokk,clothing,pacifier,dummy,household,placeholder,placeholder,placeholder
+pajamas,pysjamas,clothing,pajamas,pyjamas,clothing,placeholder,placeholder,placeholder
+pants,bukse,clothing,pants,trousers,clothing,placeholder,placeholder,placeholder
+paper,papir,household,paper,paper,household,placeholder,placeholder,placeholder
+park,park,places,park,park,outside,placeholder,placeholder,placeholder
+party,fest,places,fest,party,outside,placeholder,placeholder,placeholder
+pasta,pasta,food_drink,pasta,pasta / spaghetti,food_drink,placeholder,placeholder,placeholder
+pasta,spagetti,food_drink,spaghetti,pasta / spaghetti,food_drink,placeholder,placeholder,placeholder
+pattycake,klappe kake,games_routines,pat cake,pat-a-cake,games_routines,placeholder,placeholder,placeholder
+peas,erter,food_drink,peas,peas,food_drink,placeholder,placeholder,placeholder
+peekaboo,Borte! (lek hvor ansikt gjemmes og plutselig vises),games_routines,Gone! (Play where face hidden and suddenly appears),peekaboo,games_routines,placeholder,placeholder,placeholder
+pen,penn,toys,pen,pen,toys,placeholder,placeholder,placeholder
+penguin,pingvin,animals,Penguin,penguin,animals,placeholder,placeholder,placeholder
+people,folk,people,people,people,people,placeholder,placeholder,placeholder
+person,mennesker,people,human beings,person,people,placeholder,placeholder,placeholder
+picture,bilde,household,picture,picture,household,placeholder,placeholder,placeholder
+pig,gris,animals,pig,pig,animals,placeholder,placeholder,placeholder
+pillow,pute,household,pillow,pillow,household,placeholder,placeholder,placeholder
+pizza,pizza,food_drink,pizza,pizza,food_drink,placeholder,placeholder,placeholder
+plant,plante,household,plant,plant,household,placeholder,placeholder,placeholder
+plate,fat,household,barrel,plate,household,placeholder,placeholder,placeholder
+plate,tallerken,household,plate,plate,household,placeholder,placeholder,placeholder
+play,leke (action),action_words,play,play,action_words,placeholder,placeholder,placeholder
+play,spille,action_words,play,play,action_words,placeholder,placeholder,placeholder
+play pen,lekegrind,furniture_rooms,playpen,play pen,furniture_rooms,placeholder,placeholder,placeholder
+please,vær så snill,games_routines,por favor,please,games_routines,placeholder,placeholder,placeholder
+police,politi,people,police,policeman,people,placeholder,placeholder,placeholder
+pony,ponni,animals,pony,pony,animals,placeholder,placeholder,placeholder
+pool,badebasseng,outside,swimming pool,pool,outside,placeholder,placeholder,placeholder
+pool,svømmehall,places,svømmehall,pool,outside,placeholder,placeholder,placeholder
+potty,potte,furniture_rooms,Potty,potty,furniture_rooms,placeholder,placeholder,placeholder
+pretty,pen,descriptive_words,pretty,pretty,descriptive_words,placeholder,placeholder,placeholder
+puppy,valp,animals,Puppy,puppy,animals,placeholder,placeholder,placeholder
+push,dytte,action_words,shove,push,action_words,placeholder,placeholder,placeholder
+put,legge,action_words,put,put,action_words,placeholder,placeholder,placeholder
+put,putte,action_words,put,put,action_words,placeholder,placeholder,placeholder
+quack quack,gakk gakk,sounds,gakk gakk,quack,sounds,placeholder,placeholder,placeholder
+radio,radio,household,radio,radio,household,placeholder,placeholder,placeholder
+rain,regn,outside,rain,rain,outside,placeholder,placeholder,placeholder
+read,lese,action_words,read,read,action_words,placeholder,placeholder,placeholder
+red,rød,descriptive_words,red,red,descriptive_words,placeholder,placeholder,placeholder
+refrigerator,kjøleskap,furniture_rooms,refrigerator,refrigerator / fridge,furniture_rooms,placeholder,placeholder,placeholder
+ride,ri,action_words,ri,ride,action_words,placeholder,placeholder,placeholder
+rocking chair,gyngestol,furniture_rooms,rocking chair,rocking chair,furniture_rooms,placeholder,placeholder,placeholder
+run,løpe,action_words,run,run,action_words,placeholder,placeholder,placeholder
+same,samme,quantifiers,same,same,prepositions,placeholder,placeholder,placeholder
+say,si,action_words,say,say,action_words,placeholder,placeholder,placeholder
+scared,redd,descriptive_words,afraid,scared,descriptive_words,placeholder,placeholder,placeholder
+school,skole,places,school,school,outside,placeholder,placeholder,placeholder
+scissors,saks,household,scissors,scissors,household,placeholder,placeholder,placeholder
+see,se,action_words,see,see,action_words,placeholder,placeholder,placeholder
+sheep,sau,animals,sheep,sheep,animals,placeholder,placeholder,placeholder
+shh,hysj,games_routines,hush,shh / hush / shush,games_routines,placeholder,placeholder,placeholder
+shirt,skjorte,clothing,shirt,shirt,clothing,placeholder,placeholder,placeholder
+shoe,sko,clothing,shoe,shoe,clothing,placeholder,placeholder,placeholder
+shorts,shorts,clothing,shorts,shorts,clothing,placeholder,placeholder,placeholder
+show,vise,action_words,view,show,action_words,placeholder,placeholder,placeholder
+sick,syk,descriptive_words,sick,sick,descriptive_words,placeholder,placeholder,placeholder
+sing,synge,action_words,sing,sing,action_words,placeholder,placeholder,placeholder
+sink,vask,furniture_rooms,wash,sink,furniture_rooms,placeholder,placeholder,placeholder
+sister,søster,people,sister,sister,people,placeholder,placeholder,placeholder
+sky,himmel,outside,heaven,sky,outside,placeholder,placeholder,placeholder
+sleep,sove,action_words,sleep,sleep,action_words,placeholder,placeholder,placeholder
+sleepy,søvnig,descriptive_words,sleepy,sleepy,descriptive_words,placeholder,placeholder,placeholder
+slide (object),sklie,outside,slide,slide,outside,placeholder,placeholder,placeholder
+smile,smile,action_words,smile,smile,action_words,placeholder,placeholder,placeholder
+snow,snø,outside,snow,snow,outside,placeholder,placeholder,placeholder
+soap,såpe,household,soap,soap,household,placeholder,placeholder,placeholder
+sock,sokker,clothing,socks,sock,clothing,placeholder,placeholder,placeholder
+splash,plaske,action_words,splash,splash,action_words,placeholder,placeholder,placeholder
+spoon,skje,household,spoon,spoon,household,placeholder,placeholder,placeholder
+squirrel,ekorn,animals,Squirrel,squirrel,animals,placeholder,placeholder,placeholder
+stairs,trapp,furniture_rooms,staircase,stairs,furniture_rooms,placeholder,placeholder,placeholder
+star,stjerner,outside,stars,star,outside,placeholder,placeholder,placeholder
+stop,stoppe,action_words,stop,stop,action_words,placeholder,placeholder,placeholder
+store,butikk,places,shop,shop,outside,placeholder,placeholder,placeholder
+stove,komfyr,furniture_rooms,stove,cooker / stove / oven,furniture_rooms,placeholder,placeholder,placeholder
+stroller,barnevogn,vehicles,stroller,pushchair / buggy,vehicles,placeholder,placeholder,placeholder
+sun,sol,outside,sun,sun,outside,placeholder,placeholder,placeholder
+sweater,genser,clothing,sweater,jumper / sweater,clothing,placeholder,placeholder,placeholder
+swim,svømme,action_words,swim,swim,action_words,placeholder,placeholder,placeholder
+swing (object),huske (object),outside,remember,swing,outside,placeholder,placeholder,placeholder
+table,bord,furniture_rooms,table,table,furniture_rooms,placeholder,placeholder,placeholder
+take,ta,action_words,take,take,action_words,placeholder,placeholder,placeholder
+tea,te,food_drink,tea,tea,food_drink,placeholder,placeholder,placeholder
+tea,te,food_drink,tea,tea,games_routines,placeholder,placeholder,placeholder
+teacher,lærer,people,teacher,teacher,people,placeholder,placeholder,placeholder
+teddybear,(leke)bamse,animals,(Play) teddy bear,teddy bear,toys,placeholder,placeholder,placeholder
+telephone,telefon,household,phone,telephone,household,placeholder,placeholder,placeholder
+thank you,takk,games_routines,thank you,thank you,games_routines,placeholder,placeholder,placeholder
+that,at,connecting_words,that,that,pronouns,placeholder,placeholder,placeholder
+that,det,pronouns,it,that,pronouns,placeholder,placeholder,placeholder
+there,der,locations,there,there,prepositions,placeholder,placeholder,placeholder
+thirsty,tørst,descriptive_words,thirst,thirsty,descriptive_words,placeholder,placeholder,placeholder
+this,denne,pronouns,this,this,pronouns,placeholder,placeholder,placeholder
+this,dette,pronouns,this,this,pronouns,placeholder,placeholder,placeholder
+throw,kaste,action_words,throw,throw,action_words,placeholder,placeholder,placeholder
+tickle,kile,action_words,wedge,tickle,action_words,placeholder,placeholder,placeholder
+tiger,tiger,animals,tiger,tiger,animals,placeholder,placeholder,placeholder
+tired,trøtt,descriptive_words,sleepy,tired,descriptive_words,placeholder,placeholder,placeholder
+toast,ristet brød,food_drink,toast,toast,food_drink,placeholder,placeholder,placeholder
+today,i dag,time_words,present day,today,time_words,placeholder,placeholder,placeholder
+toe,tå,body_parts,toe,toe,body_parts,placeholder,placeholder,placeholder
+tomorrow,i morgen,time_words,tomorrow,tomorrow,time_words,placeholder,placeholder,placeholder
+tongue,tunge,body_parts,tongue,tongue,body_parts,placeholder,placeholder,placeholder
+tonight,i kveld,time_words,tonight,tonight,time_words,placeholder,placeholder,placeholder
+tooth,tenner,body_parts,teeth,tooth,body_parts,placeholder,placeholder,placeholder
+toothbrush,tannbørste,household,toothbrush,toothbrush,household,placeholder,placeholder,placeholder
+towel,håndkle,household,towel,towel,household,placeholder,placeholder,placeholder
+toy (object),leke (object),toys,play,toy,toys,placeholder,placeholder,placeholder
+train,tog,vehicles,train,train,vehicles,placeholder,placeholder,placeholder
+trash,søppel,household,trash,rubbish,household,placeholder,placeholder,placeholder
+tree,tre,outside,three,tree,outside,placeholder,placeholder,placeholder
+truck,lastebil,vehicles,truck,lorry / truck,vehicles,placeholder,placeholder,placeholder
+tummy,mage,body_parts,stomach,tummy,body_parts,placeholder,placeholder,placeholder
+turtle,skilpadde,animals,tortoise,turtle,animals,placeholder,placeholder,placeholder
+tv,TV,furniture_rooms,Television,TV / television,furniture_rooms,placeholder,placeholder,placeholder
+uncle,onkel,people,Uncle,uncle,people,placeholder,placeholder,placeholder
+under,under,locations,under,under,prepositions,placeholder,placeholder,placeholder
+up,opp,locations,up,up,prepositions,placeholder,placeholder,placeholder
+up,oppe,locations,up,up,prepositions,placeholder,placeholder,placeholder
+vacuum,støvsuger,household,vacuum cleaner,hoover / vacuum,household,placeholder,placeholder,placeholder
+vroom,brrr (bil-lyd),sounds,brr (car audio),vroom,sounds,placeholder,placeholder,placeholder
+wait,vent,games_routines,hold it,wait,games_routines,placeholder,placeholder,placeholder
+wait,vente,action_words,wait,wait,games_routines,placeholder,placeholder,placeholder
+walk,gå,action_words,go,walk,action_words,placeholder,placeholder,placeholder
+wanna,vil,games_routines,want to,want to,games_routines,placeholder,placeholder,placeholder
+wash,vaske,action_words,wash,wash,action_words,placeholder,placeholder,placeholder
+watch (action),holde øye med,action_words,keep an eye on,watch,action_words,placeholder,placeholder,placeholder
+water (beverage),vann (beverage),food_drink,water,water,food_drink,placeholder,placeholder,placeholder
+water (not beverage),vann (not beverage),outside,water,water,outside,placeholder,placeholder,placeholder
+wet (description),våt,descriptive_words,wet,wet,descriptive_words,placeholder,placeholder,placeholder
+what,hva,question_words,what,what,question_words,placeholder,placeholder,placeholder
+when (question),når,question_words,what time,when,question_words,placeholder,placeholder,placeholder
+where (question),hvor,question_words,where,where,question_words,placeholder,placeholder,placeholder
+who,hvem,question_words,who,who,question_words,placeholder,placeholder,placeholder
+why,hvorfor,question_words,how come,why,question_words,placeholder,placeholder,placeholder
+window,vindu,furniture_rooms,window,window,furniture_rooms,placeholder,placeholder,placeholder
+woof woof,voff voff,sounds,voff voff,woof,sounds,placeholder,placeholder,placeholder
+work (place),jobb,places,job,work,outside,placeholder,placeholder,placeholder
+write,skrive,action_words,write,write,action_words,placeholder,placeholder,placeholder
+yellow,gul,descriptive_words,yellow,yellow,descriptive_words,placeholder,placeholder,placeholder
+yes,ja,games_routines,yes,yes,games_routines,placeholder,placeholder,placeholder
+yum yum,nam - nam,sounds,nam - nam,yum,sounds,placeholder,placeholder,placeholder
+zipper,glidelås,clothing,zipper,zip,clothing,placeholder,placeholder,placeholder
+zoo,dyrehage,places,zoo,zoo,outside,placeholder,placeholder,placeholder

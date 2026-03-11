@@ -10,9 +10,11 @@ This pipeline was built using Norwegian (WS) and British English (Oxford CDI) as
 
 ```
 project/
-  pipeline.py           # main script — run this
-  pull_unilemmas.R      # one-time R script to fetch translation equivalents
-  requirements.txt      # Python dependencies
+  pipeline.py             # main script — run this
+  install.py              # dependency installer — run this first
+  pull_unilemmas.R        # one-time R script to fetch translation equivalents
+  download_fasttext.py    # helper to download fastText vectors (only needed for --model fasttext)
+  requirements.txt        # core dependencies for reference
   data/
     norwegian_itemdata.csv
     british_english_itemdata.csv
@@ -31,7 +33,11 @@ project/
 
 **1. Install Python dependencies**
 ```
-pip install -r requirements.txt
+python install.py
+```
+To also install fastText support upfront:
+```
+python install.py --fasttext
 ```
 
 **2. Pull unilemma translation pairs from Wordbank (requires R)**
@@ -55,7 +61,7 @@ python pipeline.py
 
 ### Subsequent runs
 
-If `semantic_distances.csv` already exists, skip the slow LaBSE embedding step:
+If `semantic_distances.csv` already exists, skip the embedding step:
 ```
 python pipeline.py --skip-embedding --api-key sk-ant-...
 ```
@@ -67,29 +73,55 @@ python pipeline.py --skip-embedding --no-llm
 
 ---
 
+## Embedding Models
+
+The pipeline supports two embedding models, selectable with `--model`.
+
+### LaBSE (default)
+
+Language-agnostic BERT Sentence Embeddings. Trained on 109 languages. Downloads ~1.9 GB on first run. No extra setup required.
+
+```
+python pipeline.py --model labse
+```
+
+### fastText
+
+Character n-gram based word vectors. Included for comparison purposes — expected to perform worse than LaBSE on semantic similarity, particularly for false cognates, since it is more sensitive to word form than meaning. Requires downloading aligned vector files (~650 MB per language) first.
+
+```
+python install.py --fasttext
+python download_fasttext.py --lang-a no --lang-b en
+python pipeline.py --model fasttext --fasttext-vec-a data/wiki.no.align.vec --fasttext-vec-b data/wiki.en.align.vec
+```
+
+`download_fasttext.py` will print the exact `pipeline.py` command to run once the download is complete. 44 languages are supported — run `python download_fasttext.py --help` to see available language codes.
+
+---
+
 ## Pipeline Overview
 
 ```
-CDI CSVs  ──►  LaBSE embeddings  ──►  cosine similarity matrix
-                                              │
-                              unilemma_pairs.csv (Wordbank)
-                                              │
-                                     flag verified pairs
-                                              │
-                                    LLM false-cognate check
-                                    (batched API calls)
-                                              │
-                                     score each pair:
-                                       unilemma     → 1.0
-                                       false cognate → 0.0
-                                       else          → cosine_sim
-                                              │
-                                    top-10 Excel output
+CDI CSVs  ──►  embeddings (LaBSE / fastText)  ──►  cosine similarity matrix
+                                                            │
+                                            unilemma_pairs.csv (Wordbank)
+                                                            │
+                                                   flag verified pairs
+                                                            │
+                                                  LLM false-cognate check
+                                                  (batched API calls)
+                                                            │
+                                                   score each pair:
+                                                     unilemma     → 1.0
+                                                     false cognate → 0.0
+                                                     else          → cosine_sim
+                                                            │
+                                                  top-10 Excel output
 ```
 
-**Step 1 — LaBSE embedding:** Every word from both CDI lists is encoded into a shared multilingual semantic vector space using LaBSE (Language-agnostic BERT Sentence Embeddings). LaBSE supports 109 languages and places translation equivalents close together regardless of spelling. Cosine similarity is computed for all word pairs across the two languages.
+**Step 1 — Embedding:** Every word from both CDI lists is encoded into a shared multilingual semantic vector space. Cosine similarity is computed for all word pairs across the two languages.
 
-**Step 2 — Unilemma flagging:** Wordbank provides human-verified cross-linguistic translation equivalents called unilemmas. Any pair sharing a unilemma is flagged `is_unilemma_match=True` and assigned score=1.0, overriding LaBSE. This is the gold standard signal.
+**Step 2 — Unilemma flagging:** Wordbank provides human-verified cross-linguistic translation equivalents called unilemmas. Any pair sharing a unilemma is flagged `is_unilemma_match=True` and assigned score=1.0, overriding the embedding score. This is the gold standard signal.
 
 **Step 3 — False cognate detection:** Non-unilemma pairs where the two words are orthographically similar (Levenshtein similarity > 0.6) are sent to an LLM for false cognate checking. Words that look identical or similar but mean different things are assigned score=0.0.
 
@@ -106,8 +138,8 @@ To use a different language pair, four things need to change:
 Go to [wordbank.stanford.edu](https://wordbank.stanford.edu) → Data → Download item data. Select your languages and forms (WS = Words & Sentences, WG = Words & Gestures) and download the CSVs into `data/`. Then update the file paths at the top of `pipeline.py`:
 
 ```python
-NORWEGIAN_CSV = os.path.join(DATA_DIR, "norwegian_itemdata.csv")   # ← change
-ENGLISH_CSV   = os.path.join(DATA_DIR, "british_english_itemdata.csv")  # ← change
+NORWEGIAN_CSV = os.path.join(DATA_DIR, "norwegian_itemdata.csv")      # ← change
+ENGLISH_CSV   = os.path.join(DATA_DIR, "british_english_itemdata.csv") # ← change
 ```
 
 **2. R script — language names**
@@ -127,7 +159,7 @@ The LLM prompt in `pipeline.py` inside `check_false_cognates()` contains a hardc
 
 Try to use the same form (WS or WG) for both languages. Mixing instruments targeting different age ranges (WG covers 8–18 months, WS covers 16–36 months) reduces unilemma overlap since the word lists target different developmental stages.
 
-LaBSE itself requires no changes — it handles any language pair automatically.
+LaBSE requires no language code changes — it handles any of its 109 supported languages automatically.
 
 ---
 
