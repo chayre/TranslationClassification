@@ -1,0 +1,12 @@
+DICTIONARY COVERAGE SUMMARY
+==================================================
+
+Dictionary entries (after removing CDI words): 9158
+
+Polish CDI words: 663
+  In dictionary: 0 (0.0%)
+  Missing: 663 (100.0%)
+
+English CDI words: 668
+  In dictionary: 0 (0.0%)
+  Missing: 668 (100.0%)

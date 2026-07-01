@@ -1,0 +1,575 @@
+# mini-dict.txt
+# =============
+# This file stores selectable Polish/English word lists for mini_demo.py.
+#
+# Format:
+#   [list-name]
+#   description = Short description
+#
+#   pairs:
+#   polish_word = english_word
+#
+#   associates:
+#   english_associate = polish_associate
+#
+# Notes:
+# - In the pairs section, the left side is Polish and the right side is English.
+# - In the associates section, the left side is English and the right side is Polish.
+# - Use UTF-8 encoding so Polish characters like ł, ś, ż, ź display correctly.
+# - Most lists below use nouns with close one-word translation equivalents.
+# - list-1 preserves the original demo data, even though it includes adjectives/verbs.
+
+[list-1]
+description = Original default demo list from the first script. Add 
+
+pairs:
+pies = dog
+kot = cat
+dom = house
+woda = water
+duży = big
+mały = small
+jeść = eat
+spać = sleep
+mama = mom
+samochód = car
+
+associates:
+animal = zwierzę
+food = jedzenie
+building = budynek
+person = osoba
+fast = szybki
+slow = wolny
+hot = gorący
+cold = zimny
+happy = szczęśliwy
+leash = smycz
+puppy = szczeniak
+kitten = kociak
+paw = łapa
+meowing = miauczenie
+barking = szczekanie
+tiny = malutki
+vehicle = pojazd
+engine = silnik
+money = pieniądze
+tax = podatki
+scam = przekręt
+
+
+[list-2]
+description = shorter associate list (2 per word)
+
+
+pairs:
+pies = dog
+kot = cat
+dom = house
+woda = water
+duży = big
+mały = small
+jeść = eat
+spać = sleep
+mama = mom
+samochód = car
+
+associates:
+# DOG / PIES
+barking = szczekanie
+puppy = szczeniak
+
+# CAT / KOT
+meowing = miauczenie
+kitten = kociak
+
+# HOUSE / DOM
+roof = dach
+chimney = komin
+
+# WATER / WODA
+river = rzeka
+lake = jezioro
+
+# BIG / DUŻY
+skyscraper = wieżowiec
+mountain = góra
+
+# SMALL / MAŁY
+atom = atom
+seed = nasiono
+
+# EAT / JEŚĆ
+meal = posiłek
+plate = talerz
+
+# SLEEP / SPAĆ
+bed = łóżko
+pillow = poduszka
+
+# MOM / MAMA
+parent = rodzic
+family = rodzina
+
+# CAR / SAMOCHÓD
+engine = silnik
+wheel = koło
+
+
+[list-3]
+description = medium associate list (5 per word)
+
+pairs:
+pies = dog
+kot = cat
+dom = house
+woda = water
+duży = big
+mały = small
+jeść = eat
+spać = sleep
+mama = mom
+samochód = car
+
+associates:
+# DOG / PIES
+barking = szczekanie
+leash = smycz
+collar = obroża
+puppy = szczeniak
+doghouse = buda
+
+# CAT / KOT
+meowing = miauczenie
+purring = mruczenie
+kitten = kociak
+whisker = wąs
+claw = pazur
+
+# HOUSE / DOM
+roof = dach
+wall = ściana
+door = drzwi
+window = okno
+floor = podłoga
+
+# WATER / WODA
+river = rzeka
+lake = jezioro
+ocean = ocean
+rain = deszcz
+flood = powódź
+
+# BIG / DUŻY
+skyscraper = wieżowiec
+mountain = góra
+elephant = słoń
+giant = olbrzym
+planet = planeta
+
+# SMALL / MAŁY
+atom = atom
+seed = nasiono
+coin = moneta
+button = guzik
+needle = igła
+
+# EAT / JEŚĆ
+meal = posiłek
+bread = chleb
+bite = kęs
+chewing = żucie
+restaurant = restauracja
+
+# SLEEP / SPAĆ
+bed = łóżko
+pillow = poduszka
+tiredness = zmęczenie
+snoring = chrapanie
+moon = księżyc
+
+# MOM / MAMA
+parent = rodzic
+family = rodzina
+care = opieka
+hug = uścisk
+love = miłość
+
+# CAR / SAMOCHÓD
+engine = silnik
+wheel = koło
+tire = opona
+driver = kierowca
+road = droga
+
+[list-4]
+description = longer associate list (10 per word)
+
+pairs:
+pies = dog
+kot = cat
+dom = house
+woda = water
+duży = big
+mały = small
+jeść = eat
+spać = sleep
+mama = mom
+samochód = car
+
+associates:
+# DOG / PIES
+barking = szczekanie
+leash = smycz
+collar = obroża
+puppy = szczeniak
+doghouse = buda
+fetch = aportowanie
+kennel = kojec
+muzzle = kaganiec
+walk = spacer
+bone = kość
+
+# CAT / KOT
+meowing = miauczenie
+purring = mruczenie
+kitten = kociak
+whisker = wąs
+claw = pazur
+litter box = kuweta
+scratching post = drapak
+catnip = kocimiętka
+furball = kłaczek
+mouse = mysz
+
+# HOUSE / DOM
+roof = dach
+wall = ściana
+door = drzwi
+window = okno
+floor = podłoga
+ceiling = sufit
+kitchen = kuchnia
+bedroom = sypialnia
+basement = piwnica
+chimney = komin
+
+# WATER / WODA
+river = rzeka
+lake = jezioro
+ocean = ocean
+rain = deszcz
+wave = fala
+ice = lód
+steam = para
+stream = strumień
+drop = kropla
+flood = powódź
+
+# BIG / DUŻY
+skyscraper = wieżowiec
+mountain = góra
+elephant = słoń
+giant = olbrzym
+planet = planeta
+truck = ciężarówka
+stadium = stadion
+tower = wieża
+whale = wieloryb
+castle = zamek
+
+# SMALL / MAŁY
+atom = atom
+seed = nasiono
+coin = moneta
+button = guzik
+needle = igła
+grain = ziarno
+insect = owad
+pebble = kamyk
+crumb = okruch
+bead = koralik
+
+# EAT / JEŚĆ
+meal = posiłek
+bread = chleb
+plate = talerz
+fork = widelec
+breakfast = śniadanie
+dinner = kolacja
+hunger = głód
+bite = kęs
+chewing = żucie
+restaurant = restauracja
+
+# SLEEP / SPAĆ
+bed = łóżko
+pillow = poduszka
+blanket = koc
+dream = sen
+night = noc
+nap = drzemka
+alarm clock = budzik
+tiredness = zmęczenie
+snoring = chrapanie
+moon = księżyc
+
+# MOM / MAMA
+parent = rodzic
+child = dziecko
+baby = niemowlę
+father = ojciec
+daughter = córka
+son = syn
+family = rodzina
+care = opieka
+hug = uścisk
+love = miłość
+
+# CAR / SAMOCHÓD
+engine = silnik
+wheel = koło
+tire = opona
+driver = kierowca
+road = droga
+garage = garaż
+headlights = reflektory
+gasoline = benzyna
+trunk = bagażnik
+steering wheel = kierownica
+
+[list-5]
+description = longer associate list (20 per word, no multiword associates)
+
+pairs:
+pies = dog
+kot = cat
+dom = house
+woda = water
+duży = big
+mały = small
+jeść = eat
+spać = sleep
+mama = mom
+samochód = car
+
+associates:
+# DOG / PIES
+barking = szczekanie
+leash = smycz
+collar = obroża
+puppy = szczeniak
+kennel = kojec
+muzzle = kaganiec
+fetch = aportowanie
+bone = kość
+paw = łapa
+tail = ogon
+fur = sierść
+breed = rasa
+growl = warkot
+trainer = treser
+veterinarian = weterynarz
+walk = spacer
+obedience = posłuszeństwo
+guard = strażnik
+snout = pysk
+canine = psi
+
+# CAT / KOT
+meowing = miauczenie
+purring = mruczenie
+kitten = kociak
+whisker = wąs
+claw = pazur
+litter = kuweta
+catnip = kocimiętka
+furball = kłaczek
+mouse = mysz
+yarn = włóczka
+scratching = drapanie
+feline = koci
+tomcat = kocur
+lap = kolana
+agility = zwinność
+hissing = syczenie
+stalking = tropienie
+nap = drzemka
+milk = mleko
+scratch = zadrapanie
+
+# HOUSE / DOM
+roof = dach
+wall = ściana
+door = drzwi
+window = okno
+floor = podłoga
+ceiling = sufit
+kitchen = kuchnia
+bedroom = sypialnia
+basement = piwnica
+chimney = komin
+attic = strych
+stairs = schody
+porch = ganek
+garden = ogród
+garage = garaż
+bathroom = łazienka
+hallway = korytarz
+fence = płot
+foundation = fundament
+furniture = meble
+
+# WATER / WODA
+river = rzeka
+lake = jezioro
+ocean = ocean
+rain = deszcz
+wave = fala
+ice = lód
+steam = para
+stream = strumień
+drop = kropla
+flood = powódź
+spring = źródło
+pond = staw
+waterfall = wodospad
+current = nurt
+shore = brzeg
+tide = przypływ
+mist = mgła
+dew = rosa
+puddle = kałuża
+depth = głębokość
+
+# BIG / DUŻY
+skyscraper = wieżowiec
+mountain = góra
+elephant = słoń
+giant = olbrzym
+planet = planeta
+truck = ciężarówka
+stadium = stadion
+tower = wieża
+whale = wieloryb
+castle = zamek
+continent = kontynent
+galaxy = galaktyka
+ocean = ocean
+cathedral = katedra
+factory = fabryka
+airport = lotnisko
+boulder = głaz
+ship = statek
+monument = pomnik
+empire = imperium
+
+# SMALL / MAŁY
+atom = atom
+seed = nasiono
+coin = moneta
+button = guzik
+needle = igła
+grain = ziarno
+insect = owad
+pebble = kamyk
+crumb = okruch
+bead = koralik
+ant = mrówka
+pixel = piksel
+dot = kropka
+speck = drobina
+pin = szpilka
+feather = pióro
+berry = jagoda
+shell = muszla
+pill = tabletka
+sprout = kiełek
+
+# EAT / JEŚĆ
+meal = posiłek
+bread = chleb
+plate = talerz
+fork = widelec
+breakfast = śniadanie
+dinner = kolacja
+hunger = głód
+bite = kęs
+chewing = żucie
+restaurant = restauracja
+lunch = obiad
+supper = wieczerza
+snack = przekąska
+appetite = apetyt
+swallowing = połykanie
+taste = smak
+spoon = łyżka
+sandwich = kanapka
+dessert = deser
+feast = uczta
+
+# SLEEP / SPAĆ
+bed = łóżko
+pillow = poduszka
+blanket = koc
+dream = sen
+night = noc
+nap = drzemka
+tiredness = zmęczenie
+snoring = chrapanie
+moon = księżyc
+alarm = budzik
+mattress = materac
+yawn = ziewanie
+rest = odpoczynek
+bedroom = sypialnia
+darkness = ciemność
+quiet = cisza
+drowsiness = senność
+insomnia = bezsenność
+lullaby = kołysanka
+morning = poranek
+
+# MOM / MAMA
+parent = rodzic
+child = dziecko
+baby = niemowlę
+father = ojciec
+daughter = córka
+son = syn
+family = rodzina
+care = opieka
+hug = uścisk
+love = miłość
+birth = narodziny
+home = dom
+warmth = ciepło
+comfort = pociecha
+nurturing = wychowanie
+protection = ochrona
+motherhood = macierzyństwo
+guardian = opiekun
+affection = czułość
+patience = cierpliwość
+
+# CAR / SAMOCHÓD
+engine = silnik
+wheel = koło
+tire = opona
+driver = kierowca
+road = droga
+garage = garaż
+headlights = reflektory
+gasoline = benzyna
+trunk = bagażnik
+steering = kierownica
+brake = hamulec
+accelerator = gaz
+dashboard = deska
+mirror = lusterko
+seat = siedzenie
+bumper = zderzak
+license = rejestracja
+traffic = ruch
+highway = autostrada
+mechanic = mechanik

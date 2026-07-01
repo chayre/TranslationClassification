@@ -1,0 +1,60 @@
+CDI words missing from English fastText:
+  baa baa
+  choo choo
+  cockadoodledoo
+  quack quack
+  uh oh
+  woof woof
+  yum yum
+  play dough
+  french fries
+  green beans
+  ice cream
+  peanut butter
+  potato chip
+  soda/pop
+  belly button
+  buttocks/bottom*
+  owie/boo boo
+  penis*
+  vagina*
+  tissue/kleenex
+  high chair
+  living room
+  play pen
+  rocking chair
+  washing machine
+  lawn mower
+  church*
+  gas station
+  babysitter's name
+  daddy*
+  grandma*
+  grandpa*
+  mommy*
+  child's own name
+  pet's name
+  give me five!
+  gonna get you!
+  go potty
+  night night
+  shh/shush/hush
+  so big!
+  thank you
+  this little piggy
+  turn around
+  all gone
+  inside/in
+  next to
+  on top of
+  a lot
+  did/did ya
+  gonna/going to
+  gotta/got to
+  hafta/have to
+  lemme/let me
+  need/need to
+  try/try to
+  wanna/want to
+
+Dictionary words missing from English fastText:

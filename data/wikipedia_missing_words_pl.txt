@@ -1,0 +1,140 @@
+CDI words missing from Polish fastText:
+  da się
+  aparat/kamera
+  auto/samochód
+  bam/bum/bęc
+  bawić się
+  bać się
+  biec/biegać
+  boso/na bosaka
+  brrum brrum [auto]
+  buraczki
+  cacy/cacany
+  cieszyć się
+  co?
+  co robi?
+  co to?/co to jest?
+  czyj?
+  dlaczego?/czemu?
+  do widzenia
+  doktor/lekarz
+  dosyć/dość
+  dziadek/dziadzio
+  dzidzi/dzidziuś
+  dzień dobry
+  dzisiaj/dziś
+  firanka/zasłona
+  gdzie?
+  guma do żucia
+  gę gę
+  hau hau
+  huśtać/bujać się
+  idzie rak nieborak
+  ile?
+  imieniny/urodziny
+  iść/pójść
+  ja/mnie/mi
+  jak?
+  jak -
+  jaki?
+  jechać/jeździć
+  jedzenie/papu/am
+  jeszcze/jeszcze nie
+  już/już nie
+  kalosze/gumowce
+  kanapka/kromka
+  kartka/papier
+  kiedy?
+  kijek/patyk
+  ko ko ko
+  koc/kołdra
+  kolega/koleżanka
+  korytarz/przedpokój
+  kosi-kosi łapci
+  koło/obok
+  krzyczeć/wołać
+  król/królewna
+  kto?
+  który?
+  kurczątko
+  kwa kwa
+  kąpać się
+  kłaść/położyć
+  lecieć/latać
+  lekarstwa/tabletki
+  makaron/kluski
+  mama/mamusia
+  masło/margaryna
+  mee/bee
+  miś/niedźwiedź
+  motor/motocykl
+  muu [krowa]
+  my/nas/nam
+  mówić/powiedzieć
+  na dwór/na pole
+  na dół/na dole
+  na górę/na górze
+  na pewno
+  naprawiać/reperować
+  nazywać się
+  nie ma
+  nieść/nosić
+  noc/w nocy
+  oglądać/obejrzeć
+  on/go/mu
+  ona/ją/jej
+  oni/one/ich/je/im
+  pa, pa!
+  pantofle/kapcie
+  park/ogród
+  parówka/kiełbaska
+  paznokcie/pazurki
+  pi pi pi/ćwir ćwir
+  piasek/piaskownica
+  pieluszka/pampers
+  pisak/długopis
+  piękny/śliczny
+  po co?/na co?
+  podobać się
+  pogotowie/karetka
+  potem/później
+  prędko/szybko
+  półka/regał
+  rajstopy/rajtuzy
+  sam/sama
+  siusiu/siku/sisi
+  sroczka kaszkę warzyła
+  stukać/pukać
+  szczoteczka do zębów
+  szkoła/przedszkole
+  szmata/ścierka
+  słyszeć/słuchać
+  tata/tatuś
+  telefon/komórka
+  tik tak
+  tralala/lalala
+  trochę/troszkę
+  ty/cię/ci
+  ubikacja/ustęp
+  uczyć się
+  upaść/spaść
+  usiąść/siadać
+  uściskać/ukochać
+  w ogóle
+  w środku
+  widzieć/zobaczyć
+  wszystko/wszyscy
+  wy/was/wam
+  włożyć/założyć
+  z przodu/do przodu
+  z tyłu/do tyłu
+  zaświecić/zapalić
+  zdjąć/ściągnąć
+  zdjęcie/fotografia
+  ziemniaki/kartofle
+  zmęczyć się
+  znowu/znów
+  śmiać się
+
+Dictionary words missing from Polish fastText:
+  bawić się
