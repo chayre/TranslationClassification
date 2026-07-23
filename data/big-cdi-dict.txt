@@ -1,0 +1,8214 @@
+[list-8]
+description = CDI words
+
+pairs:
+aparat = camera
+apteka = pharmacy
+samochód = car
+autobus = bus
+babcia = grandma
+bajka = story
+balkon = balcony
+balonik = balloon
+banan = banana
+baran = sheep
+barszcz = borscht
+bałwan = snowman
+biały = white
+biedronka = ladybug
+bluzka = shirt
+bocian = stork
+brat = brother
+broda = beard
+brudny = dirty
+brzuch = belly
+brzydki = ugly
+budować = build
+budyń = pudding
+buraczki = beets
+burza = storm
+butelka = bottle
+buty = shoes
+buzia = mouth
+bułka = roll
+błoto = mud
+całować = kiss
+cały = all
+cebula = onion
+chcieć = want
+chleb = bread
+chmura = cloud
+chodzić = walk
+chory = sick
+chrupki = cereal
+chustka = scarf
+chłopiec = boy
+ciastko = cookie
+ciasto = cake
+cicho = quiet
+ciemno = dark
+ciepło = warm
+ciepły = warm
+cieszyć się = enjoy
+ciocia = aunt
+ciąć = cut
+ciężarówka = truck
+ciężki = heavy
+cukier = sugar
+cukierek = candy
+czajnik = kettle
+czapka = hat
+czarny = black
+czekać = wait
+czekolada = chocolate
+czerwony = red
+czesać = comb
+cześć = hi
+czoło = forehead
+czysty = clean
+czytać = read
+czyścić = clean
+córeczka = daughter
+dach = roof
+daleko = far
+dać = give
+deska = board
+deszcz = rain
+dmuchać = blow
+do widzenia = goodbye
+dobranoc = goodnight
+dobry = good
+dobrze = well
+lekarz = doctor
+dom = house
+dostać = get
+drabina = ladder
+drapać = scratch
+droga = road
+drugi = second
+drzewo = tree
+drzwi = door
+dużo = much
+duży = big
+dywan = rug
+dziadek = grandpa
+dzidzi = baby
+dzieci = children
+dziewczynka = girl
+dzień = day
+dzień dobry = hello
+dzisiaj = today
+dziękuję = thank you
+dzwonić = ring
+dżem = jam
+firanka = curtain
+foka = seal
+fotel = armchair
+fryzjer = hairdresser
+galaretka = jello
+gardło = throat
+garnek = pot
+gazeta = newspaper
+gałąź = branch
+gonić = chase
+gorąco = hot
+gorący = hot
+gotować = cook
+gołąb = pigeon
+goście = guests
+grabki = rake
+grać = play
+groszek = peas
+gryźć = bite
+grzebień = comb
+grzyby = mushrooms
+gumka = eraser
+guzik = button
+gwiazda = star
+góry = mountains
+gęś = goose
+głodny = hungry
+głowa = head
+głośno = loud
+głupi = silly
+helikopter = helicopter
+herbata = tea
+huśtawka = swing
+huśtać = swing
+igła = needle
+imieniny = birthday
+inny = other
+iść = go
+jabłko = apple
+jajko = egg
+jechać = ride
+jedzenie = food
+jeszcze = more
+jeść = eat
+jeż = hedgehog
+jogurt = yogurt
+jutro = tomorrow
+język = tongue
+kaczka = duck
+kakao = cocoa
+kalosze = boots
+kamień = rock
+kanapka = sandwich
+kapelusz = hat
+kapusta = cabbage
+kartka = paper
+kaszka = cereal
+kawa = coffee
+ketchup = ketchup
+kieszeń = pocket
+kiełbasa = sausage
+kijek = stick
+klocki = blocks
+klucz = key
+koc = blanket
+kochany = dear
+kochać = love
+kogut = rooster
+kolacja = dinner
+kolano = knee
+kolega = friend
+koparka = digger
+kopać = kick
+korytarz = hallway
+koszula = shirt
+koszyk = basket
+kot = cat
+kotlet = cutlet
+koza = goat
+koń = horse
+kościół = church
+kran = faucet
+krasnoludek = dwarf
+kredki = crayons
+krew = blood
+krowa = cow
+krzesło = chair
+krzyczeć = yell
+król = king
+królik = bunny
+ksiądz = priest
+książka = book
+księżyc = moon
+kubek = cup
+kuchnia = kitchen
+kupić = buy
+kupka = poop
+kura = chicken
+kurczak = chicken
+kurczątko = chick
+kurtka = jacket
+kwiatek = flower
+kąpać się = bathe
+kłaść = put
+lalka = doll
+lampa = lamp
+las = forest
+lać = pour
+lecieć = fly
+lekarstwa = medicine
+lew = lion
+leżeć = lie
+lis = fox
+listek = leaf
+lizak = lollipop
+lody = ice cream
+lodówka = refrigerator
+lokomotywa = train
+lubić = like
+ludzie = people
+lustro = mirror
+majtki = underwear
+makaron = noodles
+malować = paint
+mama = mom
+mandarynka = tangerine
+marchewka = carrot
+masło = butter
+mało = little
+małpa = monkey
+mały = small
+miasto = city
+miau = meow
+mieszkać = live
+mieć = have
+miotła = broom
+miska = bowl
+miód = honey
+mięso = meat
+miś = bear
+mleko = milk
+mocno = strong
+mokro = wet
+mokry = wet
+morze = sea
+most = bridge
+motor = motorcycle
+motylek = butterfly
+mrówka = ant
+mróz = frost
+mucha = fly
+mydło = soap
+myszka = mouse
+myć = wash
+myśleć = think
+mój = my
+mówić = say
+mądry = smart
+młotek = hammer
+naleśniki = pancakes
+naprawiać = fix
+niebo = sky
+nieść = carry
+nisko = low
+noc = night
+nocnik = potty
+noga = leg
+nos = nose
+nowy = new
+nożyczki = scissors
+nóż = knife
+obiad = lunch
+obraz = picture
+obrazek = picture
+obudzić się = wake
+odkurzacz = vacuum
+ogień = fire
+oglądać = watch
+ogórek = cucumber
+okno = window
+oko = eye
+okulary = glasses
+opowiadać = tell
+orzechy = nuts
+otwarty = open
+otworzyć = open
+ołówek = pencil
+pająk = spider
+palec = finger
+palić się = burn
+paluszki = crackers
+pan = man
+pani = woman
+pantofle = slippers
+park = park
+parówka = hot dog
+pasek = belt
+patrzeć = look
+paznokcie = nails
+piasek = sand
+picie = drink
+pieluszka = diaper
+pieniądze = money
+pierogi = dumplings
+pies = dog
+pingwin = penguin
+pisak = pen
+pisać = write
+pić = drink
+piękny = pretty
+piłka = ball
+piżama = pajamas
+placek = pancake
+plecy = back
+pluć = spit
+pociąg = train
+poczta = mail
+podobać się = like
+poduszka = pillow
+podwórko = yard
+podłoga = floor
+pogotowie = ambulance
+pokazać = show
+pokój = room
+policzek = cheek
+pomarańcza = orange
+pomidor = tomato
+pomóc = help
+potem = later
+pożyczyć = borrow
+praca = work
+pracować = work
+pralka = washer
+prasować = iron
+prać = wash
+prezent = present
+prosić = ask
+proszę = please
+prysznic = shower
+przepraszam = sorry
+przyjść = come
+przykryć = cover
+przynieść = bring
+prędko = fast
+ptaszek = bird
+pudełko = box
+pupa = bottom
+puścić = let go
+pyszny = yummy
+półka = shelf
+pępek = bellybutton
+płakać = cry
+płot = fence
+radio = radio
+rajstopy = tights
+rano = morning
+robak = bug
+robić = do
+rodzynki = raisins
+rosół = soup
+rower = bicycle
+rozmawiać = talk
+ryba = fish
+rysować = draw
+ryż = rice
+rzeka = river
+rzucać = throw
+ręcznik = towel
+ręka = hand
+rękawiczki = mittens
+samolot = airplane
+sanki = sled
+schody = stairs
+schować = hide
+ser = cheese
+serce = heart
+siedzieć = sit
+siostra = sister
+siusiu = pee
+skakać = jump
+skarpetki = socks
+sklep = store
+skończyć = finish
+skóra = skin
+smoczek = pacifier
+sok = juice
+sos = sauce
+sowa = owl
+spacer = walk
+spać = sleep
+spodnie = pants
+sprzątać = clean
+statek = boat
+stać = stand
+stołek = stool
+stół = table
+sufit = ceiling
+sukienka = dress
+sweter = sweater
+synek = son
+syrop = syrup
+szafa = closet
+szalik = scarf
+szczotka = brush
+szklanka = glass
+szkoła = school
+szuflada = drawer
+szukać = look for
+szyja = neck
+szynka = ham
+szyć = sew
+sól = salt
+słoik = jar
+słoń = elephant
+słońce = sun
+słyszeć = hear
+talerz = plate
+tata = dad
+tańczyć = dance
+telefon = phone
+telewizor = television
+termometr = thermometer
+traktor = tractor
+tramwaj = tram
+trawa = grass
+truskawki = strawberries
+trzymać = hold
+tygrys = tiger
+ubikacja = toilet
+ubranie = clothes
+ubrać się = dress
+ucho = ear
+uczyć się = learn
+ulica = street
+upaść = fall
+usiąść = sit
+uściskać = hug
+wanna = bathtub
+wiaderko = bucket
+wiatr = wind
+widelec = fork
+widzieć = see
+wiewiórka = squirrel
+wilk = wolf
+witaminy = vitamins
+wiązać = tie
+więcej = more
+woda = water
+wujek = uncle
+wysoko = high
+wytrzeć = wipe
+wózek = stroller
+wąż = snake
+włosy = hair
+zabawka = toy
+zając = rabbit
+zamiatać = sweep
+zamknięty = closed
+zamknąć = close
+zapałki = matches
+zapiąć = fasten
+zaświecić = light
+zdjęcie = photo
+zdrowy = healthy
+zegarek = watch
+zepsuty = broken
+zepsuć = break
+zgubić = lose
+ziemia = ground
+ziemniaki = potatoes
+zimno = cold
+zimny = cold
+zmęczony = tired
+znaleźć = find
+znać = know
+zupa = soup
+zwierzątko = animal
+ząb = tooth
+złamać = break
+złapać = catch
+ładnie = nicely
+ładny = nice
+łazienka = bathroom
+łokieć = elbow
+łopatka = shovel
+łyżka = spoon
+łóżko = bed
+ściana = wall
+ślimak = snail
+śliniaczek = bib
+śmiać się = laugh
+śmieci = trash
+śniadanie = breakfast
+śnieg = snow
+śpiewać = sing
+śpiący = sleepy
+świnka = pig
+żaba = frog
+żelazko = iron
+żyrafa = giraffe
+żółw = turtle
+biegać = run
+bić = hit
+boleć = hurt
+być = be
+musieć = must
+móc = can
+stukać = knock
+wiedzieć = know
+zostać = stay
+a = and
+albo = or
+ale = but
+bo = because
+i = and
+jak = how
+tylko = only
+że = that
+boso = barefoot
+brzydko = badly
+cicho = quietly
+ciemno = dark
+ciepło = warmly
+dobrze = well
+gorąco = hot
+głośno = loudly
+mocno = strongly
+mokro = wet
+prędko/szybko = quickly
+zimno = cold
+ładnie = nicely
+cacy = nice
+umyty = washed
+nici = thread
+szmata = rag
+sznurek = string
+torebka = bag
+halo = hello
+pa = bye
+blisko = near
+daleko = far
+gdzieś = somewhere
+nigdzie = nowhere
+nisko = low
+tam = there
+tu = here
+tędy = this way
+wszędzie = everywhere
+wysoko = high
+chyba = probably
+może = maybe
+naprawdę = really
+pewnie = probably
+właśnie = just
+bez = without
+dla = for
+do = to
+na = on
+o = about
+od = from
+po = after
+pod = under
+przed = before
+u = at
+w = in
+z = with
+za = behind
+coś = something
+jakiś = some
+ktoś = someone
+nic = nothing
+nikt = nobody
+taki = such
+tamten = that
+ten = this
+to = this
+ich = their
+ja = me
+jego = his
+jej = her
+my = we
+nasz = our
+on = he
+ona = she
+oni = they
+się = oneself
+sobie = oneself
+twój = your
+ty = you
+wasz = your
+bardzo = very
+dosyć = enough
+każdy = every
+niektóry = some
+razem = together
+sam = alone
+też = also
+trochę = little
+tyle = so much
+wszystko = everything
+za = too
+żaden = none
+co = what
+czyj = whose
+dlaczego = why
+gdzie = where
+jak = how
+kiedy = when
+kto = who
+który = which
+czasem = sometimes
+godzina = hour
+już = already
+kiedyś = someday
+nigdy = never
+teraz = now
+wczoraj = yesterday
+wieczorem = evening
+zaraz = soon
+zawsze = always
+znowu = again
+zoo = zoo
+
+
+associates:
+# APARAT / CAMERA
+photo = zdjęcie
+lens = obiektyw
+flash = lampa
+tripod = statyw
+photographer = fotograf
+picture = obraz
+film = film
+shutter = migawka
+zoom = zbliżenie
+portrait = portret
+
+# APTEKA / PHARMACY
+medicine = lekarstwo
+pill = tabletka
+prescription = recepta
+pharmacist = farmaceuta
+syrup = syrop
+vitamin = witamina
+bandage = bandaż
+ointment = maść
+capsule = kapsułka
+health = zdrowie
+
+# SAMOCHÓD / CAR
+engine = silnik
+wheel = koło
+tire = opona
+driver = kierowca
+road = droga
+garage = garaż
+gasoline = benzyna
+trunk = bagażnik
+brake = hamulec
+seat = siedzenie
+
+# AUTOBUS / BUS
+driver = kierowca
+passenger = pasażer
+ticket = bilet
+stop = przystanek
+route = trasa
+seat = siedzenie
+wheel = koło
+road = droga
+school = szkoła
+transport = transport
+
+# BABCIA / GRANDMA
+grandmother = babcia
+grandpa = dziadek
+family = rodzina
+mother = matka
+grandchild = wnuk
+home = dom
+hug = uścisk
+cookies = ciastka
+love = miłość
+old = stary
+
+# BAJKA / STORY
+book = książka
+tale = opowieść
+fairy = wróżka
+dragon = smok
+princess = księżniczka
+king = król
+castle = zamek
+reading = czytanie
+bedtime = dobranoc
+imagination = wyobraźnia
+
+# BALKON / BALCONY
+railing = poręcz
+apartment = mieszkanie
+window = okno
+door = drzwi
+view = widok
+flower = kwiat
+chair = krzesło
+outside = zewnątrz
+terrace = taras
+building = budynek
+
+# BALONIK / BALLOON
+air = powietrze
+party = impreza
+string = sznurek
+helium = hel
+floating = unoszenie
+birthday = urodziny
+color = kolor
+round = okrągły
+pop = pęknięcie
+decoration = dekoracja
+
+# BANAN / BANANA
+fruit = owoc
+yellow = żółty
+peel = skórka
+monkey = małpa
+sweet = słodki
+snack = przekąska
+smoothie = koktajl
+bunch = kiść
+ripe = dojrzały
+food = jedzenie
+
+# BARAN / SHEEP
+wool = wełna
+lamb = jagnię
+flock = stado
+farm = farma
+meadow = łąka
+grass = trawa
+horn = róg
+baa = bee
+animal = zwierzę
+shepherd = pasterz
+
+# BARSZCZ / BORSCHT
+soup = zupa
+beet = burak
+bowl = miska
+spoon = łyżka
+dinner = obiad
+red = czerwony
+kitchen = kuchnia
+broth = bulion
+vegetable = warzywo
+Christmas = wigilia
+
+# BATONIK / CANDY BAR
+chocolate = czekolada
+candy = cukierek
+snack = przekąska
+sweet = słodki
+wrapper = papierek
+sugar = cukier
+dessert = deser
+caramel = karmel
+store = sklep
+treat = smakołyk
+
+# BAŁWAN / SNOWMAN
+snow = śnieg
+winter = zima
+carrot = marchewka
+scarf = szalik
+hat = czapka
+cold = zimno
+ice = lód
+ball = kula
+yard = podwórko
+children = dzieci
+
+# BIAŁY / WHITE
+snow = śnieg
+milk = mleko
+cloud = chmura
+paper = papier
+clean = czysty
+bright = jasny
+color = kolor
+wedding = ślub
+salt = sól
+swan = łabędź
+
+# BIEDRONKA / LADYBUG
+insect = owad
+spots = kropki
+red = czerwony
+black = czarny
+garden = ogród
+leaf = liść
+bug = robak
+wing = skrzydło
+tiny = malutki
+spring = wiosna
+
+# BLUZKA / SHIRT
+clothes = ubranie
+sleeve = rękaw
+button = guzik
+collar = kołnierz
+fabric = materiał
+cotton = bawełna
+closet = szafa
+wearing = noszenie
+laundry = pranie
+hanger = wieszak
+
+# BOCIAN / STORK
+bird = ptak
+nest = gniazdo
+beak = dziób
+wing = skrzydło
+leg = noga
+white = biały
+field = pole
+spring = wiosna
+baby = niemowlę
+flying = latanie
+
+# BRAT / BROTHER
+sister = siostra
+family = rodzina
+sibling = rodzeństwo
+boy = chłopiec
+son = syn
+mother = matka
+father = ojciec
+home = dom
+play = zabawa
+love = miłość
+
+# BRODA / BEARD
+face = twarz
+chin = podbródek
+hair = włosy
+mustache = wąsy
+razor = brzytwa
+shaving = golenie
+man = mężczyzna
+old = stary
+gray = siwy
+barber = fryzjer
+
+# BRUDNY / DIRTY
+mud = błoto
+stain = plama
+mess = bałagan
+dust = kurz
+washing = mycie
+soap = mydło
+clean = czysty
+laundry = pranie
+floor = podłoga
+hands = ręce
+
+# BRZUCH / BELLY
+stomach = żołądek
+body = ciało
+navel = pępek
+food = jedzenie
+hunger = głód
+pain = ból
+baby = niemowlę
+shirt = koszula
+waist = talia
+laugh = śmiech
+
+# BRZYDKI / UGLY
+bad = zły
+dirty = brudny
+scary = straszny
+monster = potwór
+face = twarz
+old = stary
+broken = zepsuty
+messy = niechlujny
+unpleasant = niemiły
+appearance = wygląd
+
+# BUDOWAĆ / BUILD
+blocks = klocki
+house = dom
+tower = wieża
+wall = ściana
+hammer = młotek
+brick = cegła
+worker = robotnik
+construction = budowa
+tool = narzędzie
+create = tworzyć
+
+# BUDYŃ / PUDDING
+dessert = deser
+milk = mleko
+vanilla = wanilia
+chocolate = czekolada
+spoon = łyżka
+bowl = miska
+sweet = słodki
+cream = krem
+snack = przekąska
+kitchen = kuchnia
+
+# BURACZKI / BEETS
+beet = burak
+vegetable = warzywo
+red = czerwony
+salad = sałatka
+soup = zupa
+dinner = obiad
+root = korzeń
+garden = ogród
+plate = talerz
+food = jedzenie
+
+# BURZA / STORM
+thunder = grzmot
+lightning = błyskawica
+rain = deszcz
+wind = wiatr
+cloud = chmura
+sky = niebo
+noise = hałas
+weather = pogoda
+umbrella = parasol
+danger = niebezpieczeństwo
+
+# BUTELKA / BOTTLE
+water = woda
+milk = mleko
+juice = sok
+cap = zakrętka
+glass = szkło
+plastic = plastik
+drink = napój
+label = etykieta
+container = pojemnik
+empty = pusty
+
+# BUTY / SHOES
+foot = stopa
+sock = skarpetka
+lace = sznurówka
+sole = podeszwa
+walking = chodzenie
+running = bieganie
+boot = but
+sandal = sandał
+closet = szafa
+pair = para
+
+# BUZIA / MOUTH
+lip = warga
+tooth = ząb
+tongue = język
+kiss = pocałunek
+smile = uśmiech
+face = twarz
+eating = jedzenie
+speaking = mówienie
+cheek = policzek
+saliva = ślina
+
+# BUŁKA / ROLL
+bread = chleb
+bakery = piekarnia
+butter = masło
+sandwich = kanapka
+flour = mąka
+breakfast = śniadanie
+crust = skórka
+dough = ciasto
+fresh = świeży
+food = jedzenie
+
+# BŁOTO / MUD
+dirt = brud
+rain = deszcz
+puddle = kałuża
+boots = buty
+ground = ziemia
+wet = mokry
+mess = bałagan
+brown = brązowy
+field = pole
+dirty = brudny
+
+# CAŁOWAĆ / KISS
+mouth = buzia
+lips = usta
+love = miłość
+hug = uścisk
+cheek = policzek
+mom = mama
+baby = dziecko
+affection = czułość
+hello = cześć
+goodbye = pożegnanie
+
+# CAŁY / ALL
+everything = wszystko
+whole = całość
+complete = kompletny
+entire = cały
+everyone = wszyscy
+full = pełny
+total = suma
+together = razem
+nothing = nic
+part = część
+
+# CEBULA / ONION
+vegetable = warzywo
+soup = zupa
+kitchen = kuchnia
+knife = nóż
+peel = skórka
+smell = zapach
+crying = płacz
+salad = sałatka
+root = korzeń
+food = jedzenie
+
+# CHCIEĆ / WANT
+wish = życzenie
+need = potrzeba
+desire = pragnienie
+ask = prosić
+choose = wybierać
+like = lubić
+please = proszę
+toy = zabawka
+food = jedzenie
+more = więcej
+
+# CHLEB / BREAD
+bakery = piekarnia
+butter = masło
+sandwich = kanapka
+slice = kromka
+flour = mąka
+breakfast = śniadanie
+crust = skórka
+loaf = bochenek
+food = jedzenie
+toast = tost
+
+# CHMURA / CLOUD
+sky = niebo
+rain = deszcz
+storm = burza
+weather = pogoda
+white = biały
+gray = szary
+sun = słońce
+wind = wiatr
+snow = śnieg
+air = powietrze
+
+# CHODZIĆ / WALK
+foot = stopa
+leg = noga
+shoe = but
+street = ulica
+path = ścieżka
+steps = kroki
+outside = dwór
+park = park
+slow = wolny
+movement = ruch
+
+# CHORY / SICK
+doctor = lekarz
+medicine = lekarstwo
+fever = gorączka
+cough = kaszel
+bed = łóżko
+hospital = szpital
+pain = ból
+health = zdrowie
+tired = zmęczony
+thermometer = termometr
+
+# CHRUPKI / CEREAL
+breakfast = śniadanie
+milk = mleko
+bowl = miska
+spoon = łyżka
+crunch = chrupanie
+grain = ziarno
+snack = przekąska
+sweet = słodki
+food = jedzenie
+box = pudełko
+
+# CHUSTKA / SCARF
+neck = szyja
+cloth = materiał
+cold = zimno
+winter = zima
+head = głowa
+pocket = kieszeń
+nose = nos
+fabric = tkanina
+wearing = noszenie
+knot = węzeł
+
+# CHŁOPIEC / BOY
+child = dziecko
+girl = dziewczynka
+son = syn
+brother = brat
+father = ojciec
+mother = matka
+toy = zabawka
+school = szkoła
+play = zabawa
+young = młody
+
+# CIASTKO / COOKIE
+sweet = słodki
+dessert = deser
+sugar = cukier
+chocolate = czekolada
+bakery = piekarnia
+crumb = okruch
+snack = przekąska
+milk = mleko
+plate = talerz
+food = jedzenie
+
+# CIASTO / CAKE
+birthday = urodziny
+dessert = deser
+sweet = słodki
+candles = świeczki
+cream = krem
+slice = kawałek
+bakery = piekarnia
+plate = talerz
+sugar = cukier
+party = impreza
+
+# CICHO / QUIET
+silence = cisza
+sleep = sen
+whisper = szept
+calm = spokój
+night = noc
+library = biblioteka
+soft = miękki
+noise = hałas
+listening = słuchanie
+peace = pokój
+
+# CIEMNO / DARK
+night = noc
+shadow = cień
+black = czarny
+light = światło
+moon = księżyc
+room = pokój
+sleep = sen
+scary = straszny
+evening = wieczór
+lamp = lampa
+
+# CIEPŁO / WARM
+sun = słońce
+heat = ciepło
+blanket = koc
+fire = ogień
+summer = lato
+tea = herbata
+coat = kurtka
+home = dom
+comfort = wygoda
+temperature = temperatura
+
+# CIEPŁY / WARM
+sun = słońce
+hot = gorący
+blanket = koc
+fire = ogień
+soup = zupa
+tea = herbata
+coat = kurtka
+weather = pogoda
+temperature = temperatura
+comfort = wygoda
+
+# CIESZYĆ SIĘ / ENJOY
+happy = szczęśliwy
+smile = uśmiech
+fun = zabawa
+laugh = śmiech
+play = bawić
+party = impreza
+gift = prezent
+friend = przyjaciel
+love = miłość
+pleasure = przyjemność
+
+# CIOCIA / AUNT
+uncle = wujek
+family = rodzina
+mother = matka
+father = ojciec
+cousin = kuzyn
+grandma = babcia
+visit = wizyta
+hug = uścisk
+home = dom
+relative = krewny
+
+# CIĄĆ / CUT
+knife = nóż
+scissors = nożyczki
+paper = papier
+hair = włosy
+slice = plaster
+sharp = ostry
+finger = palec
+kitchen = kuchnia
+piece = kawałek
+tear = rozdarcie
+
+# CIĘŻARÓWKA / TRUCK
+vehicle = pojazd
+road = droga
+driver = kierowca
+wheel = koło
+engine = silnik
+cargo = ładunek
+delivery = dostawa
+trailer = przyczepa
+big = duży
+transport = transport
+
+# CIĘŻKI / HEAVY
+weight = waga
+stone = kamień
+box = pudełko
+truck = ciężarówka
+strong = silny
+lifting = podnoszenie
+hard = trudny
+large = duży
+bag = torba
+load = ciężar
+
+# CUKIER / SUGAR
+sweet = słodki
+candy = cukierek
+cake = ciasto
+tea = herbata
+spoon = łyżka
+dessert = deser
+white = biały
+kitchen = kuchnia
+jar = słoik
+food = jedzenie
+
+# CUKIEREK / CANDY
+sweet = słodki
+sugar = cukier
+wrapper = papierek
+chocolate = czekolada
+treat = smakołyk
+child = dziecko
+store = sklep
+dessert = deser
+color = kolor
+snack = przekąska
+
+# CZAJNIK / KETTLE
+tea = herbata
+water = woda
+steam = para
+kitchen = kuchnia
+stove = kuchenka
+hot = gorący
+cup = kubek
+boiling = gotowanie
+metal = metal
+handle = uchwyt
+
+# CZAPKA / HAT
+head = głowa
+winter = zima
+cold = zimno
+wool = wełna
+ear = ucho
+scarf = szalik
+coat = kurtka
+wearing = noszenie
+warmth = ciepło
+clothes = ubranie
+
+# CZARNY / BLACK
+night = noc
+darkness = ciemność
+shadow = cień
+coal = węgiel
+ink = atrament
+crow = wrona
+color = kolor
+panther = pantera
+tire = opona
+soot = sadza
+
+# CZEKAĆ / WAIT
+time = czas
+patience = cierpliwość
+line = kolejka
+stop = przystanek
+delay = opóźnienie
+clock = zegar
+later = później
+pause = przerwa
+standing = stanie
+appointment = spotkanie
+
+# CZEKOLADA / CHOCOLATE
+sweet = słodki
+candy = cukierek
+cocoa = kakao
+bar = batonik
+dessert = deser
+milk = mleko
+sugar = cukier
+wrapper = papierek
+brown = brązowy
+treat = smakołyk
+
+# CZERWONY / RED
+color = kolor
+blood = krew
+apple = jabłko
+strawberry = truskawka
+tomato = pomidor
+rose = róża
+fire = ogień
+heart = serce
+trafficlight = sygnalizacja
+ladybug = biedronka
+
+# CZESAĆ / COMB
+hair = włosy
+brush = szczotka
+comb = grzebień
+mirror = lustro
+head = głowa
+salon = salon
+barber = fryzjer
+tangle = kołtun
+morning = poranek
+style = fryzura
+
+# CZEŚĆ / HI
+hello = witaj
+greeting = powitanie
+friend = przyjaciel
+wave = machanie
+smile = uśmiech
+meeting = spotkanie
+arrival = przyjście
+voice = głos
+conversation = rozmowa
+welcome = przywitanie
+
+# CZOŁO / FOREHEAD
+face = twarz
+head = głowa
+skin = skóra
+hair = włosy
+eyebrow = brew
+temperature = temperatura
+fever = gorączka
+wrinkle = zmarszczka
+kiss = pocałunek
+sweat = pot
+
+# CZYSTY / CLEAN
+soap = mydło
+water = woda
+washing = mycie
+bath = kąpiel
+laundry = pranie
+tidy = schludny
+fresh = świeży
+spotless = nieskazitelny
+floor = podłoga
+hands = ręce
+
+# CZYTAĆ / READ
+book = książka
+story = bajka
+page = strona
+letter = litera
+word = słowo
+newspaper = gazeta
+library = biblioteka
+school = szkoła
+reading = czytanie
+text = tekst
+
+# CZYŚCIĆ / CLEAN
+soap = mydło
+sponge = gąbka
+brush = szczotka
+water = woda
+rag = szmata
+dust = kurz
+floor = podłoga
+washing = mycie
+scrubbing = szorowanie
+bucket = wiadro
+
+# CÓRECZKA / DAUGHTER
+girl = dziewczynka
+child = dziecko
+mother = matka
+father = ojciec
+family = rodzina
+baby = niemowlę
+sister = siostra
+love = miłość
+hug = uścisk
+home = dom
+
+# DACH / ROOF
+house = dom
+building = budynek
+chimney = komin
+tiles = dachówki
+attic = strych
+rain = deszcz
+snow = śnieg
+ceiling = sufit
+shelter = schronienie
+top = góra
+
+# DALEKO / FAR
+distance = odległość
+road = droga
+travel = podróż
+away = daleko
+horizon = horyzont
+map = mapa
+car = samochód
+journey = wyprawa
+remote = odległy
+there = tam
+
+# DAĆ / GIVE
+gift = prezent
+hand = ręka
+sharing = dzielenie
+offering = oferta
+help = pomoc
+present = podarunek
+receiving = odbiór
+please = proszę
+thanks = dzięki
+transfer = przekazanie
+
+# DESKA / BOARD
+wood = drewno
+plank = plank
+floor = podłoga
+table = stół
+shelf = półka
+saw = piła
+nail = gwóźdź
+hammer = młotek
+fence = płot
+construction = budowa
+
+# DESZCZ / RAIN
+water = woda
+cloud = chmura
+storm = burza
+umbrella = parasol
+puddle = kałuża
+drop = kropla
+wet = mokry
+weather = pogoda
+sky = niebo
+drizzle = mżawka
+
+# DMUCHAĆ / BLOW
+air = powietrze
+wind = wiatr
+breath = oddech
+balloon = balonik
+mouth = buzia
+candle = świeczka
+bubble = bańka
+whistle = gwizdek
+fan = wentylator
+exhale = wydech
+
+# DO WIDZENIA / GOODBYE
+bye = pa
+farewell = pożegnanie
+leaving = odejście
+wave = machanie
+friend = przyjaciel
+end = koniec
+departure = wyjście
+later = później
+see = zobaczyć
+greeting = powitanie
+
+# DOBRANOC / GOODNIGHT
+night = noc
+sleep = sen
+bed = łóżko
+pillow = poduszka
+dream = sen
+moon = księżyc
+quiet = cisza
+bedtime = dobranoc
+blanket = koc
+rest = odpoczynek
+
+# DOBRY / GOOD
+nice = miły
+kind = dobry
+happy = szczęśliwy
+helpful = pomocny
+pleasant = przyjemny
+right = właściwy
+healthy = zdrowy
+tasty = smaczny
+friendly = przyjazny
+quality = jakość
+
+# DOBRZE / WELL
+good = dobrze
+correctly = poprawnie
+nicely = ładnie
+healthily = zdrowo
+properly = właściwie
+success = sukces
+better = lepiej
+carefully = ostrożnie
+smoothly = sprawnie
+happily = szczęśliwie
+
+# LEKARZ / DOCTOR
+hospital = szpital
+medicine = lekarstwo
+patient = pacjent
+nurse = pielęgniarka
+health = zdrowie
+sick = chory
+thermometer = termometr
+stethoscope = stetoskop
+clinic = przychodnia
+treatment = leczenie
+
+# DOM / HOUSE
+roof = dach
+door = drzwi
+window = okno
+room = pokój
+kitchen = kuchnia
+bedroom = sypialnia
+floor = podłoga
+wall = ściana
+garden = ogród
+family = rodzina
+
+# DOSTAĆ / GET
+receive = otrzymać
+gift = prezent
+take = wziąć
+have = mieć
+obtain = zdobyć
+find = znaleźć
+package = paczka
+reward = nagroda
+letter = list
+money = pieniądze
+
+# DRABINA / LADDER
+climbing = wspinanie
+step = stopień
+height = wysokość
+wall = ściana
+roof = dach
+worker = robotnik
+paint = farba
+tree = drzewo
+metal = metal
+tool = narzędzie
+
+# DRAPAĆ / SCRATCH
+claw = pazur
+itch = swędzenie
+skin = skóra
+cat = kot
+nail = paznokieć
+mark = ślad
+scratch = zadrapanie
+hand = ręka
+pain = ból
+rub = tarcie
+
+# DROGA / ROAD
+car = samochód
+street = ulica
+driver = kierowca
+travel = podróż
+traffic = ruch
+asphalt = asfalt
+path = ścieżka
+highway = autostrada
+map = mapa
+journey = wyprawa
+
+# DRUGI / SECOND
+number = liczba
+two = dwa
+order = kolejność
+next = następny
+place = miejsce
+time = czas
+race = wyścig
+after = po
+ranking = ranking
+position = pozycja
+
+# DRZEWO / TREE
+leaf = liść
+branch = gałąź
+trunk = pień
+root = korzeń
+forest = las
+bark = kora
+wood = drewno
+apple = jabłko
+shade = cień
+oak = dąb
+
+# DRZWI / DOOR
+handle = klamka
+key = klucz
+lock = zamek
+house = dom
+room = pokój
+entrance = wejście
+knock = pukanie
+open = otwarty
+closed = zamknięty
+threshold = próg
+
+# DUŻO / MUCH
+many = wiele
+more = więcej
+plenty = mnóstwo
+amount = ilość
+full = pełny
+pile = stos
+crowd = tłum
+heap = kupa
+enough = dosyć
+quantity = liczba
+
+# DUŻY / BIG
+large = duży
+huge = ogromny
+giant = olbrzym
+elephant = słoń
+mountain = góra
+truck = ciężarówka
+skyscraper = wieżowiec
+whale = wieloryb
+planet = planeta
+tower = wieża
+
+# DYWAN / RUG
+floor = podłoga
+carpet = wykładzina
+room = pokój
+soft = miękki
+wool = wełna
+pattern = wzór
+vacuum = odkurzacz
+livingroom = salon
+dust = kurz
+fabric = tkanina
+
+# DZIADEK / GRANDPA
+grandma = babcia
+father = ojciec
+family = rodzina
+old = stary
+grandchild = wnuk
+home = dom
+beard = broda
+hug = uścisk
+love = miłość
+story = opowieść
+
+# DZIDZI / BABY
+infant = niemowlę
+child = dziecko
+mother = matka
+father = ojciec
+diaper = pielucha
+crib = łóżeczko
+bottle = butelka
+crying = płacz
+pacifier = smoczek
+stroller = wózek
+
+# DZIECI / CHILDREN
+child = dziecko
+play = zabawa
+school = szkoła
+toy = zabawka
+family = rodzina
+boy = chłopiec
+girl = dziewczynka
+park = park
+game = gra
+laughter = śmiech
+
+# DZIEWCZYNKA / GIRL
+child = dziecko
+boy = chłopiec
+daughter = córka
+sister = siostra
+mother = matka
+father = ojciec
+dress = sukienka
+toy = zabawka
+school = szkoła
+young = młody
+
+# DZIEŃ / DAY
+sun = słońce
+morning = poranek
+today = dzisiaj
+light = światło
+time = czas
+calendar = kalendarz
+work = praca
+school = szkoła
+afternoon = popołudnie
+evening = wieczór
+
+# DZIEŃ DOBRY / HELLO
+greeting = powitanie
+morning = poranek
+welcome = przywitanie
+friend = przyjaciel
+smile = uśmiech
+voice = głos
+meeting = spotkanie
+politeness = uprzejmość
+conversation = rozmowa
+wave = machanie
+
+# DZISIAJ / TODAY
+day = dzień
+now = teraz
+calendar = kalendarz
+morning = poranek
+evening = wieczór
+time = czas
+present = teraźniejszość
+plan = plan
+school = szkoła
+work = praca
+
+# DZIĘKUJĘ / THANK YOU
+thanks = dzięki
+gratitude = wdzięczność
+please = proszę
+gift = prezent
+help = pomoc
+kindness = życzliwość
+smile = uśmiech
+politeness = uprzejmość
+friend = przyjaciel
+appreciation = uznanie
+
+# DZWONIĆ / RING
+phone = telefon
+bell = dzwonek
+sound = dźwięk
+call = telefonowanie
+alarm = alarm
+doorbell = domofon
+noise = hałas
+answer = odpowiedź
+voice = głos
+ear = ucho
+
+# DŻEM / JAM
+fruit = owoc
+strawberry = truskawka
+jar = słoik
+bread = chleb
+sweet = słodki
+breakfast = śniadanie
+spoon = łyżka
+toast = tost
+sugar = cukier
+spread = smarowidło
+
+# FIRANKA / CURTAIN
+window = okno
+fabric = tkanina
+room = pokój
+light = światło
+privacy = prywatność
+rod = karnisz
+white = biały
+hanging = wiszenie
+decoration = dekoracja
+home = dom
+
+# FOKA / SEAL
+animal = zwierzę
+ocean = ocean
+water = woda
+flipper = płetwa
+fish = ryba
+zoo = zoo
+beach = plaża
+mammal = ssak
+swimming = pływanie
+whisker = wąs
+
+# FOTEL / ARMCHAIR
+chair = krzesło
+seat = siedzenie
+sofa = kanapa
+room = pokój
+comfort = wygoda
+cushion = poduszka
+livingroom = salon
+furniture = meble
+sitting = siedzenie
+soft = miękki
+
+# FRYZJER / HAIRDRESSER
+hair = włosy
+scissors = nożyczki
+comb = grzebień
+salon = salon
+haircut = fryzura
+shampoo = szampon
+mirror = lustro
+chair = krzesło
+brush = szczotka
+style = uczesanie
+
+# GALARETKA / JELLO
+dessert = deser
+sweet = słodki
+fruit = owoc
+bowl = miska
+spoon = łyżka
+jelly = żel
+wiggle = drżenie
+color = kolor
+snack = przekąska
+gelatin = żelatyna
+
+# GARDŁO / THROAT
+neck = szyja
+mouth = buzia
+voice = głos
+cough = kaszel
+sick = chory
+pain = ból
+swallowing = połykanie
+doctor = lekarz
+medicine = lekarstwo
+body = ciało
+
+# GARNEK / POT
+kitchen = kuchnia
+cooking = gotowanie
+soup = zupa
+stove = kuchenka
+lid = pokrywka
+water = woda
+spoon = łyżka
+metal = metal
+handle = uchwyt
+dinner = obiad
+
+# GAZETA / NEWSPAPER
+news = wiadomości
+paper = papier
+reading = czytanie
+article = artykuł
+picture = zdjęcie
+headline = nagłówek
+letter = litera
+page = strona
+printer = drukarka
+information = informacja
+
+# GAŁĄŹ / BRANCH
+tree = drzewo
+leaf = liść
+trunk = pień
+wood = drewno
+forest = las
+bird = ptak
+nest = gniazdo
+twig = gałązka
+bark = kora
+shade = cień
+
+# GONIĆ / CHASE
+running = bieganie
+catch = łapać
+game = gra
+dog = pies
+cat = kot
+speed = prędkość
+play = zabawa
+escape = ucieczka
+race = wyścig
+pursuit = pościg
+
+# GORĄCO / HOT
+heat = ciepło
+summer = lato
+sun = słońce
+fire = ogień
+temperature = temperatura
+sweat = pot
+warm = ciepły
+desert = pustynia
+tea = herbata
+burning = palenie
+
+# GORĄCY / HOT
+heat = ciepło
+fire = ogień
+sun = słońce
+soup = zupa
+tea = herbata
+temperature = temperatura
+burning = palenie
+stove = kuchenka
+steam = para
+summer = lato
+
+# GOTOWAĆ / COOK
+kitchen = kuchnia
+pot = garnek
+stove = kuchenka
+food = jedzenie
+soup = zupa
+dinner = obiad
+spoon = łyżka
+recipe = przepis
+water = woda
+vegetable = warzywo
+
+# GOŁĄB / PIGEON
+bird = ptak
+wing = skrzydło
+feather = pióro
+city = miasto
+square = plac
+flying = latanie
+nest = gniazdo
+beak = dziób
+gray = szary
+crumb = okruch
+
+# GOŚCIE / GUESTS
+visitor = gość
+home = dom
+party = impreza
+family = rodzina
+friend = przyjaciel
+table = stół
+food = jedzenie
+welcome = powitanie
+visit = wizyta
+conversation = rozmowa
+
+# GRABKI / RAKE
+garden = ogród
+leaves = liście
+grass = trawa
+tool = narzędzie
+sand = piasek
+yard = podwórko
+handle = uchwyt
+digging = kopanie
+soil = ziemia
+cleaning = sprzątanie
+
+# GRAĆ / PLAY
+game = gra
+toy = zabawka
+ball = piłka
+music = muzyka
+fun = zabawa
+child = dziecko
+friend = przyjaciel
+outside = dwór
+team = drużyna
+laugh = śmiech
+
+# GROSZEK / PEAS
+vegetable = warzywo
+green = zielony
+pod = strąk
+soup = zupa
+dinner = obiad
+plate = talerz
+garden = ogród
+small = mały
+food = jedzenie
+seed = nasiono
+
+# GRYŹĆ / BITE
+teeth = zęby
+mouth = buzia
+food = jedzenie
+apple = jabłko
+dog = pies
+pain = ból
+chewing = żucie
+hard = twardy
+piece = kawałek
+hungry = głodny
+
+# GRZEBIEŃ / COMB
+hair = włosy
+brush = szczotka
+mirror = lustro
+head = głowa
+teeth = zęby
+bathroom = łazienka
+barber = fryzjer
+tangle = kołtun
+morning = poranek
+style = fryzura
+
+# GRZYBY / MUSHROOMS
+forest = las
+cap = kapelusz
+stem = trzon
+soup = zupa
+basket = koszyk
+picking = zbieranie
+autumn = jesień
+food = jedzenie
+poison = trucizna
+dinner = obiad
+
+# GUMKA / ERASER
+pencil = ołówek
+paper = papier
+mistake = błąd
+school = szkoła
+writing = pisanie
+desk = biurko
+rubber = guma
+drawing = rysunek
+clean = czysty
+student = uczeń
+
+# GUZIK / BUTTON
+shirt = koszula
+clothes = ubranie
+coat = płaszcz
+hole = dziurka
+sewing = szycie
+thread = nić
+round = okrągły
+small = mały
+fastening = zapięcie
+finger = palec
+
+# GWIAZDA / STAR
+sky = niebo
+night = noc
+moon = księżyc
+light = światło
+space = kosmos
+sun = słońce
+shine = blask
+wish = życzenie
+Christmas = gwiazdka
+planet = planeta
+
+# GÓRY / MOUNTAINS
+peak = szczyt
+hill = wzgórze
+snow = śnieg
+climbing = wspinanie
+trail = szlak
+forest = las
+valley = dolina
+rock = skała
+view = widok
+height = wysokość
+
+# GĘŚ / GOOSE
+bird = ptak
+feather = pióro
+wing = skrzydło
+beak = dziób
+farm = farma
+pond = staw
+egg = jajko
+honk = gęganie
+white = biały
+animal = zwierzę
+
+# GŁODNY / HUNGRY
+food = jedzenie
+stomach = brzuch
+meal = posiłek
+eat = jeść
+dinner = obiad
+snack = przekąska
+appetite = apetyt
+bread = chleb
+empty = pusty
+breakfast = śniadanie
+
+# GŁOWA / HEAD
+face = twarz
+hair = włosy
+eyes = oczy
+nose = nos
+mouth = buzia
+ear = ucho
+hat = czapka
+brain = mózg
+forehead = czoło
+neck = szyja
+
+# GŁOŚNO / LOUD
+noise = hałas
+shout = krzyk
+music = muzyka
+voice = głos
+speaker = głośnik
+sound = dźwięk
+drum = bęben
+crying = płacz
+party = impreza
+ear = ucho
+
+# GŁUPI / SILLY
+funny = śmieszny
+nonsense = bzdura
+joke = żart
+mistake = błąd
+child = dziecko
+laugh = śmiech
+foolish = niemądry
+game = zabawa
+clown = klaun
+strange = dziwny
+
+# HELIKOPTER / HELICOPTER
+air = powietrze
+sky = niebo
+pilot = pilot
+rotor = wirnik
+flying = latanie
+landing = lądowanie
+rescue = ratunek
+airport = lotnisko
+noise = hałas
+machine = maszyna
+
+# HERBATA / TEA
+cup = kubek
+water = woda
+kettle = czajnik
+hot = gorący
+sugar = cukier
+lemon = cytryna
+drink = napój
+spoon = łyżka
+breakfast = śniadanie
+warm = ciepły
+
+# HUŚTAWKA / SWING
+playground = plac
+child = dziecko
+seat = siedzenie
+chain = łańcuch
+park = park
+back = tył
+forth = przód
+fun = zabawa
+outside = dwór
+movement = ruch
+
+# HUŚTAĆ / SWING
+movement = ruch
+play = zabawa
+child = dziecko
+swing = huśtawka
+back = tył
+forth = przód
+push = pchać
+park = park
+seat = siedzenie
+laugh = śmiech
+
+# IGŁA / NEEDLE
+thread = nić
+sewing = szycie
+fabric = materiał
+sharp = ostry
+pin = szpilka
+finger = palec
+doctor = lekarz
+shot = zastrzyk
+small = mały
+metal = metal
+
+# IMIENINY / BIRTHDAY
+party = impreza
+cake = ciasto
+gift = prezent
+candles = świeczki
+family = rodzina
+friends = przyjaciele
+song = piosenka
+celebration = święto
+balloon = balonik
+wishes = życzenia
+
+# INNY / OTHER
+different = różny
+another = kolejny
+new = nowy
+strange = dziwny
+choice = wybór
+second = drugi
+separate = osobny
+change = zmiana
+variety = różnorodność
+else = inaczej
+
+# IŚĆ / GO
+walk = chodzić
+foot = stopa
+road = droga
+outside = dwór
+path = ścieżka
+place = miejsce
+movement = ruch
+forward = przód
+leave = wyjść
+travel = podróż
+
+# JABŁKO / APPLE
+fruit = owoc
+red = czerwony
+green = zielony
+tree = drzewo
+seed = nasiono
+sweet = słodki
+bite = kęs
+juice = sok
+peel = skórka
+food = jedzenie
+
+# JAJKO / EGG
+chicken = kura
+shell = skorupka
+breakfast = śniadanie
+white = białko
+yolk = żółtko
+nest = gniazdo
+cooking = gotowanie
+pan = patelnia
+food = jedzenie
+round = okrągły
+
+# JECHAĆ / RIDE
+car = samochód
+bus = autobus
+bike = rower
+road = droga
+driver = kierowca
+seat = siedzenie
+travel = podróż
+wheel = koło
+movement = ruch
+trip = wycieczka
+
+# JEDZENIE / FOOD
+meal = posiłek
+bread = chleb
+fruit = owoc
+vegetable = warzywo
+plate = talerz
+kitchen = kuchnia
+hungry = głodny
+eat = jeść
+dinner = obiad
+snack = przekąska
+
+# JESZCZE / MORE
+again = znowu
+extra = dodatkowy
+another = kolejny
+enough = dosyć
+want = chcieć
+food = jedzenie
+play = zabawa
+amount = ilość
+repeat = powtórka
+still = nadal
+
+# JEŚĆ / EAT
+food = jedzenie
+mouth = buzia
+teeth = zęby
+meal = posiłek
+plate = talerz
+spoon = łyżka
+hungry = głodny
+chewing = żucie
+dinner = obiad
+breakfast = śniadanie
+
+# JEŻ / HEDGEHOG
+spines = kolce
+animal = zwierzę
+forest = las
+small = mały
+nose = nos
+leaves = liście
+night = noc
+insect = owad
+garden = ogród
+ball = kula
+
+# JOGURT / YOGURT
+milk = mleko
+spoon = łyżka
+cup = kubek
+fruit = owoc
+breakfast = śniadanie
+snack = przekąska
+sweet = słodki
+cream = krem
+food = jedzenie
+cold = zimny
+
+# JUTRO / TOMORROW
+future = przyszłość
+day = dzień
+morning = poranek
+calendar = kalendarz
+plan = plan
+soon = wkrótce
+today = dzisiaj
+time = czas
+next = następny
+sleep = sen
+
+# JĘZYK / TONGUE
+mouth = buzia
+taste = smak
+teeth = zęby
+speaking = mówienie
+licking = lizanie
+food = jedzenie
+body = ciało
+wet = mokry
+red = czerwony
+word = słowo
+
+# KACZKA / DUCK
+bird = ptak
+beak = dziób
+wing = skrzydło
+feather = pióro
+pond = staw
+water = woda
+quack = kwa
+egg = jajko
+swimming = pływanie
+farm = farma
+
+# KAKAO / COCOA
+chocolate = czekolada
+milk = mleko
+cup = kubek
+warm = ciepły
+sweet = słodki
+drink = napój
+powder = proszek
+sugar = cukier
+breakfast = śniadanie
+brown = brązowy
+
+# KALOSZE / BOOTS
+rain = deszcz
+mud = błoto
+feet = stopy
+shoes = buty
+puddle = kałuża
+rubber = guma
+walking = chodzenie
+wet = mokry
+outside = dwór
+pair = para
+
+# KAMIEŃ / ROCK
+stone = kamień
+hard = twardy
+ground = ziemia
+road = droga
+mountain = góra
+river = rzeka
+throwing = rzucanie
+gray = szary
+heavy = ciężki
+pebble = kamyk
+
+# KANAPKA / SANDWICH
+bread = chleb
+butter = masło
+cheese = ser
+ham = szynka
+lunch = obiad
+plate = talerz
+food = jedzenie
+bite = kęs
+hungry = głodny
+kitchen = kuchnia
+
+# KAPELUSZ / HAT
+head = głowa
+brim = rondo
+sun = słońce
+clothes = ubranie
+wearing = noszenie
+hair = włosy
+old = stary
+cowboy = kowboj
+cap = czapka
+shade = cień
+
+# KAPUSTA / CABBAGE
+vegetable = warzywo
+green = zielony
+leaf = liść
+soup = zupa
+salad = sałatka
+garden = ogród
+food = jedzenie
+dinner = obiad
+head = główka
+cooking = gotowanie
+
+# KARTKA / PAPER
+sheet = kartka
+writing = pisanie
+drawing = rysunek
+pencil = ołówek
+book = książka
+letter = list
+white = biały
+desk = biurko
+school = szkoła
+page = strona
+
+# KASZKA / CEREAL
+breakfast = śniadanie
+milk = mleko
+bowl = miska
+spoon = łyżka
+baby = dziecko
+grain = ziarno
+food = jedzenie
+warm = ciepły
+sweet = słodki
+porridge = owsianka
+
+# KAWA / COFFEE
+cup = kubek
+hot = gorący
+drink = napój
+milk = mleko
+sugar = cukier
+morning = poranek
+brown = brązowy
+caffeine = kofeina
+spoon = łyżka
+aroma = zapach
+
+# KETCHUP / KETCHUP
+tomato = pomidor
+red = czerwony
+sauce = sos
+fries = frytki
+bottle = butelka
+food = jedzenie
+sweet = słodki
+dinner = obiad
+sandwich = kanapka
+taste = smak
+
+# KIESZEŃ / POCKET
+pants = spodnie
+jacket = kurtka
+money = pieniądze
+key = klucz
+hand = ręka
+small = mały
+clothes = ubranie
+hidden = ukryty
+phone = telefon
+button = guzik
+
+# KIEŁBASA / SAUSAGE
+meat = mięso
+dinner = obiad
+grill = grill
+food = jedzenie
+hot = gorący
+bread = chleb
+mustard = musztarda
+kitchen = kuchnia
+slice = plaster
+pork = wieprzowina
+
+# KIJEK / STICK
+wood = drewno
+tree = drzewo
+branch = gałąź
+walking = chodzenie
+dog = pies
+throwing = rzucanie
+forest = las
+long = długi
+thin = cienki
+ground = ziemia
+
+# KLOCKI / BLOCKS
+toy = zabawka
+building = budowanie
+tower = wieża
+child = dziecko
+play = zabawa
+color = kolor
+wood = drewno
+plastic = plastik
+box = pudełko
+stack = stos
+
+# KLUCZ / KEY
+door = drzwi
+lock = zamek
+house = dom
+car = samochód
+pocket = kieszeń
+metal = metal
+open = otworzyć
+closed = zamknięty
+ring = kółko
+lost = zgubiony
+
+# KOC / BLANKET
+bed = łóżko
+sleep = sen
+warmth = ciepło
+soft = miękki
+night = noc
+pillow = poduszka
+winter = zima
+covering = przykrycie
+comfort = wygoda
+fabric = tkanina
+
+# KOCHANY / DEAR
+love = miłość
+sweet = słodki
+child = dziecko
+mom = mama
+family = rodzina
+hug = uścisk
+kind = miły
+heart = serce
+affection = czułość
+favorite = ulubiony
+
+# KOCHAĆ / LOVE
+heart = serce
+mom = mama
+family = rodzina
+hug = uścisk
+kiss = pocałunek
+affection = czułość
+care = opieka
+child = dziecko
+friend = przyjaciel
+happiness = szczęście
+
+# KOGUT / ROOSTER
+chicken = kura
+farm = farma
+bird = ptak
+beak = dziób
+feather = pióro
+morning = poranek
+crow = pianie
+hen = kura
+wing = skrzydło
+animal = zwierzę
+
+# KOLACJA / DINNER
+meal = posiłek
+food = jedzenie
+evening = wieczór
+plate = talerz
+table = stół
+fork = widelec
+soup = zupa
+bread = chleb
+family = rodzina
+kitchen = kuchnia
+
+# KOLANO / KNEE
+leg = noga
+body = ciało
+joint = staw
+pants = spodnie
+fall = upadek
+pain = ból
+skin = skóra
+walking = chodzenie
+sitting = siedzenie
+bend = zgięcie
+
+# KOLEGA / FRIEND
+child = dziecko
+play = zabawa
+school = szkoła
+buddy = kumpel
+game = gra
+together = razem
+laugh = śmiech
+visit = wizyta
+kind = miły
+sharing = dzielenie
+
+# KOPARKA / DIGGER
+machine = maszyna
+construction = budowa
+truck = ciężarówka
+dirt = ziemia
+hole = dziura
+bucket = łyżka
+driver = kierowca
+road = droga
+big = duży
+digging = kopanie
+
+# KOPAĆ / KICK
+foot = stopa
+leg = noga
+ball = piłka
+soccer = piłka
+game = gra
+hit = uderzenie
+shoe = but
+running = bieganie
+strong = silny
+movement = ruch
+
+# KORYTARZ / HALLWAY
+house = dom
+room = pokój
+door = drzwi
+floor = podłoga
+wall = ściana
+school = szkoła
+walking = chodzenie
+long = długi
+entrance = wejście
+light = światło
+
+# KOSZULA / SHIRT
+clothes = ubranie
+button = guzik
+sleeve = rękaw
+collar = kołnierz
+fabric = tkanina
+wearing = noszenie
+closet = szafa
+laundry = pranie
+pants = spodnie
+hanger = wieszak
+
+# KOSZYK / BASKET
+handle = uchwyt
+shopping = zakupy
+fruit = owoc
+bread = chleb
+eggs = jajka
+picnic = piknik
+container = pojemnik
+wicker = wiklina
+carrying = noszenie
+store = sklep
+
+# KOT / CAT
+meow = miau
+kitten = kociak
+whisker = wąs
+claw = pazur
+tail = ogon
+fur = sierść
+mouse = mysz
+milk = mleko
+purring = mruczenie
+pet = zwierzak
+
+# KOTLET / CUTLET
+meat = mięso
+dinner = obiad
+plate = talerz
+potatoes = ziemniaki
+fork = widelec
+knife = nóż
+food = jedzenie
+fried = smażony
+kitchen = kuchnia
+breaded = panierowany
+
+# KOZA / GOAT
+animal = zwierzę
+farm = farma
+milk = mleko
+horn = róg
+beard = broda
+grass = trawa
+cheese = ser
+kid = koźlę
+hooves = kopyta
+bleat = meczenie
+
+# KOŃ / HORSE
+animal = zwierzę
+farm = farma
+riding = jazda
+saddle = siodło
+mane = grzywa
+tail = ogon
+hooves = kopyta
+hay = siano
+stable = stajnia
+gallop = galop
+
+# KOŚCIÓŁ / CHURCH
+priest = ksiądz
+bell = dzwon
+cross = krzyż
+prayer = modlitwa
+Sunday = niedziela
+building = budynek
+altar = ołtarz
+wedding = ślub
+singing = śpiew
+tower = wieża
+
+# KRAN / FAUCET
+water = woda
+sink = zlew
+bathroom = łazienka
+kitchen = kuchnia
+tap = kran
+handle = uchwyt
+washing = mycie
+drip = kapanie
+pipe = rura
+hot = gorący
+
+# KRASNOLUDEK / DWARF
+small = mały
+fairy = bajka
+hat = czapka
+beard = broda
+forest = las
+garden = ogród
+gnome = gnom
+story = opowieść
+magic = magia
+short = niski
+
+# KREDKI / CRAYONS
+color = kolor
+drawing = rysunek
+paper = papier
+child = dziecko
+school = szkoła
+box = pudełko
+red = czerwony
+blue = niebieski
+picture = obrazek
+art = sztuka
+
+# KREW / BLOOD
+red = czerwony
+body = ciało
+cut = skaleczenie
+doctor = lekarz
+wound = rana
+heart = serce
+pain = ból
+hospital = szpital
+drop = kropla
+vein = żyła
+
+# KROWA / COW
+milk = mleko
+farm = farma
+animal = zwierzę
+grass = trawa
+calf = cielę
+horn = róg
+tail = ogon
+field = pole
+moo = muu
+cheese = ser
+
+# KRZESŁO / CHAIR
+seat = siedzenie
+table = stół
+leg = noga
+back = oparcie
+wood = drewno
+sitting = siedzenie
+room = pokój
+furniture = meble
+kitchen = kuchnia
+desk = biurko
+
+# KRZYCZEĆ / YELL
+voice = głos
+loud = głośno
+noise = hałas
+anger = złość
+mouth = buzia
+cry = płacz
+calling = wołanie
+sound = dźwięk
+warning = ostrzeżenie
+fear = strach
+
+# KRÓL / KING
+queen = królowa
+castle = zamek
+crown = korona
+throne = tron
+prince = książę
+princess = księżniczka
+kingdom = królestwo
+ruler = władca
+gold = złoto
+story = bajka
+
+# KRÓLIK / BUNNY
+rabbit = królik
+ears = uszy
+carrot = marchewka
+fur = sierść
+animal = zwierzę
+hop = skok
+cage = klatka
+grass = trawa
+tail = ogon
+pet = zwierzak
+
+# KSIĄDZ / PRIEST
+church = kościół
+prayer = modlitwa
+cross = krzyż
+mass = msza
+altar = ołtarz
+Sunday = niedziela
+wedding = ślub
+robe = szata
+bell = dzwon
+faith = wiara
+
+# KSIĄŻKA / BOOK
+page = strona
+story = bajka
+reading = czytanie
+letter = litera
+word = słowo
+library = biblioteka
+cover = okładka
+picture = obrazek
+shelf = półka
+paper = papier
+
+# KSIĘŻYC / MOON
+night = noc
+sky = niebo
+star = gwiazda
+darkness = ciemność
+light = światło
+space = kosmos
+sleep = sen
+evening = wieczór
+round = okrągły
+cloud = chmura
+
+# KUBEK / CUP
+drink = napój
+tea = herbata
+water = woda
+milk = mleko
+handle = uchwyt
+kitchen = kuchnia
+coffee = kawa
+hot = gorący
+sip = łyk
+table = stół
+
+# KUCHNIA / KITCHEN
+cooking = gotowanie
+stove = kuchenka
+pot = garnek
+sink = zlew
+table = stół
+food = jedzenie
+spoon = łyżka
+plate = talerz
+cupboard = szafka
+refrigerator = lodówka
+
+# KUPIĆ / BUY
+store = sklep
+money = pieniądze
+shopping = zakupy
+price = cena
+toy = zabawka
+food = jedzenie
+cashier = kasjer
+bag = torba
+paying = płacenie
+receipt = paragon
+
+# KUPKA / POOP
+potty = nocnik
+diaper = pielucha
+toilet = toaleta
+bathroom = łazienka
+smell = zapach
+baby = dziecko
+dirty = brudny
+bottom = pupa
+paper = papier
+flush = spłukiwanie
+
+# KURA / CHICKEN
+hen = kura
+egg = jajko
+farm = farma
+bird = ptak
+feather = pióro
+beak = dziób
+wing = skrzydło
+rooster = kogut
+chick = kurczątko
+cluck = gdakanie
+
+# KURCZAK / CHICKEN
+meat = mięso
+food = jedzenie
+dinner = obiad
+farm = farma
+bird = ptak
+egg = jajko
+wing = skrzydło
+soup = zupa
+plate = talerz
+cooking = gotowanie
+
+# KURCZĄTKO / CHICK
+baby = dziecko
+chicken = kura
+egg = jajko
+farm = farma
+yellow = żółty
+small = mały
+feather = pióro
+beak = dziób
+nest = gniazdo
+bird = ptak
+
+# KURTKA / JACKET
+coat = płaszcz
+clothes = ubranie
+sleeve = rękaw
+zipper = zamek
+pocket = kieszeń
+winter = zima
+cold = zimno
+wearing = noszenie
+hood = kaptur
+closet = szafa
+
+# KWIATEK / FLOWER
+plant = roślina
+garden = ogród
+petal = płatek
+stem = łodyga
+leaf = liść
+color = kolor
+smell = zapach
+vase = wazon
+spring = wiosna
+bee = pszczoła
+
+# KĄPAĆ SIĘ / BATHE
+bath = kąpiel
+water = woda
+tub = wanna
+soap = mydło
+wash = mycie
+clean = czysty
+towel = ręcznik
+bathroom = łazienka
+shampoo = szampon
+splash = plusk
+
+# KŁAŚĆ / PUT
+place = miejsce
+hand = ręka
+table = stół
+floor = podłoga
+down = dół
+object = rzecz
+bed = łóżko
+arranging = układanie
+setting = stawianie
+placing = kładzenie
+
+# LALKA / DOLL
+toy = zabawka
+girl = dziewczynka
+dress = sukienka
+hair = włosy
+baby = dziecko
+play = zabawa
+house = domek
+eyes = oczy
+clothes = ubranie
+pretending = udawanie
+
+# LAMPA / LAMP
+light = światło
+bulb = żarówka
+room = pokój
+table = stół
+night = noc
+switch = włącznik
+shade = klosz
+desk = biurko
+electricity = prąd
+bright = jasny
+
+# LAS / FOREST
+tree = drzewo
+leaf = liść
+animal = zwierzę
+mushroom = grzyb
+path = ścieżka
+bird = ptak
+shade = cień
+green = zielony
+wood = drewno
+nature = przyroda
+
+# LAĆ / POUR
+water = woda
+cup = kubek
+bottle = butelka
+spilling = rozlewanie
+drink = napój
+liquid = płyn
+jug = dzbanek
+sink = zlew
+rain = deszcz
+stream = strumień
+
+# LECIEĆ / FLY
+bird = ptak
+airplane = samolot
+sky = niebo
+wing = skrzydło
+air = powietrze
+helicopter = helikopter
+cloud = chmura
+travel = podróż
+high = wysoko
+landing = lądowanie
+
+# LEKARSTWA / MEDICINE
+doctor = lekarz
+pill = tabletka
+syrup = syrop
+pharmacy = apteka
+sick = chory
+health = zdrowie
+bottle = butelka
+vitamin = witamina
+treatment = leczenie
+pain = ból
+
+# LEW / LION
+animal = zwierzę
+mane = grzywa
+roar = ryk
+zoo = zoo
+king = król
+cat = kot
+wild = dziki
+tail = ogon
+teeth = zęby
+Africa = Afryka
+
+# LEŻEĆ / LIE
+bed = łóżko
+sleep = sen
+floor = podłoga
+rest = odpoczynek
+body = ciało
+blanket = koc
+pillow = poduszka
+tired = zmęczony
+down = dół
+sofa = kanapa
+
+# LIS / FOX
+animal = zwierzę
+forest = las
+tail = ogon
+fur = sierść
+red = rudy
+wild = dziki
+clever = sprytny
+hole = nora
+night = noc
+hunter = łowca
+
+# LISTEK / LEAF
+tree = drzewo
+branch = gałąź
+green = zielony
+plant = roślina
+forest = las
+autumn = jesień
+wind = wiatr
+garden = ogród
+stem = łodyga
+small = mały
+
+# LIZAK / LOLLIPOP
+candy = cukierek
+sweet = słodki
+stick = patyczek
+sugar = cukier
+child = dziecko
+flavor = smak
+round = okrągły
+color = kolor
+treat = smakołyk
+store = sklep
+
+# LODY / ICE CREAM
+cold = zimny
+dessert = deser
+sweet = słodki
+cone = wafelek
+milk = mleko
+summer = lato
+scoop = kulka
+flavor = smak
+chocolate = czekolada
+vanilla = wanilia
+
+# LODÓWKA / REFRIGERATOR
+cold = zimno
+kitchen = kuchnia
+food = jedzenie
+milk = mleko
+door = drzwi
+shelf = półka
+freezer = zamrażarka
+ice = lód
+electricity = prąd
+storage = przechowywanie
+
+# LOKOMOTYWA / TRAIN
+train = pociąg
+tracks = tory
+station = stacja
+engine = silnik
+wheels = koła
+smoke = dym
+travel = podróż
+passenger = pasażer
+conductor = konduktor
+whistle = gwizdek
+
+# LUBIĆ / LIKE
+enjoy = cieszyć
+favorite = ulubiony
+want = chcieć
+happy = szczęśliwy
+friend = przyjaciel
+toy = zabawka
+food = jedzenie
+fun = zabawa
+smile = uśmiech
+love = kochać
+
+# LUDZIE / PEOPLE
+person = osoba
+man = mężczyzna
+woman = kobieta
+child = dziecko
+family = rodzina
+crowd = tłum
+friends = przyjaciele
+city = miasto
+group = grupa
+talking = rozmowa
+
+# LUSTRO / MIRROR
+face = twarz
+reflection = odbicie
+bathroom = łazienka
+glass = szkło
+looking = patrzenie
+hair = włosy
+wall = ściana
+light = światło
+clean = czysty
+image = obraz
+
+# MAJTKI / UNDERWEAR
+clothes = ubranie
+pants = spodnie
+body = ciało
+drawer = szuflada
+cotton = bawełna
+wearing = noszenie
+laundry = pranie
+clean = czysty
+soft = miękki
+bathroom = łazienka
+
+# MAKARON / NOODLES
+pasta = makaron
+sauce = sos
+dinner = obiad
+plate = talerz
+fork = widelec
+kitchen = kuchnia
+cooking = gotowanie
+food = jedzenie
+soup = zupa
+cheese = ser
+
+# MALOWAĆ / PAINT
+paint = farba
+brush = pędzel
+color = kolor
+picture = obraz
+paper = papier
+wall = ściana
+art = sztuka
+drawing = rysunek
+hand = ręka
+painting = malowanie
+
+# MAMA / MOM
+mother = matka
+baby = dziecko
+family = rodzina
+hug = uścisk
+love = miłość
+home = dom
+care = opieka
+child = dziecko
+kiss = pocałunek
+warmth = ciepło
+
+# MANDARYNKA / TANGERINE
+fruit = owoc
+orange = pomarańczowy
+peel = skórka
+sweet = słodki
+juice = sok
+slice = cząstka
+snack = przekąska
+food = jedzenie
+citrus = cytrus
+seed = pestka
+
+# MARCHEWKA / CARROT
+vegetable = warzywo
+orange = pomarańczowy
+rabbit = królik
+soup = zupa
+garden = ogród
+root = korzeń
+crunch = chrupanie
+food = jedzenie
+salad = sałatka
+dinner = obiad
+
+# MASŁO / BUTTER
+bread = chleb
+spread = smarowidło
+milk = mleko
+yellow = żółty
+knife = nóż
+sandwich = kanapka
+breakfast = śniadanie
+toast = tost
+food = jedzenie
+fat = tłuszcz
+
+# MAŁO / LITTLE
+small = mały
+few = kilka
+less = mniej
+amount = ilość
+tiny = malutki
+bit = trochę
+empty = pusty
+enough = dosyć
+more = więcej
+notmuch = niewiele
+
+# MAŁPA / MONKEY
+animal = zwierzę
+banana = banan
+tree = drzewo
+tail = ogon
+zoo = zoo
+jungle = dżungla
+climbing = wspinanie
+funny = śmieszny
+fur = sierść
+hand = ręka
+
+# MAŁY / SMALL
+tiny = malutki
+little = mały
+baby = dziecko
+short = niski
+mouse = mysz
+ant = mrówka
+seed = nasiono
+button = guzik
+toy = zabawka
+piece = kawałek
+
+# MIASTO / CITY
+street = ulica
+building = budynek
+people = ludzie
+car = samochód
+bus = autobus
+traffic = ruch
+store = sklep
+house = dom
+square = plac
+road = droga
+
+# MIAU / MEOW
+cat = kot
+kitten = kociak
+sound = dźwięk
+animal = zwierzę
+mouth = buzia
+purring = mruczenie
+pet = zwierzak
+tail = ogon
+fur = sierść
+milk = mleko
+
+# MIESZKAĆ / LIVE
+house = dom
+home = mieszkanie
+family = rodzina
+city = miasto
+room = pokój
+address = adres
+apartment = mieszkanie
+sleep = spać
+stay = zostać
+place = miejsce
+
+# MIEĆ / HAVE
+own = posiadać
+hand = ręka
+toy = zabawka
+thing = rzecz
+money = pieniądze
+house = dom
+need = potrzeba
+get = dostać
+keep = trzymać
+belonging = własność
+
+# MIOTŁA / BROOM
+sweeping = zamiatanie
+floor = podłoga
+cleaning = sprzątanie
+dust = kurz
+handle = kij
+dirt = brud
+kitchen = kuchnia
+witch = czarownica
+corner = kąt
+brush = szczotka
+
+# MISKA / BOWL
+soup = zupa
+spoon = łyżka
+food = jedzenie
+cereal = płatki
+water = woda
+kitchen = kuchnia
+dog = pies
+cat = kot
+dish = naczynie
+table = stół
+
+# MIÓD / HONEY
+bee = pszczoła
+sweet = słodki
+jar = słoik
+tea = herbata
+bread = chleb
+yellow = żółty
+sticky = lepki
+spoon = łyżka
+food = jedzenie
+flower = kwiat
+
+# MIĘSO / MEAT
+dinner = obiad
+food = jedzenie
+chicken = kurczak
+sausage = kiełbasa
+cutlet = kotlet
+plate = talerz
+cooking = gotowanie
+knife = nóż
+kitchen = kuchnia
+protein = białko
+
+# MIŚ / BEAR
+teddy = pluszak
+animal = zwierzę
+fur = sierść
+forest = las
+toy = zabawka
+brown = brązowy
+honey = miód
+paw = łapa
+hug = uścisk
+sleep = sen
+
+# MLEKO / MILK
+cow = krowa
+drink = napój
+white = biały
+cup = kubek
+bottle = butelka
+breakfast = śniadanie
+cereal = płatki
+baby = dziecko
+cold = zimny
+food = jedzenie
+
+# MOCNO / STRONG
+strength = siła
+hard = twardo
+tight = ciasno
+hug = uścisk
+heavy = ciężki
+muscle = mięsień
+firmly = pewnie
+power = moc
+loud = głośno
+grip = chwyt
+
+# MOKRO / WET
+water = woda
+rain = deszcz
+puddle = kałuża
+mud = błoto
+clothes = ubranie
+bath = kąpiel
+towel = ręcznik
+floor = podłoga
+weather = pogoda
+outside = dwór
+
+# MOKRY / WET
+water = woda
+rain = deszcz
+towel = ręcznik
+clothes = ubranie
+hair = włosy
+puddle = kałuża
+mud = błoto
+bath = kąpiel
+dry = suchy
+umbrella = parasol
+
+# MORZE / SEA
+water = woda
+wave = fala
+beach = plaża
+sand = piasek
+fish = ryba
+boat = łódka
+salt = sól
+shore = brzeg
+swimming = pływanie
+summer = lato
+
+# MOST / BRIDGE
+river = rzeka
+road = droga
+water = woda
+crossing = przejście
+car = samochód
+walking = chodzenie
+city = miasto
+stone = kamień
+wood = drewno
+high = wysoko
+
+# MOTOR / MOTORCYCLE
+road = droga
+wheel = koło
+helmet = kask
+engine = silnik
+driver = kierowca
+speed = prędkość
+gasoline = benzyna
+vehicle = pojazd
+noise = hałas
+ride = jazda
+
+# MOTYLEK / BUTTERFLY
+insect = owad
+wing = skrzydło
+flower = kwiat
+color = kolor
+garden = ogród
+flying = latanie
+spring = wiosna
+caterpillar = gąsienica
+small = mały
+pretty = ładny
+
+# MRÓWKA / ANT
+insect = owad
+small = mały
+colony = kolonia
+ground = ziemia
+food = jedzenie
+hill = kopiec
+black = czarny
+legs = nogi
+worker = robotnica
+tiny = malutki
+
+# MRÓZ / FROST
+cold = zimno
+winter = zima
+ice = lód
+snow = śnieg
+window = okno
+white = biały
+weather = pogoda
+freezing = zamarzanie
+morning = poranek
+coat = kurtka
+
+# MUCHA / FLY
+insect = owad
+wing = skrzydło
+buzzing = bzyczenie
+food = jedzenie
+window = okno
+small = mały
+black = czarny
+summer = lato
+annoying = uciążliwy
+flying = latanie
+
+# MYDŁO / SOAP
+washing = mycie
+water = woda
+bath = kąpiel
+hands = ręce
+clean = czysty
+bathroom = łazienka
+foam = piana
+smell = zapach
+shower = prysznic
+towel = ręcznik
+
+# MYSZKA / MOUSE
+animal = zwierzę
+small = mały
+tail = ogon
+cheese = ser
+cat = kot
+hole = dziura
+gray = szary
+whiskers = wąsy
+pet = zwierzak
+running = bieganie
+
+# MYĆ / WASH
+water = woda
+soap = mydło
+hands = ręce
+bath = kąpiel
+clean = czysty
+towel = ręcznik
+sink = zlew
+face = twarz
+brushing = szczotkowanie
+bathroom = łazienka
+
+# MYŚLEĆ / THINK
+head = głowa
+brain = mózg
+idea = pomysł
+question = pytanie
+mind = umysł
+remembering = pamiętanie
+knowing = wiedza
+quiet = cisza
+problem = problem
+answer = odpowiedź
+
+# MÓJ / MY
+mine = moje
+own = własny
+toy = zabawka
+house = dom
+family = rodzina
+hand = ręka
+name = imię
+belonging = własność
+clothes = ubranie
+friend = przyjaciel
+
+# MÓWIĆ / SAY
+voice = głos
+mouth = buzia
+word = słowo
+talking = rozmowa
+sentence = zdanie
+story = opowieść
+answer = odpowiedź
+question = pytanie
+sound = dźwięk
+person = osoba
+
+# MĄDRY / SMART
+brain = mózg
+thinking = myślenie
+school = szkoła
+book = książka
+learning = nauka
+answer = odpowiedź
+idea = pomysł
+clever = sprytny
+student = uczeń
+knowledge = wiedza
+
+# MŁOTEK / HAMMER
+tool = narzędzie
+nail = gwóźdź
+wood = drewno
+handle = uchwyt
+construction = budowa
+worker = robotnik
+hitting = uderzanie
+metal = metal
+repair = naprawa
+box = skrzynka
+
+# NALEŚNIKI / PANCAKES
+breakfast = śniadanie
+plate = talerz
+syrup = syrop
+jam = dżem
+sweet = słodki
+flour = mąka
+milk = mleko
+egg = jajko
+pan = patelnia
+food = jedzenie
+
+# NAPRAWIAĆ / FIX
+repair = naprawa
+tool = narzędzie
+hammer = młotek
+broken = zepsuty
+machine = maszyna
+worker = robotnik
+car = samochód
+help = pomoc
+screw = śruba
+working = działanie
+
+# NIEBO / SKY
+cloud = chmura
+sun = słońce
+moon = księżyc
+star = gwiazda
+blue = niebieski
+air = powietrze
+bird = ptak
+rain = deszcz
+night = noc
+weather = pogoda
+
+# NIEŚĆ / CARRY
+hand = ręka
+bag = torba
+box = pudełko
+baby = dziecko
+heavy = ciężki
+arms = ramiona
+basket = koszyk
+shopping = zakupy
+lifting = podnoszenie
+bringing = przynoszenie
+
+# NISKO / LOW
+down = dół
+floor = podłoga
+small = mały
+short = niski
+ground = ziemia
+height = wysokość
+under = pod
+chair = krzesło
+crouch = kucanie
+bottom = dół
+
+# NOC / NIGHT
+moon = księżyc
+star = gwiazda
+darkness = ciemność
+sleep = sen
+bed = łóżko
+pillow = poduszka
+dream = sen
+quiet = cisza
+evening = wieczór
+morning = poranek
+
+# NOCNIK / POTTY
+toilet = toaleta
+bathroom = łazienka
+pee = siku
+poop = kupka
+baby = dziecko
+diaper = pielucha
+training = nauka
+sitting = siedzenie
+clean = czysty
+floor = podłoga
+
+# NOGA / LEG
+foot = stopa
+knee = kolano
+body = ciało
+walking = chodzenie
+running = bieganie
+shoe = but
+pants = spodnie
+standing = stanie
+jumping = skakanie
+skin = skóra
+
+# NOS / NOSE
+face = twarz
+smell = zapach
+breathing = oddychanie
+mouth = buzia
+eyes = oczy
+sneeze = kichanie
+tissue = chusteczka
+head = głowa
+cold = katar
+body = ciało
+
+# NOWY / NEW
+fresh = świeży
+clean = czysty
+different = inny
+first = pierwszy
+toy = zabawka
+clothes = ubranie
+shiny = błyszczący
+unused = nieużywany
+change = zmiana
+beginning = początek
+
+# NOŻYCZKI / SCISSORS
+cutting = cięcie
+paper = papier
+hair = włosy
+sharp = ostry
+tool = narzędzie
+hand = ręka
+craft = robótka
+school = szkoła
+metal = metal
+blade = ostrze
+
+# NÓŻ / KNIFE
+cutting = cięcie
+kitchen = kuchnia
+sharp = ostry
+food = jedzenie
+bread = chleb
+meat = mięso
+handle = uchwyt
+blade = ostrze
+fork = widelec
+danger = niebezpieczeństwo
+
+# OBIAD / LUNCH
+meal = posiłek
+food = jedzenie
+plate = talerz
+soup = zupa
+dinner = kolacja
+table = stół
+fork = widelec
+kitchen = kuchnia
+hungry = głodny
+family = rodzina
+
+# OBRAZ / PICTURE
+painting = malowanie
+wall = ściana
+color = kolor
+frame = rama
+art = sztuka
+photo = zdjęcie
+drawing = rysunek
+museum = muzeum
+brush = pędzel
+view = widok
+
+# OBRAZEK / PICTURE
+drawing = rysunek
+paper = papier
+color = kolor
+book = książka
+crayons = kredki
+child = dziecko
+photo = zdjęcie
+page = strona
+art = sztuka
+story = bajka
+
+# OBUDZIĆ SIĘ / WAKE
+morning = poranek
+sleep = sen
+bed = łóżko
+alarm = budzik
+eyes = oczy
+yawn = ziewanie
+day = dzień
+sun = słońce
+gettingup = wstawanie
+tired = zmęczony
+
+# ODKURZACZ / VACUUM
+cleaning = sprzątanie
+floor = podłoga
+dust = kurz
+carpet = dywan
+machine = maszyna
+noise = hałas
+hose = rura
+plug = wtyczka
+home = dom
+dirt = brud
+
+# OGIEŃ / FIRE
+flame = płomień
+hot = gorący
+heat = ciepło
+smoke = dym
+burning = palenie
+wood = drewno
+danger = niebezpieczeństwo
+match = zapałka
+light = światło
+campfire = ognisko
+
+# OGLĄDAĆ / WATCH
+eyes = oczy
+television = telewizor
+movie = film
+looking = patrzenie
+picture = obraz
+show = program
+screen = ekran
+sitting = siedzenie
+attention = uwaga
+see = widzieć
+
+# OGÓREK / CUCUMBER
+vegetable = warzywo
+green = zielony
+salad = sałatka
+pickle = ogórek
+garden = ogród
+food = jedzenie
+slice = plaster
+fresh = świeży
+dinner = obiad
+crunch = chrupanie
+
+# OKNO / WINDOW
+glass = szkło
+house = dom
+room = pokój
+curtain = firanka
+view = widok
+light = światło
+door = drzwi
+wall = ściana
+open = otwarty
+outside = dwór
+
+# OKO / EYE
+face = twarz
+seeing = widzenie
+eyelash = rzęsa
+eyebrow = brew
+tear = łza
+color = kolor
+nose = nos
+head = głowa
+glasses = okulary
+body = ciało
+
+# OKULARY / GLASSES
+eyes = oczy
+seeing = widzenie
+face = twarz
+lens = soczewka
+frame = oprawka
+nose = nos
+reading = czytanie
+doctor = lekarz
+clear = wyraźny
+case = etui
+
+# OPOWIADAĆ / TELL
+story = bajka
+speaking = mówienie
+words = słowa
+voice = głos
+child = dziecko
+book = książka
+conversation = rozmowa
+listening = słuchanie
+memory = wspomnienie
+answer = odpowiedź
+
+# ORZECHY / NUTS
+food = jedzenie
+shell = skorupa
+tree = drzewo
+squirrel = wiewiórka
+snack = przekąska
+brown = brązowy
+hard = twardy
+bowl = miska
+crunch = chrupanie
+forest = las
+
+# OTWARTY / OPEN
+door = drzwi
+window = okno
+unlocked = odblokowany
+wide = szeroki
+inside = środek
+entrance = wejście
+box = pudełko
+book = książka
+mouth = buzia
+available = dostępny
+
+# OTWORZYĆ / OPEN
+door = drzwi
+window = okno
+key = klucz
+box = pudełko
+hand = ręka
+lock = zamek
+inside = środek
+entrance = wejście
+book = książka
+start = początek
+
+# OŁÓWEK / PENCIL
+writing = pisanie
+paper = papier
+eraser = gumka
+school = szkoła
+drawing = rysunek
+wood = drewno
+point = czubek
+desk = biurko
+sharpener = temperówka
+line = linia
+
+# PAJĄK / SPIDER
+web = pajęczyna
+insect = owad
+legs = nogi
+small = mały
+black = czarny
+corner = kąt
+scary = straszny
+crawl = pełzanie
+animal = zwierzę
+bite = ukąszenie
+
+# PALEC / FINGER
+hand = ręka
+nail = paznokieć
+thumb = kciuk
+body = ciało
+pointing = wskazywanie
+ring = pierścionek
+touching = dotykanie
+small = mały
+skin = skóra
+counting = liczenie
+
+# PALIĆ SIĘ / BURN
+fire = ogień
+flame = płomień
+smoke = dym
+hot = gorący
+wood = drewno
+danger = niebezpieczeństwo
+heat = ciepło
+match = zapałka
+light = światło
+ash = popiół
+
+# PALUSZKI / CRACKERS
+snack = przekąska
+salty = słony
+food = jedzenie
+crunch = chrupanie
+bag = torba
+bread = chleb
+child = dziecko
+party = impreza
+stick = patyczek
+plate = talerz
+
+# PAN / MAN
+person = osoba
+father = ojciec
+boy = chłopiec
+adult = dorosły
+beard = broda
+shirt = koszula
+work = praca
+voice = głos
+family = rodzina
+human = człowiek
+
+# PANI / WOMAN
+person = osoba
+mother = matka
+girl = dziewczynka
+adult = dorosły
+dress = sukienka
+hair = włosy
+teacher = nauczycielka
+family = rodzina
+voice = głos
+human = człowiek
+
+# PANTOFLE / SLIPPERS
+feet = stopy
+shoes = buty
+home = dom
+soft = miękki
+floor = podłoga
+warm = ciepły
+wearing = noszenie
+bedroom = sypialnia
+pair = para
+comfortable = wygodny
+
+# PARK / PARK
+tree = drzewo
+grass = trawa
+bench = ławka
+playground = plac
+walk = spacer
+children = dzieci
+dog = pies
+flowers = kwiaty
+path = ścieżka
+outside = dwór
+
+# PARÓWKA / HOT DOG
+sausage = kiełbasa
+bun = bułka
+ketchup = ketchup
+mustard = musztarda
+food = jedzenie
+snack = przekąska
+grill = grill
+meat = mięso
+plate = talerz
+dinner = obiad
+
+# PASEK / BELT
+pants = spodnie
+waist = talia
+buckle = klamra
+clothes = ubranie
+leather = skóra
+hole = dziurka
+wearing = noszenie
+fastening = zapięcie
+black = czarny
+long = długi
+
+# PATRZEĆ / LOOK
+eyes = oczy
+seeing = widzenie
+face = twarz
+watching = oglądanie
+picture = obrazek
+window = okno
+attention = uwaga
+person = osoba
+view = widok
+looking = patrzenie
+
+# PAZNOKCIE / NAILS
+finger = palec
+hand = ręka
+toe = palec
+clippers = obcinaczki
+polish = lakier
+scratch = drapanie
+skin = skóra
+body = ciało
+long = długi
+clean = czysty
+
+# PIASEK / SAND
+beach = plaża
+sandbox = piaskownica
+sea = morze
+bucket = wiaderko
+shovel = łopatka
+castle = zamek
+grain = ziarenko
+yellow = żółty
+ground = ziemia
+play = zabawa
+
+# PICIE / DRINK
+water = woda
+juice = sok
+milk = mleko
+cup = kubek
+bottle = butelka
+thirst = pragnienie
+tea = herbata
+straw = słomka
+liquid = płyn
+sip = łyk
+
+# PIELUSZKA / DIAPER
+baby = dziecko
+poop = kupka
+pee = siku
+potty = nocnik
+bottom = pupa
+changing = przewijanie
+clean = czysty
+dirty = brudny
+mother = mama
+bathroom = łazienka
+
+# PIENIĄDZE / MONEY
+coin = moneta
+bill = banknot
+wallet = portfel
+store = sklep
+buying = kupowanie
+price = cena
+payment = płatność
+cash = gotówka
+bank = bank
+saving = oszczędzanie
+
+# PIEROGI / DUMPLINGS
+food = jedzenie
+dinner = obiad
+plate = talerz
+fork = widelec
+filling = farsz
+potato = ziemniak
+cheese = ser
+cooking = gotowanie
+sourcream = śmietana
+kitchen = kuchnia
+
+# PIES / DOG
+barking = szczekanie
+puppy = szczeniak
+leash = smycz
+collar = obroża
+paw = łapa
+tail = ogon
+bone = kość
+fur = sierść
+walk = spacer
+animal = zwierzę
+
+# PINGWIN / PENGUIN
+bird = ptak
+ice = lód
+snow = śnieg
+black = czarny
+white = biały
+fish = ryba
+cold = zimno
+waddle = kołysanie
+flipper = płetwa
+zoo = zoo
+
+# PISAK / PEN
+writing = pisanie
+paper = papier
+ink = atrament
+drawing = rysunek
+color = kolor
+school = szkoła
+cap = zatyczka
+line = linia
+desk = biurko
+hand = ręka
+
+# PISAĆ / WRITE
+pen = długopis
+pencil = ołówek
+paper = papier
+letter = litera
+word = słowo
+hand = ręka
+school = szkoła
+notebook = zeszyt
+drawing = rysunek
+text = tekst
+
+# PIĆ / DRINK
+water = woda
+juice = sok
+milk = mleko
+cup = kubek
+bottle = butelka
+mouth = buzia
+thirst = pragnienie
+tea = herbata
+sip = łyk
+liquid = płyn
+
+# PIĘKNY / PRETTY
+beautiful = piękny
+nice = ładny
+flower = kwiat
+dress = sukienka
+color = kolor
+smile = uśmiech
+face = twarz
+picture = obraz
+girl = dziewczynka
+lovely = śliczny
+
+# PIŁKA / BALL
+round = okrągły
+game = gra
+kick = kopanie
+throwing = rzucanie
+catch = łapanie
+soccer = piłka
+child = dziecko
+play = zabawa
+field = boisko
+bounce = odbicie
+
+# PIŻAMA / PAJAMAS
+sleep = sen
+bed = łóżko
+night = noc
+clothes = ubranie
+blanket = koc
+pillow = poduszka
+soft = miękki
+bedtime = dobranoc
+wearing = noszenie
+morning = poranek
+
+# PLACEK / PANCAKE
+breakfast = śniadanie
+plate = talerz
+syrup = syrop
+jam = dżem
+sweet = słodki
+flour = mąka
+milk = mleko
+egg = jajko
+pan = patelnia
+food = jedzenie
+
+# PLECY / BACK
+body = ciało
+shoulder = ramię
+spine = kręgosłup
+shirt = koszula
+pain = ból
+skin = skóra
+lying = leżenie
+hug = uścisk
+behind = tył
+neck = szyja
+
+# PLUĆ / SPIT
+mouth = buzia
+saliva = ślina
+tongue = język
+teeth = zęby
+bad = zły
+wet = mokry
+floor = podłoga
+disgust = obrzydzenie
+bubble = bańka
+face = twarz
+
+# POCIĄG / TRAIN
+tracks = tory
+station = stacja
+locomotive = lokomotywa
+wheel = koło
+passenger = pasażer
+ticket = bilet
+travel = podróż
+engine = silnik
+whistle = gwizdek
+carriage = wagon
+
+# POCZTA / MAIL
+letter = list
+envelope = koperta
+stamp = znaczek
+package = paczka
+postman = listonosz
+address = adres
+box = skrzynka
+delivery = dostawa
+paper = papier
+office = urząd
+
+# PODOBAĆ SIĘ / LIKE
+enjoy = lubić
+favorite = ulubiony
+pretty = ładny
+happy = szczęśliwy
+smile = uśmiech
+want = chcieć
+fun = zabawa
+good = dobry
+love = kochać
+choice = wybór
+
+# PODUSZKA / PILLOW
+sleep = sen
+bed = łóżko
+blanket = koc
+soft = miękki
+head = głowa
+night = noc
+dream = sen
+comfort = wygoda
+case = poszewka
+rest = odpoczynek
+
+# PODWÓRKO / YARD
+outside = dwór
+grass = trawa
+house = dom
+garden = ogród
+play = zabawa
+children = dzieci
+dog = pies
+fence = płot
+tree = drzewo
+sandbox = piaskownica
+
+# PODŁOGA / FLOOR
+room = pokój
+house = dom
+carpet = dywan
+feet = stopy
+walking = chodzenie
+wood = drewno
+tile = kafelek
+cleaning = sprzątanie
+ground = ziemia
+bottom = dół
+
+# POGOTOWIE / AMBULANCE
+doctor = lekarz
+hospital = szpital
+siren = syrena
+emergency = wypadek
+medicine = lekarstwo
+patient = pacjent
+help = pomoc
+red = czerwony
+vehicle = pojazd
+health = zdrowie
+
+# POKAZAĆ / SHOW
+hand = ręka
+pointing = wskazywanie
+picture = obrazek
+look = patrzeć
+see = widzieć
+tell = mówić
+toy = zabawka
+person = osoba
+display = pokaz
+help = pomoc
+
+# POKÓJ / ROOM
+house = dom
+door = drzwi
+window = okno
+bed = łóżko
+floor = podłoga
+wall = ściana
+chair = krzesło
+table = stół
+lamp = lampa
+furniture = meble
+
+# POLICZEK / CHEEK
+face = twarz
+mouth = buzia
+kiss = pocałunek
+skin = skóra
+nose = nos
+eye = oko
+smile = uśmiech
+blush = rumieniec
+child = dziecko
+soft = miękki
+
+# POMARAŃCZA / ORANGE
+fruit = owoc
+juice = sok
+peel = skórka
+sweet = słodki
+round = okrągły
+citrus = cytrus
+slice = cząstka
+food = jedzenie
+color = kolor
+seed = pestka
+
+# POMIDOR / TOMATO
+vegetable = warzywo
+red = czerwony
+salad = sałatka
+soup = zupa
+ketchup = ketchup
+garden = ogród
+food = jedzenie
+slice = plaster
+round = okrągły
+juice = sok
+
+# POMÓC / HELP
+hand = ręka
+support = wsparcie
+friend = przyjaciel
+mother = mama
+kindness = życzliwość
+problem = problem
+work = praca
+together = razem
+care = opieka
+rescue = ratunek
+
+# POTEM / LATER
+after = później
+time = czas
+next = następny
+soon = wkrótce
+tomorrow = jutro
+wait = czekać
+then = potem
+again = znowu
+future = przyszłość
+end = koniec
+
+# POŻYCZYĆ / BORROW
+friend = przyjaciel
+give = dać
+take = wziąć
+return = oddać
+book = książka
+toy = zabawka
+money = pieniądze
+sharing = dzielenie
+ask = prosić
+temporary = chwilowy
+
+# PRACA / WORK
+job = praca
+office = biuro
+worker = pracownik
+money = pieniądze
+desk = biurko
+computer = komputer
+busy = zajęty
+task = zadanie
+morning = poranek
+adult = dorosły
+
+# PRACOWAĆ / WORK
+job = praca
+worker = pracownik
+office = biuro
+doing = robienie
+money = pieniądze
+task = zadanie
+busy = zajęty
+adult = dorosły
+desk = biurko
+helping = pomaganie
+
+# PRALKA / WASHER
+laundry = pranie
+clothes = ubranie
+water = woda
+soap = mydło
+machine = maszyna
+bathroom = łazienka
+clean = czysty
+dirty = brudny
+spin = wirowanie
+home = dom
+
+# PRASOWAĆ / IRON
+clothes = ubranie
+shirt = koszula
+heat = ciepło
+iron = żelazko
+wrinkle = zmarszczka
+board = deska
+steam = para
+smooth = gładki
+laundry = pranie
+clean = czysty
+
+# PRAĆ / WASH
+clothes = ubranie
+laundry = pranie
+washer = pralka
+water = woda
+soap = mydło
+clean = czysty
+dirty = brudny
+shirt = koszula
+bathroom = łazienka
+drying = suszenie
+
+# PREZENT / PRESENT
+gift = prezent
+birthday = urodziny
+box = pudełko
+wrapping = opakowanie
+ribbon = wstążka
+surprise = niespodzianka
+toy = zabawka
+party = impreza
+happy = szczęśliwy
+thanks = dzięki
+
+# PROSIĆ / ASK
+please = proszę
+question = pytanie
+help = pomoc
+want = chcieć
+talking = rozmowa
+voice = głos
+mother = mama
+friend = przyjaciel
+politeness = uprzejmość
+answer = odpowiedź
+
+# PROSZĘ / PLEASE
+ask = prosić
+thanks = dziękuję
+politeness = uprzejmość
+help = pomoc
+want = chcieć
+give = dać
+kindness = życzliwość
+request = prośba
+friend = przyjaciel
+smile = uśmiech
+
+# PRYSZNIC / SHOWER
+water = woda
+bathroom = łazienka
+soap = mydło
+shampoo = szampon
+towel = ręcznik
+washing = mycie
+clean = czysty
+hot = gorący
+splash = plusk
+curtain = zasłona
+
+# PRZEPRASZAM / SORRY
+apology = przeprosiny
+mistake = błąd
+sadness = smutek
+forgiveness = wybaczenie
+politeness = uprzejmość
+voice = głos
+friend = przyjaciel
+hurt = krzywda
+kindness = życzliwość
+regret = żal
+
+# PRZYJŚĆ / COME
+arrival = przyjście
+home = dom
+door = drzwi
+friend = przyjaciel
+visit = wizyta
+walking = chodzenie
+place = miejsce
+here = tutaj
+meeting = spotkanie
+welcome = powitanie
+
+# PRZYKRYĆ / COVER
+blanket = koc
+bed = łóżko
+lid = pokrywka
+cloth = materiał
+sleep = sen
+warmth = ciepło
+protecting = ochrona
+hiding = ukrywanie
+top = góra
+covering = przykrycie
+
+# PRZYNIEŚĆ / BRING
+hand = ręka
+carry = nieść
+gift = prezent
+bag = torba
+home = dom
+help = pomoc
+object = rzecz
+delivery = dostawa
+giving = dawanie
+arrival = przyjście
+
+# PRĘDKO / FAST
+speed = prędkość
+running = bieganie
+car = samochód
+quickly = szybko
+race = wyścig
+road = droga
+movement = ruch
+hurry = pośpiech
+wind = wiatr
+time = czas
+
+# PTASZEK / BIRD
+wing = skrzydło
+feather = pióro
+beak = dziób
+nest = gniazdo
+sky = niebo
+flying = latanie
+tree = drzewo
+egg = jajko
+song = śpiew
+animal = zwierzę
+
+# PUDEŁKO / BOX
+container = pojemnik
+lid = pokrywka
+cardboard = karton
+gift = prezent
+toy = zabawka
+inside = środek
+open = otwarty
+closed = zamknięty
+package = paczka
+storage = przechowywanie
+
+# PUPA / BOTTOM
+body = ciało
+diaper = pielucha
+potty = nocnik
+sitting = siedzenie
+pants = spodnie
+baby = dziecko
+poop = kupka
+skin = skóra
+chair = krzesło
+toilet = toaleta
+
+# PUŚCIĆ / LET GO
+release = puszczenie
+hand = ręka
+drop = upadek
+ball = piłka
+string = sznurek
+freedom = wolność
+open = otworzyć
+loose = luźny
+falling = spadanie
+leaving = odejście
+
+# PYSZNY / YUMMY
+food = jedzenie
+taste = smak
+sweet = słodki
+dinner = obiad
+dessert = deser
+cake = ciasto
+fruit = owoc
+favorite = ulubiony
+eating = jedzenie
+good = dobry
+
+# PÓŁKA / SHELF
+book = książka
+wall = ściana
+closet = szafa
+room = pokój
+wood = drewno
+storage = przechowywanie
+toy = zabawka
+dust = kurz
+furniture = meble
+standing = stanie
+
+# PĘPEK / BELLYBUTTON
+belly = brzuch
+body = ciało
+skin = skóra
+baby = dziecko
+stomach = żołądek
+shirt = koszula
+middle = środek
+round = okrągły
+tickle = łaskotanie
+birth = narodziny
+
+# PŁAKAĆ / CRY
+tears = łzy
+sadness = smutek
+baby = dziecko
+face = twarz
+eyes = oczy
+hurt = ból
+voice = głos
+comfort = pociecha
+mother = mama
+noise = hałas
+
+# PŁOT / FENCE
+yard = podwórko
+garden = ogród
+wood = drewno
+gate = brama
+house = dom
+boundary = granica
+outside = dwór
+dog = pies
+post = słupek
+barrier = przeszkoda
+
+# RADIO / RADIO
+music = muzyka
+sound = dźwięk
+song = piosenka
+voice = głos
+news = wiadomości
+speaker = głośnik
+listening = słuchanie
+car = samochód
+button = guzik
+station = stacja
+
+# RAJSTOPY / TIGHTS
+legs = nogi
+clothes = ubranie
+dress = sukienka
+skirt = spódnica
+feet = stopy
+wearing = noszenie
+thin = cienki
+fabric = tkanina
+drawer = szuflada
+warmth = ciepło
+
+# RANO / MORNING
+day = dzień
+sun = słońce
+breakfast = śniadanie
+wake = budzenie
+bed = łóżko
+today = dzisiaj
+coffee = kawa
+school = szkoła
+work = praca
+light = światło
+
+# ROBAK / BUG
+insect = owad
+small = mały
+legs = nogi
+garden = ogród
+dirt = ziemia
+leaf = liść
+crawl = pełzanie
+worm = robak
+animal = zwierzę
+scary = straszny
+
+# ROBIĆ / DO
+action = działanie
+work = praca
+hand = ręka
+task = zadanie
+making = robienie
+help = pomoc
+play = zabawa
+activity = czynność
+thing = rzecz
+workplace = miejsce
+
+# RODZYNKI / RAISINS
+grape = winogrono
+dried = suszony
+snack = przekąska
+sweet = słodki
+food = jedzenie
+box = pudełko
+cake = ciasto
+breakfast = śniadanie
+small = mały
+brown = brązowy
+
+# ROSÓŁ / SOUP
+broth = bulion
+chicken = kurczak
+noodles = makaron
+bowl = miska
+spoon = łyżka
+dinner = obiad
+hot = gorący
+carrot = marchewka
+kitchen = kuchnia
+food = jedzenie
+
+# ROWER / BICYCLE
+wheel = koło
+pedal = pedał
+helmet = kask
+ride = jazda
+road = droga
+handlebar = kierownica
+seat = siedzenie
+outside = dwór
+child = dziecko
+bell = dzwonek
+
+# ROZMAWIAĆ / TALK
+voice = głos
+mouth = buzia
+words = słowa
+friend = przyjaciel
+conversation = rozmowa
+listening = słuchanie
+question = pytanie
+answer = odpowiedź
+phone = telefon
+person = osoba
+
+# RYBA / FISH
+water = woda
+sea = morze
+river = rzeka
+swimming = pływanie
+fins = płetwy
+scales = łuski
+animal = zwierzę
+food = jedzenie
+aquarium = akwarium
+hook = haczyk
+
+# RYSOWAĆ / DRAW
+paper = papier
+pencil = ołówek
+crayons = kredki
+picture = obrazek
+color = kolor
+hand = ręka
+art = sztuka
+line = linia
+school = szkoła
+drawing = rysunek
+
+# RYŻ / RICE
+food = jedzenie
+grain = ziarno
+white = biały
+bowl = miska
+dinner = obiad
+cooking = gotowanie
+water = woda
+spoon = łyżka
+plate = talerz
+kitchen = kuchnia
+
+# RZEKA / RIVER
+water = woda
+stream = strumień
+bridge = most
+fish = ryba
+shore = brzeg
+boat = łódka
+flow = nurt
+forest = las
+stone = kamień
+swimming = pływanie
+
+# RZUCAĆ / THROW
+ball = piłka
+hand = ręka
+catch = łapać
+game = gra
+stone = kamień
+far = daleko
+movement = ruch
+arm = ramię
+play = zabawa
+basket = kosz
+
+# RĘCZNIK / TOWEL
+bath = kąpiel
+shower = prysznic
+water = woda
+drying = suszenie
+bathroom = łazienka
+hands = ręce
+face = twarz
+soft = miękki
+clean = czysty
+fabric = tkanina
+
+# RĘKA / HAND
+finger = palec
+arm = ramię
+body = ciało
+holding = trzymanie
+touching = dotykanie
+writing = pisanie
+help = pomoc
+palm = dłoń
+thumb = kciuk
+skin = skóra
+
+# RĘKAWICZKI / MITTENS
+hands = ręce
+winter = zima
+cold = zimno
+snow = śnieg
+warmth = ciepło
+clothes = ubranie
+fingers = palce
+wool = wełna
+pair = para
+wearing = noszenie
+
+# SAMOLOT / AIRPLANE
+sky = niebo
+flying = latanie
+wing = skrzydło
+pilot = pilot
+airport = lotnisko
+travel = podróż
+cloud = chmura
+engine = silnik
+passenger = pasażer
+high = wysoko
+
+# SANKI / SLED
+snow = śnieg
+winter = zima
+hill = górka
+children = dzieci
+ride = jazda
+cold = zimno
+outside = dwór
+sliding = ślizganie
+fun = zabawa
+wood = drewno
+
+# SCHODY / STAIRS
+step = stopień
+up = góra
+down = dół
+house = dom
+floor = piętro
+walking = chodzenie
+climbing = wspinanie
+railing = poręcz
+hallway = korytarz
+height = wysokość
+
+# SCHOWAĆ / HIDE
+hidden = ukryty
+box = pudełko
+closet = szafa
+under = pod
+secret = sekret
+toy = zabawka
+game = gra
+cover = przykrycie
+find = znaleźć
+inside = środek
+
+# SER / CHEESE
+milk = mleko
+sandwich = kanapka
+yellow = żółty
+food = jedzenie
+slice = plaster
+bread = chleb
+mouse = mysz
+dinner = obiad
+plate = talerz
+taste = smak
+
+# SERCE / HEART
+love = miłość
+body = ciało
+blood = krew
+chest = klatka
+red = czerwony
+feeling = uczucie
+health = zdrowie
+beat = bicie
+doctor = lekarz
+shape = kształt
+
+# SIEDZIEĆ / SIT
+chair = krzesło
+seat = siedzenie
+floor = podłoga
+table = stół
+body = ciało
+legs = nogi
+rest = odpoczynek
+still = nieruchomo
+room = pokój
+lap = kolana
+
+# SIOSTRA / SISTER
+brother = brat
+family = rodzina
+girl = dziewczynka
+daughter = córka
+mother = mama
+father = tata
+sibling = rodzeństwo
+home = dom
+love = miłość
+play = zabawa
+
+# SIUSIU / PEE
+potty = nocnik
+toilet = toaleta
+diaper = pielucha
+bathroom = łazienka
+baby = dziecko
+water = woda
+pants = spodnie
+wet = mokry
+body = ciało
+training = nauka
+
+# SKAKAĆ / JUMP
+leap = skok
+legs = nogi
+feet = stopy
+play = zabawa
+ball = piłka
+up = góra
+down = dół
+child = dziecko
+movement = ruch
+fun = radość
+
+# SKARPETKI / SOCKS
+feet = stopy
+shoes = buty
+clothes = ubranie
+drawer = szuflada
+pair = para
+warmth = ciepło
+laundry = pranie
+cotton = bawełna
+toes = palce
+wearing = noszenie
+
+# SKLEP / STORE
+shopping = zakupy
+money = pieniądze
+buying = kupowanie
+cashier = kasjer
+shelf = półka
+food = jedzenie
+toy = zabawka
+basket = koszyk
+door = drzwi
+customer = klient
+
+# SKOŃCZYĆ / FINISH
+end = koniec
+done = gotowe
+stop = stop
+work = praca
+game = gra
+last = ostatni
+complete = kompletny
+time = czas
+task = zadanie
+after = potem
+
+# SKÓRA / SKIN
+body = ciało
+hand = ręka
+face = twarz
+touch = dotyk
+soft = miękki
+scratch = zadrapanie
+hair = włosy
+finger = palec
+knee = kolano
+warm = ciepły
+
+# SMOCZEK / PACIFIER
+baby = dziecko
+mouth = buzia
+crying = płacz
+sleep = sen
+mother = mama
+crib = łóżeczko
+comfort = pociecha
+rubber = guma
+sucking = ssanie
+quiet = cisza
+
+# SOK / JUICE
+drink = napój
+fruit = owoc
+orange = pomarańcza
+apple = jabłko
+cup = kubek
+bottle = butelka
+sweet = słodki
+breakfast = śniadanie
+straw = słomka
+water = woda
+
+# SOS / SAUCE
+food = jedzenie
+ketchup = ketchup
+tomato = pomidor
+dinner = obiad
+plate = talerz
+spoon = łyżka
+pasta = makaron
+taste = smak
+kitchen = kuchnia
+liquid = płyn
+
+# SOWA / OWL
+bird = ptak
+night = noc
+eyes = oczy
+wing = skrzydło
+feather = pióro
+tree = drzewo
+forest = las
+beak = dziób
+wise = mądry
+hoot = pohukiwanie
+
+# SPACER / WALK
+outside = dwór
+park = park
+road = droga
+feet = stopy
+legs = nogi
+dog = pies
+path = ścieżka
+movement = ruch
+freshair = powietrze
+family = rodzina
+
+# SPAĆ / SLEEP
+bed = łóżko
+night = noc
+pillow = poduszka
+blanket = koc
+dream = sen
+tired = zmęczony
+quiet = cisza
+darkness = ciemność
+morning = poranek
+rest = odpoczynek
+
+# SPODNIE / PANTS
+clothes = ubranie
+legs = nogi
+pocket = kieszeń
+belt = pasek
+button = guzik
+zipper = zamek
+wearing = noszenie
+laundry = pranie
+closet = szafa
+fabric = tkanina
+
+# SPRZĄTAĆ / CLEAN
+dust = kurz
+floor = podłoga
+broom = miotła
+vacuum = odkurzacz
+water = woda
+soap = mydło
+rag = szmata
+home = dom
+tidy = porządek
+washing = mycie
+
+# STATEK / BOAT
+water = woda
+sea = morze
+river = rzeka
+sail = żagiel
+captain = kapitan
+harbor = port
+fish = ryba
+travel = podróż
+wave = fala
+floating = pływanie
+
+# STAĆ / STAND
+feet = stopy
+legs = nogi
+floor = podłoga
+body = ciało
+still = nieruchomo
+line = kolejka
+waiting = czekanie
+up = góra
+chair = krzesło
+balance = równowaga
+
+# STOŁEK / STOOL
+seat = siedzenie
+chair = krzesło
+legs = nogi
+wood = drewno
+kitchen = kuchnia
+table = stół
+sitting = siedzenie
+small = mały
+furniture = meble
+step = stopień
+
+# STÓŁ / TABLE
+chair = krzesło
+plate = talerz
+food = jedzenie
+kitchen = kuchnia
+dinner = obiad
+wood = drewno
+legs = nogi
+cup = kubek
+family = rodzina
+furniture = meble
+
+# SUFIT / CEILING
+room = pokój
+wall = ściana
+lamp = lampa
+roof = dach
+above = góra
+house = dom
+paint = farba
+light = światło
+corner = kąt
+high = wysoko
+
+# SUKIENKA / DRESS
+clothes = ubranie
+girl = dziewczynka
+woman = kobieta
+pretty = ładny
+wearing = noszenie
+fabric = tkanina
+closet = szafa
+party = impreza
+color = kolor
+hanger = wieszak
+
+# SWETER / SWEATER
+clothes = ubranie
+wool = wełna
+warmth = ciepło
+winter = zima
+sleeve = rękaw
+closet = szafa
+wearing = noszenie
+soft = miękki
+cold = zimno
+laundry = pranie
+
+# SYNEK / SON
+boy = chłopiec
+child = dziecko
+mother = mama
+father = tata
+family = rodzina
+brother = brat
+love = miłość
+home = dom
+hug = uścisk
+baby = dziecko
+
+# SYROP / SYRUP
+medicine = lekarstwo
+cough = kaszel
+spoon = łyżka
+bottle = butelka
+sweet = słodki
+doctor = lekarz
+sick = chory
+pharmacy = apteka
+throat = gardło
+treatment = leczenie
+
+# SZAFA / CLOSET
+clothes = ubranie
+door = drzwi
+shelf = półka
+drawer = szuflada
+hanger = wieszak
+bedroom = sypialnia
+shirt = koszula
+pants = spodnie
+storage = przechowywanie
+wood = drewno
+
+# SZALIK / SCARF
+neck = szyja
+winter = zima
+cold = zimno
+warmth = ciepło
+clothes = ubranie
+wool = wełna
+coat = kurtka
+hat = czapka
+wearing = noszenie
+soft = miękki
+
+# SZCZOTKA / BRUSH
+hair = włosy
+comb = grzebień
+teeth = zęby
+cleaning = czyszczenie
+bathroom = łazienka
+handle = uchwyt
+bristles = włosie
+mirror = lustro
+washing = mycie
+hand = ręka
+
+# SZKLANKA / GLASS
+water = woda
+drink = napój
+juice = sok
+milk = mleko
+cup = kubek
+kitchen = kuchnia
+table = stół
+clear = przezroczysty
+empty = pusty
+full = pełny
+
+# SZKOŁA / SCHOOL
+teacher = nauczyciel
+student = uczeń
+book = książka
+pencil = ołówek
+paper = papier
+desk = biurko
+classroom = klasa
+learning = nauka
+children = dzieci
+bell = dzwonek
+
+# SZUFLADA / DRAWER
+desk = biurko
+closet = szafa
+handle = uchwyt
+storage = przechowywanie
+clothes = ubranie
+paper = papier
+pencil = ołówek
+open = otwarty
+closed = zamknięty
+wood = drewno
+
+# SZUKAĆ / LOOK FOR
+find = znaleźć
+eyes = oczy
+looking = patrzenie
+lost = zgubiony
+toy = zabawka
+search = szukanie
+room = pokój
+under = pod
+where = gdzie
+help = pomoc
+
+# SZYJA / NECK
+head = głowa
+body = ciało
+throat = gardło
+scarf = szalik
+skin = skóra
+shoulder = ramię
+face = twarz
+necklace = naszyjnik
+pain = ból
+collar = kołnierz
+
+# SZYNKA / HAM
+meat = mięso
+sandwich = kanapka
+bread = chleb
+cheese = ser
+slice = plaster
+food = jedzenie
+dinner = obiad
+plate = talerz
+pork = wieprzowina
+breakfast = śniadanie
+
+# SZYĆ / SEW
+needle = igła
+thread = nić
+fabric = tkanina
+clothes = ubranie
+button = guzik
+hand = ręka
+machine = maszyna
+dress = sukienka
+repair = naprawa
+scissors = nożyczki
+
+# SÓL / SALT
+white = biały
+food = jedzenie
+taste = smak
+kitchen = kuchnia
+spoon = łyżka
+soup = zupa
+pepper = pieprz
+crystal = kryształ
+sea = morze
+seasoning = przyprawa
+
+# SŁOIK / JAR
+glass = szkło
+lid = pokrywka
+jam = dżem
+honey = miód
+kitchen = kuchnia
+food = jedzenie
+container = pojemnik
+empty = pusty
+full = pełny
+shelf = półka
+
+# SŁOŃ / ELEPHANT
+animal = zwierzę
+trunk = trąba
+big = duży
+ears = uszy
+zoo = zoo
+gray = szary
+tusk = kieł
+legs = nogi
+tail = ogon
+Africa = Afryka
+
+# SŁOŃCE / SUN
+sky = niebo
+day = dzień
+light = światło
+warmth = ciepło
+hot = gorący
+summer = lato
+yellow = żółty
+weather = pogoda
+morning = poranek
+shine = blask
+
+# SŁYSZEĆ / HEAR
+ear = ucho
+sound = dźwięk
+voice = głos
+music = muzyka
+noise = hałas
+listening = słuchanie
+phone = telefon
+radio = radio
+quiet = cisza
+loud = głośno
+
+# TALERZ / PLATE
+food = jedzenie
+dinner = obiad
+table = stół
+fork = widelec
+spoon = łyżka
+kitchen = kuchnia
+bowl = miska
+meal = posiłek
+clean = czysty
+round = okrągły
+
+# TATA / DAD
+father = ojciec
+mother = mama
+family = rodzina
+child = dziecko
+son = syn
+daughter = córka
+home = dom
+hug = uścisk
+love = miłość
+man = mężczyzna
+
+# TAŃCZYĆ / DANCE
+music = muzyka
+movement = ruch
+feet = stopy
+party = impreza
+song = piosenka
+fun = zabawa
+body = ciało
+rhythm = rytm
+spinning = kręcenie
+happy = szczęśliwy
+
+# TELEFON / PHONE
+call = telefonowanie
+voice = głos
+ring = dzwonek
+number = numer
+message = wiadomość
+hand = ręka
+talking = rozmowa
+ear = ucho
+screen = ekran
+mobile = komórka
+
+# TELEWIZOR / TELEVISION
+screen = ekran
+show = program
+movie = film
+watching = oglądanie
+remote = pilot
+sound = dźwięk
+room = pokój
+cartoon = bajka
+news = wiadomości
+picture = obraz
+
+# TERMOMETR / THERMOMETER
+temperature = temperatura
+fever = gorączka
+doctor = lekarz
+sick = chory
+medicine = lekarstwo
+mouth = buzia
+health = zdrowie
+hot = gorący
+cold = zimny
+body = ciało
+
+# TRAKTOR / TRACTOR
+farm = farma
+field = pole
+wheel = koło
+engine = silnik
+farmer = rolnik
+grass = trawa
+dirt = ziemia
+machine = maszyna
+plow = pług
+big = duży
+
+# TRAMWAJ / TRAM
+tracks = tory
+city = miasto
+street = ulica
+passenger = pasażer
+stop = przystanek
+ticket = bilet
+transport = transport
+bell = dzwonek
+driver = kierowca
+ride = jazda
+
+# TRAWA / GRASS
+green = zielony
+yard = podwórko
+garden = ogród
+field = pole
+ground = ziemia
+mower = kosiarka
+cow = krowa
+outside = dwór
+soft = miękki
+plant = roślina
+
+# TRUSKAWKI / STRAWBERRIES
+fruit = owoc
+red = czerwony
+sweet = słodki
+garden = ogród
+jam = dżem
+summer = lato
+dessert = deser
+bowl = miska
+food = jedzenie
+seed = pestka
+
+# TRZYMAĆ / HOLD
+hand = ręka
+object = rzecz
+toy = zabawka
+baby = dziecko
+grip = chwyt
+carry = nieść
+strong = mocny
+keeping = trzymanie
+handle = uchwyt
+hug = uścisk
+
+# TYGRYS / TIGER
+animal = zwierzę
+cat = kot
+stripes = paski
+orange = pomarańczowy
+black = czarny
+zoo = zoo
+wild = dziki
+tail = ogon
+teeth = zęby
+roar = ryk
+
+# UBIKACJA / TOILET
+bathroom = łazienka
+potty = nocnik
+pee = siku
+poop = kupka
+paper = papier
+flush = spłukiwanie
+seat = siedzenie
+water = woda
+clean = czysty
+door = drzwi
+
+# UBRANIE / CLOTHES
+shirt = koszula
+pants = spodnie
+dress = sukienka
+closet = szafa
+wearing = noszenie
+laundry = pranie
+fabric = tkanina
+button = guzik
+sleeve = rękaw
+drawer = szuflada
+
+# UBRAĆ SIĘ / DRESS
+clothes = ubranie
+shirt = koszula
+pants = spodnie
+shoes = buty
+morning = poranek
+wearing = noszenie
+closet = szafa
+body = ciało
+jacket = kurtka
+button = guzik
+
+# UCHO / EAR
+hearing = słyszenie
+sound = dźwięk
+head = głowa
+face = twarz
+music = muzyka
+voice = głos
+noise = hałas
+body = ciało
+earring = kolczyk
+listening = słuchanie
+
+# UCZYĆ SIĘ / LEARN
+school = szkoła
+book = książka
+teacher = nauczyciel
+student = uczeń
+knowledge = wiedza
+reading = czytanie
+writing = pisanie
+lesson = lekcja
+thinking = myślenie
+answer = odpowiedź
+
+# ULICA / STREET
+road = droga
+car = samochód
+city = miasto
+sidewalk = chodnik
+house = dom
+traffic = ruch
+bus = autobus
+walking = chodzenie
+light = światło
+crossing = przejście
+
+# UPAŚĆ / FALL
+down = dół
+floor = podłoga
+ground = ziemia
+pain = ból
+crying = płacz
+knee = kolano
+accident = wypadek
+running = bieganie
+hurt = krzywda
+standing = stanie
+
+# USIĄŚĆ / SIT
+chair = krzesło
+seat = siedzenie
+floor = podłoga
+table = stół
+legs = nogi
+body = ciało
+rest = odpoczynek
+down = dół
+room = pokój
+lap = kolana
+
+# UŚCISKAĆ / HUG
+arms = ramiona
+love = miłość
+mom = mama
+child = dziecko
+family = rodzina
+friend = przyjaciel
+comfort = pociecha
+warmth = ciepło
+affection = czułość
+hello = cześć
+
+# WANNA / BATHTUB
+bath = kąpiel
+water = woda
+bathroom = łazienka
+soap = mydło
+shower = prysznic
+towel = ręcznik
+clean = czysty
+splash = plusk
+baby = dziecko
+warm = ciepły
+
+# WIADERKO / BUCKET
+sand = piasek
+water = woda
+handle = uchwyt
+beach = plaża
+yard = podwórko
+shovel = łopatka
+toy = zabawka
+container = pojemnik
+garden = ogród
+carrying = noszenie
+
+# WIATR / WIND
+air = powietrze
+weather = pogoda
+storm = burza
+tree = drzewo
+leaf = liść
+cold = zimno
+blowing = dmuchanie
+kite = latawiec
+outside = dwór
+cloud = chmura
+
+# WIDELEC / FORK
+plate = talerz
+spoon = łyżka
+knife = nóż
+food = jedzenie
+dinner = obiad
+table = stół
+kitchen = kuchnia
+eating = jedzenie
+metal = metal
+hand = ręka
+
+# WIDZIEĆ / SEE
+eyes = oczy
+looking = patrzenie
+picture = obrazek
+face = twarz
+light = światło
+glasses = okulary
+watching = oglądanie
+window = okno
+view = widok
+look = patrzeć
+
+# WIEWIÓRKA / SQUIRREL
+animal = zwierzę
+tree = drzewo
+tail = ogon
+nuts = orzechy
+forest = las
+small = mały
+fur = sierść
+climbing = wspinanie
+acorn = żołądź
+quick = szybki
+
+# WILK / WOLF
+animal = zwierzę
+forest = las
+dog = pies
+pack = stado
+howl = wycie
+wild = dziki
+fur = sierść
+teeth = zęby
+night = noc
+hunter = łowca
+
+# WITAMINY / VITAMINS
+medicine = lekarstwo
+health = zdrowie
+pill = tabletka
+fruit = owoc
+vegetable = warzywo
+doctor = lekarz
+pharmacy = apteka
+body = ciało
+strong = mocny
+sick = chory
+
+# WIĄZAĆ / TIE
+string = sznurek
+shoelace = sznurówka
+knot = węzeł
+shoes = buty
+ribbon = wstążka
+hands = ręce
+rope = lina
+fastening = zapięcie
+bow = kokarda
+tight = ciasny
+
+# WIĘCEJ / MORE
+extra = dodatkowy
+again = znowu
+many = dużo
+amount = ilość
+want = chcieć
+another = kolejny
+food = jedzenie
+play = zabawa
+less = mniej
+enough = dosyć
+
+# WODA / WATER
+drink = napój
+river = rzeka
+lake = jezioro
+rain = deszcz
+sea = morze
+cup = kubek
+bottle = butelka
+wet = mokry
+bath = kąpiel
+swimming = pływanie
+
+# WUJEK / UNCLE
+aunt = ciocia
+family = rodzina
+father = tata
+mother = mama
+cousin = kuzyn
+visit = wizyta
+home = dom
+man = mężczyzna
+hug = uścisk
+relative = krewny
+
+# WYSOKO / HIGH
+up = góra
+sky = niebo
+tree = drzewo
+mountain = góra
+height = wysokość
+ladder = drabina
+tower = wieża
+climbing = wspinanie
+above = ponad
+tall = wysoki
+
+# WYTRZEĆ / WIPE
+towel = ręcznik
+rag = szmata
+water = woda
+hands = ręce
+face = twarz
+clean = czysty
+drying = suszenie
+table = stół
+floor = podłoga
+spill = rozlanie
+
+# WÓZEK / STROLLER
+baby = dziecko
+wheels = koła
+mother = mama
+walk = spacer
+outside = dwór
+seat = siedzenie
+handle = uchwyt
+park = park
+pushing = pchanie
+child = dziecko
+
+# WĄŻ / SNAKE
+animal = zwierzę
+long = długi
+slither = pełzanie
+grass = trawa
+zoo = zoo
+tongue = język
+scales = łuski
+bite = ukąszenie
+danger = niebezpieczeństwo
+green = zielony
+
+# WŁOSY / HAIR
+head = głowa
+comb = grzebień
+brush = szczotka
+hairdresser = fryzjer
+scissors = nożyczki
+face = twarz
+long = długi
+short = krótki
+washing = mycie
+style = fryzura
+
+# ZABAWKA / TOY
+play = zabawa
+child = dziecko
+doll = lalka
+blocks = klocki
+ball = piłka
+box = pudełko
+fun = radość
+store = sklep
+gift = prezent
+room = pokój
+
+# ZAJĄC / RABBIT
+bunny = królik
+ears = uszy
+carrot = marchewka
+animal = zwierzę
+forest = las
+grass = trawa
+jumping = skakanie
+tail = ogon
+fur = sierść
+fast = szybki
+
+# ZAMIATAĆ / SWEEP
+broom = miotła
+floor = podłoga
+dust = kurz
+cleaning = sprzątanie
+dirt = brud
+kitchen = kuchnia
+hands = ręce
+trash = śmieci
+home = dom
+corner = kąt
+
+# ZAMKNIĘTY / CLOSED
+door = drzwi
+window = okno
+box = pudełko
+lock = zamek
+key = klucz
+inside = środek
+shut = zamknięty
+closedness = zamknięcie
+room = pokój
+quiet = cisza
+
+# ZAMKNĄĆ / CLOSE
+door = drzwi
+window = okno
+box = pudełko
+hand = ręka
+lock = zamek
+key = klucz
+shut = zamykanie
+inside = środek
+end = koniec
+room = pokój
+
+# ZAPAŁKI / MATCHES
+fire = ogień
+flame = płomień
+box = pudełko
+wood = drewno
+burning = palenie
+light = światło
+smoke = dym
+hot = gorący
+kitchen = kuchnia
+danger = niebezpieczeństwo
+
+# ZAPIĄĆ / FASTEN
+button = guzik
+zipper = zamek
+belt = pasek
+clothes = ubranie
+jacket = kurtka
+shoes = buty
+hands = ręce
+closed = zamknięty
+fastening = zapięcie
+tight = ciasny
+
+# ZAŚWIECIĆ / LIGHT
+lamp = lampa
+light = światło
+switch = włącznik
+room = pokój
+dark = ciemny
+bulb = żarówka
+night = noc
+bright = jasny
+electricity = prąd
+seeing = widzenie
+
+# ZDJĘCIE / PHOTO
+camera = aparat
+picture = obrazek
+face = twarz
+family = rodzina
+memory = wspomnienie
+album = album
+paper = papier
+smile = uśmiech
+image = obraz
+photographer = fotograf
+
+# ZDROWY / HEALTHY
+health = zdrowie
+doctor = lekarz
+strong = mocny
+body = ciało
+food = jedzenie
+vitamins = witaminy
+exercise = ćwiczenie
+sick = chory
+happy = szczęśliwy
+clean = czysty
+
+# ZEGAREK / WATCH
+time = czas
+wrist = nadgarstek
+hand = ręka
+clock = zegar
+hour = godzina
+minute = minuta
+tick = tykanie
+wearing = noszenie
+small = mały
+round = okrągły
+
+# ZEPSUTY / BROKEN
+break = zepsuć
+repair = naprawa
+toy = zabawka
+machine = maszyna
+sad = smutny
+notworking = niedziałający
+piece = kawałek
+tool = narzędzie
+fixing = naprawianie
+old = stary
+
+# ZEPSUĆ / BREAK
+broken = zepsuty
+toy = zabawka
+machine = maszyna
+repair = naprawa
+tool = narzędzie
+piece = kawałek
+mistake = błąd
+damage = szkoda
+fixing = naprawianie
+accident = wypadek
+
+# ZGUBIĆ / LOSE
+lost = zgubiony
+search = szukanie
+find = znaleźć
+toy = zabawka
+key = klucz
+money = pieniądze
+sad = smutny
+where = gdzie
+missing = brakujący
+forgetting = zapominanie
+
+# ZIEMIA / GROUND
+floor = podłoga
+dirt = ziemia
+grass = trawa
+soil = gleba
+outside = dwór
+garden = ogród
+feet = stopy
+stone = kamień
+field = pole
+mud = błoto
+
+# ZIEMNIAKI / POTATOES
+vegetable = warzywo
+dinner = obiad
+food = jedzenie
+plate = talerz
+soup = zupa
+peel = skórka
+root = korzeń
+cooking = gotowanie
+fries = frytki
+garden = ogród
+
+# ZIMNO / COLD
+winter = zima
+snow = śnieg
+ice = lód
+frost = mróz
+coat = kurtka
+hat = czapka
+gloves = rękawiczki
+weather = pogoda
+freezing = zamarzanie
+shivering = drżenie
+
+# ZIMNY / COLD
+ice = lód
+snow = śnieg
+winter = zima
+water = woda
+drink = napój
+refrigerator = lodówka
+frost = mróz
+coldness = chłód
+weather = pogoda
+freezing = zamarzanie
+
+# ZMĘCZONY / TIRED
+sleep = sen
+bed = łóżko
+rest = odpoczynek
+yawn = ziewanie
+night = noc
+work = praca
+walking = chodzenie
+eyes = oczy
+slow = wolny
+body = ciało
+
+# ZNALEŹĆ / FIND
+search = szukanie
+lost = zgubiony
+toy = zabawka
+key = klucz
+look = patrzeć
+eyes = oczy
+room = pokój
+under = pod
+happy = szczęśliwy
+discovery = odkrycie
+
+# ZNAĆ / KNOW
+knowledge = wiedza
+memory = pamięć
+person = osoba
+name = imię
+friend = przyjaciel
+learning = nauka
+thinking = myślenie
+answer = odpowiedź
+school = szkoła
+familiar = znajomy
+
+# ZUPA / SOUP
+bowl = miska
+spoon = łyżka
+dinner = obiad
+kitchen = kuchnia
+hot = gorący
+broth = bulion
+vegetable = warzywo
+noodles = makaron
+water = woda
+food = jedzenie
+
+# ZWIERZĄTKO / ANIMAL
+pet = zwierzak
+dog = pies
+cat = kot
+farm = farma
+zoo = zoo
+fur = sierść
+tail = ogon
+wild = dziki
+small = mały
+creature = stworzenie
+
+# ZĄB / TOOTH
+mouth = buzia
+teeth = zęby
+brush = szczotka
+dentist = dentysta
+bite = gryzienie
+white = biały
+pain = ból
+tongue = język
+smile = uśmiech
+clean = czysty
+
+# ZŁAMAĆ / BREAK
+bone = kość
+stick = kijek
+toy = zabawka
+arm = ramię
+leg = noga
+pain = ból
+doctor = lekarz
+accident = wypadek
+broken = złamany
+repair = naprawa
+
+# ZŁAPAĆ / CATCH
+hand = ręka
+ball = piłka
+throwing = rzucanie
+game = gra
+fish = ryba
+butterfly = motyl
+dog = pies
+fast = szybki
+hold = trzymać
+grab = chwycić
+
+# ŁADNIE / NICELY
+pretty = ładny
+beautiful = piękny
+kindly = miło
+well = dobrze
+clean = czysty
+smile = uśmiech
+polite = grzeczny
+carefully = ostrożnie
+neatly = schludnie
+pleasantly = przyjemnie
+
+# ŁADNY / NICE
+pretty = ładny
+beautiful = piękny
+flower = kwiat
+dress = sukienka
+smile = uśmiech
+color = kolor
+good = dobry
+pleasant = przyjemny
+clean = czysty
+kind = miły
+
+# ŁAZIENKA / BATHROOM
+toilet = toaleta
+sink = zlew
+bathtub = wanna
+shower = prysznic
+soap = mydło
+towel = ręcznik
+water = woda
+mirror = lustro
+clean = czysty
+washing = mycie
+
+# ŁOKIEĆ / ELBOW
+arm = ramię
+body = ciało
+hand = ręka
+joint = staw
+skin = skóra
+bend = zgięcie
+pain = ból
+sleeve = rękaw
+bone = kość
+touching = dotykanie
+
+# ŁOPATKA / SHOVEL
+sand = piasek
+bucket = wiaderko
+garden = ogród
+digging = kopanie
+dirt = ziemia
+tool = narzędzie
+handle = uchwyt
+beach = plaża
+snow = śnieg
+yard = podwórko
+
+# ŁYŻKA / SPOON
+bowl = miska
+soup = zupa
+plate = talerz
+fork = widelec
+kitchen = kuchnia
+eating = jedzenie
+metal = metal
+table = stół
+food = jedzenie
+hand = ręka
+
+# ŁÓŻKO / BED
+sleep = sen
+pillow = poduszka
+blanket = koc
+night = noc
+dream = sen
+bedroom = sypialnia
+rest = odpoczynek
+tired = zmęczony
+mattress = materac
+soft = miękki
+
+# ŚCIANA / WALL
+house = dom
+room = pokój
+paint = farba
+picture = obraz
+door = drzwi
+window = okno
+ceiling = sufit
+floor = podłoga
+brick = cegła
+corner = kąt
+
+# ŚLIMAK / SNAIL
+shell = muszla
+slow = wolny
+garden = ogród
+animal = zwierzę
+small = mały
+slime = śluz
+leaf = liść
+rain = deszcz
+grass = trawa
+crawl = pełzanie
+
+# ŚLINIACZEK / BIB
+baby = dziecko
+food = jedzenie
+eating = jedzenie
+shirt = koszula
+dirty = brudny
+meal = posiłek
+neck = szyja
+cloth = materiał
+mother = mama
+washing = pranie
+
+# ŚMIAĆ SIĘ / LAUGH
+smile = uśmiech
+funny = śmieszny
+joke = żart
+happy = szczęśliwy
+mouth = buzia
+voice = głos
+friend = przyjaciel
+play = zabawa
+joy = radość
+sound = dźwięk
+
+# ŚMIECI / TRASH
+garbage = śmieci
+bin = kosz
+dirty = brudny
+bag = torba
+throwing = wyrzucanie
+cleaning = sprzątanie
+smell = zapach
+waste = odpad
+paper = papier
+kitchen = kuchnia
+
+# ŚNIADANIE / BREAKFAST
+morning = poranek
+food = jedzenie
+milk = mleko
+bread = chleb
+cereal = płatki
+egg = jajko
+tea = herbata
+table = stół
+plate = talerz
+meal = posiłek
+
+# ŚNIEG / SNOW
+winter = zima
+cold = zimno
+white = biały
+ice = lód
+snowman = bałwan
+sled = sanki
+gloves = rękawiczki
+hat = czapka
+weather = pogoda
+falling = spadanie
+
+# ŚPIEWAĆ / SING
+song = piosenka
+music = muzyka
+voice = głos
+mouth = buzia
+radio = radio
+dance = taniec
+happy = szczęśliwy
+sound = dźwięk
+melody = melodia
+children = dzieci
+
+# ŚPIĄCY / SLEEPY
+tired = zmęczony
+sleep = sen
+bed = łóżko
+yawn = ziewanie
+night = noc
+pillow = poduszka
+eyes = oczy
+rest = odpoczynek
+quiet = cisza
+dream = sen
+
+# ŚWINKA / PIG
+animal = zwierzę
+farm = farma
+mud = błoto
+pink = różowy
+snout = ryjek
+tail = ogon
+piglet = prosiaczek
+oink = chrumkanie
+food = jedzenie
+barn = stodoła
+
+# ŻABA / FROG
+animal = zwierzę
+pond = staw
+green = zielony
+jumping = skakanie
+water = woda
+legs = nogi
+croak = kumkanie
+small = mały
+tongue = język
+fly = mucha
+
+# ŻELAZKO / IRON
+clothes = ubranie
+shirt = koszula
+heat = ciepło
+steam = para
+board = deska
+wrinkle = zmarszczka
+laundry = pranie
+hot = gorący
+smooth = gładki
+electricity = prąd
+
+# ŻYRAFA / GIRAFFE
+animal = zwierzę
+zoo = zoo
+neck = szyja
+tall = wysoki
+spots = plamy
+legs = nogi
+Africa = Afryka
+leaf = liść
+yellow = żółty
+wild = dziki
+
+# ŻÓŁW / TURTLE
+animal = zwierzę
+shell = skorupa
+slow = wolny
+water = woda
+green = zielony
+legs = nogi
+head = głowa
+pond = staw
+small = mały
+pet = zwierzak
+
+# BIEGAĆ / RUN
+legs = nogi
+feet = stopy
+fast = szybki
+road = droga
+park = park
+race = wyścig
+movement = ruch
+outside = dwór
+child = dziecko
+tired = zmęczony
+
+# BIĆ / HIT
+hand = ręka
+pain = ból
+angry = zły
+fight = walka
+body = ciało
+hurt = krzywda
+strong = mocny
+bad = zły
+sound = dźwięk
+accident = wypadek
+
+# BOLEĆ / HURT
+pain = ból
+body = ciało
+doctor = lekarz
+sick = chory
+crying = płacz
+medicine = lekarstwo
+knee = kolano
+head = głowa
+tooth = ząb
+hurt = krzywda
+
+# BYĆ / BE
+exist = istnieć
+person = osoba
+place = miejsce
+home = dom
+there = tam
+here = tutaj
+now = teraz
+life = życie
+state = stan
+present = obecny
+
+# MUSIEĆ / MUST
+need = potrzeba
+have = mieć
+work = praca
+rule = zasada
+task = zadanie
+important = ważny
+parent = rodzic
+school = szkoła
+duty = obowiązek
+necessary = konieczny
+
+# MÓC / CAN
+able = zdolny
+permission = pozwolenie
+help = pomoc
+try = próbować
+possible = możliwy
+choice = wybór
+strength = siła
+skill = umiejętność
+do = robić
+maybe = może
+
+# STUKAĆ / KNOCK
+door = drzwi
+sound = dźwięk
+hand = ręka
+finger = palec
+wood = drewno
+visitor = gość
+room = pokój
+answer = odpowiedź
+noise = hałas
+tap = pukanie
+
+# UMIEĆ / KNOW HOW
+skill = umiejętność
+able = zdolny
+learn = uczyć
+practice = ćwiczenie
+try = próbować
+knowledge = wiedza
+doing = robienie
+success = sukces
+teacher = nauczyciel
+help = pomoc
+
+# WIEDZIEĆ / KNOW
+knowledge = wiedza
+answer = odpowiedź
+thinking = myślenie
+memory = pamięć
+school = szkoła
+book = książka
+question = pytanie
+learn = uczyć
+understand = rozumieć
+brain = mózg
+
+# ZOSTAĆ / STAY
+place = miejsce
+home = dom
+here = tutaj
+wait = czekać
+still = nadal
+room = pokój
+bed = łóżko
+remaining = zostawanie
+stop = stop
+time = czas
+
+# A / AND
+together = razem
+also = też
+plus = plus
+with = z
+both = oba
+connection = połączenie
+sentence = zdanie
+word = słowo
+list = lista
+more = więcej
+
+# ALBO / OR
+choice = wybór
+option = opcja
+either = albo
+question = pytanie
+one = jeden
+two = dwa
+decision = decyzja
+different = inny
+maybe = może
+word = słowo
+
+# ALE / BUT
+however = jednak
+contrast = różnica
+opposite = przeciwny
+sentence = zdanie
+word = słowo
+reason = powód
+change = zmiana
+no = nie
+yes = tak
+thought = myśl
+
+# BO / BECAUSE
+reason = powód
+why = dlaczego
+explanation = wyjaśnienie
+answer = odpowiedź
+sentence = zdanie
+cause = przyczyna
+question = pytanie
+thinking = myślenie
+word = słowo
+meaning = znaczenie
+
+# I / AND
+together = razem
+also = też
+plus = plus
+with = z
+both = oba
+connection = połączenie
+sentence = zdanie
+word = słowo
+list = lista
+more = więcej
+
+# JAK / HOW
+question = pytanie
+way = sposób
+manner = sposób
+answer = odpowiedź
+doing = robienie
+why = dlaczego
+what = co
+instruction = instrukcja
+thinking = myślenie
+word = słowo
+
+# TYLKO / ONLY
+one = jeden
+alone = sam
+just = właśnie
+single = pojedynczy
+small = mały
+limit = granica
+nothing = nic
+exclusive = wyłączny
+word = słowo
+amount = ilość
+
+# ŻE / THAT
+sentence = zdanie
+word = słowo
+saying = mówienie
+thought = myśl
+answer = odpowiedź
+story = opowieść
+meaning = znaczenie
+idea = pomysł
+because = bo
+speech = mowa
+
+# ŻEBY / SO THAT
+purpose = cel
+reason = powód
+plan = plan
+want = chcieć
+action = działanie
+sentence = zdanie
+word = słowo
+help = pomoc
+future = przyszłość
+intention = zamiar
+
+# BOSO / BAREFOOT
+feet = stopy
+shoes = buty
+socks = skarpetki
+floor = podłoga
+grass = trawa
+sand = piasek
+outside = dwór
+walking = chodzenie
+skin = skóra
+summer = lato
+
+# BRZYDKO / BADLY
+ugly = brzydki
+bad = zły
+messy = niechlujny
+wrong = źle
+dirty = brudny
+poorly = słabo
+mistake = błąd
+sad = smutny
+appearance = wygląd
+notnice = niemiło
+
+# CICHO / QUIETLY
+silence = cisza
+quiet = cichy
+whisper = szept
+sleep = sen
+night = noc
+softly = miękko
+calm = spokój
+listening = słuchanie
+library = biblioteka
+peace = pokój
+
+# CIEMNO / DARK
+night = noc
+black = czarny
+shadow = cień
+room = pokój
+light = światło
+moon = księżyc
+sleep = sen
+scary = straszny
+evening = wieczór
+lamp = lampa
+
+# CIEPŁO / WARMLY
+warmth = ciepło
+sun = słońce
+blanket = koc
+fire = ogień
+home = dom
+comfort = wygoda
+kindly = miło
+hug = uścisk
+tea = herbata
+summer = lato
+
+# DOBRZE / WELL
+good = dobry
+correctly = poprawnie
+nicely = ładnie
+right = właściwie
+success = sukces
+better = lepiej
+healthily = zdrowo
+carefully = ostrożnie
+smoothly = sprawnie
+happy = szczęśliwy
+
+# GORĄCO / HOT
+heat = ciepło
+sun = słońce
+fire = ogień
+summer = lato
+temperature = temperatura
+sweat = pot
+tea = herbata
+stove = kuchenka
+burning = palenie
+weather = pogoda
+
+# GŁOŚNO / LOUDLY
+noise = hałas
+voice = głos
+shout = krzyk
+music = muzyka
+sound = dźwięk
+speaker = głośnik
+crying = płacz
+party = impreza
+ear = ucho
+drum = bęben
+
+# MOCNO / STRONGLY
+strength = siła
+hard = twardo
+tight = ciasno
+hug = uścisk
+heavy = ciężki
+muscle = mięsień
+power = moc
+grip = chwyt
+firmly = pewnie
+loud = głośno
+
+# MOKRO / WET
+water = woda
+rain = deszcz
+puddle = kałuża
+mud = błoto
+floor = podłoga
+clothes = ubranie
+bath = kąpiel
+towel = ręcznik
+weather = pogoda
+outside = dwór
+
+# PRĘDKO/SZYBKO / QUICKLY
+fast = szybki
+speed = prędkość
+running = bieganie
+car = samochód
+race = wyścig
+hurry = pośpiech
+time = czas
+road = droga
+movement = ruch
+wind = wiatr
+
+# ZIMNO / COLD
+winter = zima
+snow = śnieg
+ice = lód
+frost = mróz
+coat = kurtka
+hat = czapka
+gloves = rękawiczki
+weather = pogoda
+freezing = zamarzanie
+shivering = drżenie
+
+# ŁADNIE / NICELY
+pretty = ładny
+beautiful = piękny
+well = dobrze
+kindly = miło
+clean = czysty
+smile = uśmiech
+polite = grzeczny
+neatly = schludnie
+carefully = ostrożnie
+pleasantly = przyjemnie
+
+# CACY / NICE
+nice = miły
+good = dobry
+pretty = ładny
+sweet = słodki
+child = dziecko
+smile = uśmiech
+happy = szczęśliwy
+kind = życzliwy
+cute = uroczy
+pleasant = przyjemny
+
+# UMYTY / WASHED
+clean = czysty
+water = woda
+soap = mydło
+bath = kąpiel
+hands = ręce
+face = twarz
+towel = ręcznik
+washing = mycie
+fresh = świeży
+bathroom = łazienka
+
+# NICI / THREAD
+sewing = szycie
+needle = igła
+fabric = tkanina
+clothes = ubranie
+button = guzik
+spool = szpulka
+thin = cienki
+string = sznurek
+hand = ręka
+repair = naprawa
+
+# SZMATA / RAG
+cleaning = sprzątanie
+cloth = materiał
+dust = kurz
+floor = podłoga
+water = woda
+dirty = brudny
+wiping = wycieranie
+kitchen = kuchnia
+hands = ręce
+washing = mycie
+
+# SZNUREK / STRING
+knot = węzeł
+tying = wiązanie
+rope = lina
+thin = cienki
+balloon = balonik
+package = paczka
+hand = ręka
+thread = nić
+long = długi
+pulling = ciągnięcie
+
+# TOREBKA / BAG
+purse = torebka
+handle = uchwyt
+money = pieniądze
+phone = telefon
+wallet = portfel
+shopping = zakupy
+woman = kobieta
+carrying = noszenie
+pocket = kieszeń
+zipper = zamek
+
+# HALO / HELLO
+phone = telefon
+voice = głos
+greeting = powitanie
+hi = cześć
+call = telefonowanie
+answer = odpowiedź
+conversation = rozmowa
+ear = ucho
+person = osoba
+sound = dźwięk
+
+# PA / BYE
+goodbye = pożegnanie
+leaving = odejście
+wave = machanie
+friend = przyjaciel
+end = koniec
+later = później
+see = zobaczyć
+farewell = pożegnanie
+door = drzwi
+voice = głos
+
+# BLISKO / NEAR
+close = blisko
+here = tutaj
+distance = odległość
+next = obok
+nearby = pobliski
+home = dom
+hand = ręka
+place = miejsce
+short = krótki
+together = razem
+
+# DALEKO / FAR
+distance = odległość
+road = droga
+travel = podróż
+away = daleko
+horizon = horyzont
+map = mapa
+car = samochód
+journey = wyprawa
+remote = odległy
+there = tam
+
+# GDZIEŚ / SOMEWHERE
+place = miejsce
+there = tam
+where = gdzie
+unknown = nieznany
+maybe = może
+search = szukanie
+around = wokół
+far = daleko
+near = blisko
+someplace = miejsce
+
+# NIGDZIE / NOWHERE
+nothing = nic
+place = miejsce
+empty = pusty
+lost = zgubiony
+where = gdzie
+absent = nieobecny
+no = nie
+search = szukanie
+space = przestrzeń
+missing = brakujący
+
+# NISKO / LOW
+down = dół
+floor = podłoga
+ground = ziemia
+short = niski
+height = wysokość
+under = pod
+chair = krzesło
+crouch = kucanie
+bottom = dół
+small = mały
+
+# STĄD / FROM HERE
+here = tutaj
+place = miejsce
+away = stąd
+leaving = odejście
+home = dom
+direction = kierunek
+point = punkt
+near = blisko
+movement = ruch
+start = początek
+
+# TAM / THERE
+place = miejsce
+far = daleko
+pointing = wskazywanie
+where = gdzie
+away = tam
+location = lokalizacja
+room = pokój
+outside = dwór
+direction = kierunek
+look = patrzeć
+
+# TU / HERE
+place = miejsce
+near = blisko
+this = ten
+room = pokój
+home = dom
+pointing = wskazywanie
+location = lokalizacja
+now = teraz
+hand = ręka
+standing = stanie
+
+# TĘDY / THIS WAY
+direction = kierunek
+path = ścieżka
+road = droga
+here = tutaj
+walking = chodzenie
+pointing = wskazywanie
+route = trasa
+door = drzwi
+movement = ruch
+guide = przewodnik
+
+# WSZĘDZIE / EVERYWHERE
+all = wszystko
+place = miejsce
+around = wokół
+many = dużo
+world = świat
+room = pokój
+outside = dwór
+home = dom
+space = przestrzeń
+together = razem
+
+# WYSOKO / HIGH
+up = góra
+sky = niebo
+tree = drzewo
+mountain = góra
+height = wysokość
+ladder = drabina
+tower = wieża
+climbing = wspinanie
+above = ponad
+tall = wysoki
+
+# CHYBA / PROBABLY
+maybe = może
+perhaps = byćmoże
+uncertain = niepewny
+guess = przypuszczenie
+thought = myśl
+likely = prawdopodobny
+answer = odpowiedź
+question = pytanie
+doubt = wątpliwość
+possibility = możliwość
+
+# MOŻE / MAYBE
+perhaps = byćmoże
+probably = chyba
+uncertain = niepewny
+choice = wybór
+possibility = możliwość
+question = pytanie
+answer = odpowiedź
+doubt = wątpliwość
+thinking = myślenie
+chance = szansa
+
+# NAPRAWDĘ / REALLY
+truth = prawda
+real = prawdziwy
+actually = faktycznie
+very = bardzo
+surely = pewnie
+question = pytanie
+surprise = zdziwienie
+honesty = szczerość
+meaning = znaczenie
+emphasis = nacisk
+
+# PEWNIE / PROBABLY
+maybe = może
+surely = na pewno
+likely = prawdopodobnie
+guess = przypuszczenie
+uncertain = niepewny
+answer = odpowiedź
+thinking = myślenie
+chance = szansa
+possibility = możliwość
+confidence = pewność
+
+# PRZECIEŻ / AFTER ALL
+reason = powód
+because = bo
+truth = prawda
+reminder = przypomnienie
+sentence = zdanie
+argument = argument
+meaning = znaczenie
+thinking = myślenie
+obvious = oczywisty
+explanation = wyjaśnienie
+
+# W OGÓLE / AT ALL
+nothing = nic
+ever = kiedykolwiek
+completely = całkowicie
+question = pytanie
+negative = przeczenie
+emphasis = nacisk
+sentence = zdanie
+meaning = znaczenie
+amount = ilość
+whole = całość
+
+# WŁAŚNIE / JUST
+now = teraz
+exactly = dokładnie
+only = tylko
+moment = chwila
+recently = niedawno
+right = właśnie
+time = czas
+emphasis = nacisk
+happening = dzianie
+point = punkt
+
+# BEZ / WITHOUT
+missing = brak
+no = nie
+alone = sam
+empty = pusty
+away = z dala
+separate = osobny
+lack = brak
+nothing = nic
+outside = poza
+absence = nieobecność
+
+# DLA / FOR
+gift = prezent
+person = osoba
+purpose = cel
+help = pomoc
+giving = dawanie
+recipient = odbiorca
+reason = powód
+child = dziecko
+friend = przyjaciel
+benefit = korzyść
+
+# DO / TO
+place = miejsce
+direction = kierunek
+home = dom
+school = szkoła
+going = pójście
+inside = środek
+destination = cel
+movement = ruch
+door = drzwi
+path = ścieżka
+
+# KOŁO/OBOK / NEXT TO
+near = blisko
+beside = obok
+place = miejsce
+side = bok
+together = razem
+neighbor = sąsiad
+close = bliski
+chair = krzesło
+table = stół
+position = pozycja
+
+# NA / ON
+top = góra
+table = stół
+floor = podłoga
+surface = powierzchnia
+place = miejsce
+above = ponad
+putting = kładzenie
+position = pozycja
+object = rzecz
+shelf = półka
+
+# O / ABOUT
+story = opowieść
+talking = rozmowa
+topic = temat
+question = pytanie
+thinking = myślenie
+book = książka
+word = słowo
+meaning = znaczenie
+conversation = rozmowa
+subject = przedmiot
+
+# OD / FROM
+start = początek
+place = miejsce
+person = osoba
+away = daleko
+source = źródło
+beginning = początek
+gift = prezent
+home = dom
+direction = kierunek
+leaving = odejście
+
+# PO / AFTER
+later = potem
+time = czas
+next = następny
+behind = za
+walking = chodzenie
+following = następstwo
+sequence = kolejność
+end = koniec
+again = znowu
+order = porządek
+
+# POD / UNDER
+below = poniżej
+table = stół
+bed = łóżko
+floor = podłoga
+hiding = ukrywanie
+place = miejsce
+low = niski
+shadow = cień
+cover = przykrycie
+position = pozycja
+
+# PRZED / BEFORE
+front = przód
+earlier = wcześniej
+time = czas
+door = drzwi
+house = dom
+waiting = czekanie
+order = kolejność
+first = pierwszy
+ahead = naprzód
+position = pozycja
+
+# U / AT
+home = dom
+person = osoba
+place = miejsce
+near = blisko
+visit = wizyta
+family = rodzina
+friend = przyjaciel
+location = lokalizacja
+house = dom
+belonging = własność
+
+# W / IN
+inside = środek
+room = pokój
+house = dom
+box = pudełko
+place = miejsce
+container = pojemnik
+school = szkoła
+city = miasto
+pocket = kieszeń
+location = lokalizacja
+
+# Z / WITH
+together = razem
+friend = przyjaciel
+family = rodzina
+hand = ręka
+person = osoba
+help = pomoc
+group = grupa
+connection = połączenie
+company = towarzystwo
+and = i
+
+# ZA / BEHIND
+back = tył
+behind = zatyłu
+after = po
+place = miejsce
+wall = ściana
+door = drzwi
+hidden = ukryty
+position = pozycja
+following = następstwo
+cover = zasłona
+
+# COŚ / SOMETHING
+thing = rzecz
+object = przedmiot
+unknown = nieznany
+anything = cokolwiek
+maybe = może
+some = jakiś
+question = pytanie
+place = miejsce
+idea = pomysł
+word = słowo
+
+# JAKIŚ / SOME
+certain = pewien
+thing = rzecz
+unknown = nieznany
+one = jeden
+maybe = może
+somebody = ktoś
+choice = wybór
+amount = ilość
+word = słowo
+indefinite = nieokreślony
+
+# KTOŚ / SOMEONE
+person = osoba
+somebody = ktoś
+human = człowiek
+friend = przyjaciel
+stranger = obcy
+who = kto
+anyone = ktokolwiek
+people = ludzie
+visitor = gość
+name = imię
+
+# NIC / NOTHING
+empty = pusty
+zero = zero
+none = żaden
+absence = brak
+no = nie
+nowhere = nigdzie
+missing = brakujący
+silence = cisza
+space = przestrzeń
+negative = przeczenie
+
+# NIKT / NOBODY
+person = osoba
+none = żaden
+empty = pusty
+alone = sam
+noone = nikt
+absence = nieobecność
+people = ludzie
+missing = brakujący
+negative = przeczenie
+quiet = cisza
+
+# TAKI / SUCH
+this = ten
+kind = rodzaj
+same = podobny
+example = przykład
+word = słowo
+description = opis
+quality = cecha
+thing = rzecz
+meaning = znaczenie
+comparison = porównanie
+
+# TAMTEN / THAT
+there = tam
+that = tamten
+far = daleko
+object = rzecz
+pointing = wskazywanie
+place = miejsce
+person = osoba
+old = dawny
+other = inny
+distance = odległość
+
+# TEN / THIS
+this = ten
+here = tutaj
+object = rzecz
+pointing = wskazywanie
+person = osoba
+place = miejsce
+near = blisko
+choice = wybór
+word = słowo
+thing = rzecz
+
+# TO / THIS
+this = to
+thing = rzecz
+object = przedmiot
+pointing = wskazywanie
+word = słowo
+meaning = znaczenie
+question = pytanie
+answer = odpowiedź
+place = miejsce
+idea = pomysł
+
+# ICH / THEIR
+they = oni
+belonging = własność
+family = rodzina
+people = ludzie
+group = grupa
+house = dom
+toy = zabawka
+clothes = ubranie
+name = imię
+possession = posiadanie
+
+# JA / ME
+person = osoba
+self = ja
+name = imię
+body = ciało
+hand = ręka
+voice = głos
+mine = moje
+child = dziecko
+thinking = myślenie
+speaking = mówienie
+
+# JEGO / HIS
+he = on
+belonging = własność
+boy = chłopiec
+man = mężczyzna
+father = ojciec
+toy = zabawka
+clothes = ubranie
+name = imię
+person = osoba
+possession = posiadanie
+
+# JEJ / HER
+she = ona
+belonging = własność
+girl = dziewczynka
+woman = kobieta
+mother = mama
+toy = zabawka
+clothes = ubranie
+name = imię
+person = osoba
+possession = posiadanie
+
+# MY / WE
+people = ludzie
+group = grupa
+together = razem
+family = rodzina
+friends = przyjaciele
+us = nas
+team = drużyna
+speaking = mówienie
+home = dom
+children = dzieci
+
+# NASZ / OUR
+we = my
+belonging = własność
+family = rodzina
+home = dom
+group = grupa
+toy = zabawka
+clothes = ubranie
+together = razem
+possession = posiadanie
+shared = wspólny
+
+# ON / HE
+boy = chłopiec
+man = mężczyzna
+person = osoba
+father = tata
+brother = brat
+son = syn
+name = imię
+body = ciało
+voice = głos
+human = człowiek
+
+# ONA / SHE
+girl = dziewczynka
+woman = kobieta
+person = osoba
+mother = mama
+sister = siostra
+daughter = córka
+name = imię
+body = ciało
+voice = głos
+human = człowiek
+
+# ONI / THEY
+people = ludzie
+group = grupa
+children = dzieci
+friends = przyjaciele
+family = rodzina
+team = drużyna
+together = razem
+others = inni
+crowd = tłum
+persons = osoby
+
+# SIĘ / ONESELF
+self = siebie
+body = ciało
+action = działanie
+person = osoba
+own = własny
+mirror = lustro
+washing = mycie
+dressing = ubieranie
+feeling = uczucie
+reflexive = zwrotny
+
+# SOBIE / ONESELF
+self = sobie
+own = własny
+person = osoba
+body = ciało
+help = pomoc
+doing = robienie
+thinking = myślenie
+comfort = wygoda
+choice = wybór
+reflexive = zwrotny
+
+# SWÓJ / ONE’S OWN
+own = własny
+belonging = własność
+mine = moje
+yours = twoje
+home = dom
+toy = zabawka
+clothes = ubranie
+person = osoba
+possession = posiadanie
+self = siebie
+
+# TWÓJ / YOUR
+you = ty
+belonging = własność
+toy = zabawka
+name = imię
+house = dom
+clothes = ubranie
+hand = ręka
+friend = przyjaciel
+possession = posiadanie
+person = osoba
+
+# TY / YOU
+person = osoba
+name = imię
+friend = przyjaciel
+child = dziecko
+voice = głos
+hand = ręka
+body = ciało
+speaking = mówienie
+listening = słuchanie
+self = siebie
+
+# WASZ / YOUR
+belonging = własność
+group = grupa
+family = rodzina
+house = dom
+toy = zabawka
+clothes = ubranie
+name = imię
+possession = posiadanie
+shared = wspólny
+
+# BARDZO / VERY
+much = dużo
+really = naprawdę
+strongly = mocno
+big = duży
+many = wiele
+more = więcej
+intensity = nasilenie
+emphasis = nacisk
+feeling = uczucie
+amount = ilość
+
+# DOSYĆ / ENOUGH
+sufficient = wystarczający
+amount = ilość
+full = pełny
+stop = stop
+limit = granica
+more = więcej
+less = mniej
+finished = skończony
+satisfied = zadowolony
+quantity = liczba
+
+# KAŻDY / EVERY
+all = wszystko
+everyone = wszyscy
+person = osoba
+thing = rzecz
+group = grupa
+whole = całość
+always = zawsze
+number = liczba
+each = każdy
+complete = kompletny
+
+# NIEKTÓRY / SOME
+few = kilka
+some = trochę
+certain = pewien
+part = część
+group = grupa
+notall = niewszyscy
+choice = wybór
+amount = ilość
+one = jeden
+several = kilka
+
+# RAZEM / TOGETHER
+group = grupa
+family = rodzina
+friends = przyjaciele
+with = z
+team = drużyna
+sameplace = razem
+sharing = dzielenie
+playing = zabawa
+helping = pomoc
+connection = połączenie
+
+# SAM / ALONE
+alone = sam
+one = jeden
+quiet = cisza
+person = osoba
+separate = osobny
+independent = niezależny
+without = bez
+empty = pusty
+self = siebie
+lonely = samotny
+
+# TEŻ / ALSO
+too = też
+also = również
+again = znowu
+same = taki
+together = razem
+and = i
+more = więcej
+addition = dodatek
+besides = oprócz
+likewise = podobnie
+
+# TROCHĘ / A LITTLE
+little = mało
+small = mały
+bit = kawałek
+some = trochę
+amount = ilość
+few = kilka
+less = mniej
+more = więcej
+tiny = malutki
+quantity = liczba
+
+# TYLE / SO MUCH
+amount = ilość
+many = dużo
+much = wiele
+enough = dosyć
+number = liczba
+size = rozmiar
+all = wszystko
+full = pełny
+measure = miara
+quantity = liczba
+
+# WSZYSTKO / EVERYTHING
+all = wszystko
+whole = całość
+things = rzeczy
+complete = kompletny
+everyone = wszyscy
+nothing = nic
+world = świat
+full = pełny
+total = suma
+everywhere = wszędzie
+
+# ZA / TOO
+excess = nadmiar
+much = dużo
+very = bardzo
+more = więcej
+limit = granica
+enough = dosyć
+problem = problem
+amount = ilość
+strongly = mocno
+over = ponad
+
+# ŻADEN / NONE
+none = żaden
+nothing = nic
+nobody = nikt
+zero = zero
+empty = pusty
+no = nie
+absence = brak
+missing = brakujący
+negative = przeczenie
+amount = ilość
+
+# CO / WHAT
+question = pytanie
+thing = rzecz
+answer = odpowiedź
+word = słowo
+meaning = znaczenie
+object = przedmiot
+unknown = nieznany
+asking = pytanie
+choice = wybór
+idea = pomysł
+
+# CO ROBI / WHAT DOING
+action = działanie
+doing = robienie
+question = pytanie
+person = osoba
+activity = czynność
+play = zabawa
+work = praca
+movement = ruch
+answer = odpowiedź
+now = teraz
+
+# CZYJ / WHOSE
+belonging = własność
+person = osoba
+owner = właściciel
+question = pytanie
+mine = moje
+yours = twoje
+his = jego
+her = jej
+possession = posiadanie
+thing = rzecz
+
+# DLACZEGO / WHY
+question = pytanie
+reason = powód
+because = bo
+answer = odpowiedź
+thinking = myślenie
+explanation = wyjaśnienie
+cause = przyczyna
+problem = problem
+meaning = znaczenie
+curiosity = ciekawość
+
+# GDZIE / WHERE
+place = miejsce
+question = pytanie
+here = tutaj
+there = tam
+location = lokalizacja
+room = pokój
+home = dom
+search = szukanie
+direction = kierunek
+answer = odpowiedź
+
+# ILE / HOW MUCH
+amount = ilość
+number = liczba
+counting = liczenie
+question = pytanie
+many = dużo
+few = kilka
+more = więcej
+less = mniej
+price = cena
+measure = miara
+
+# JAK / HOW
+question = pytanie
+way = sposób
+answer = odpowiedź
+doing = robienie
+instruction = instrukcja
+thinking = myślenie
+manner = sposób
+method = metoda
+why = dlaczego
+what = co
+
+# JAKI / WHAT KIND
+question = pytanie
+kind = rodzaj
+description = opis
+choice = wybór
+quality = cecha
+color = kolor
+size = rozmiar
+answer = odpowiedź
+thing = rzecz
+word = słowo
+
+# KIEDY / WHEN
+time = czas
+question = pytanie
+day = dzień
+hour = godzina
+now = teraz
+later = później
+today = dzisiaj
+tomorrow = jutro
+yesterday = wczoraj
+answer = odpowiedź
+
+# KTO / WHO
+person = osoba
+question = pytanie
+name = imię
+child = dziecko
+man = mężczyzna
+woman = kobieta
+someone = ktoś
+people = ludzie
+answer = odpowiedź
+friend = przyjaciel
+
+# KTÓRY / WHICH
+choice = wybór
+question = pytanie
+one = jeden
+this = ten
+that = tamten
+option = opcja
+answer = odpowiedź
+thing = rzecz
+pointing = wskazywanie
+selection = wybór
+
+# CZASEM / SOMETIMES
+time = czas
+maybe = może
+occasionally = czasami
+again = znowu
+day = dzień
+notalways = niezawsze
+habit = zwyczaj
+frequency = częstość
+now = teraz
+later = później
+
+# GODZINA / HOUR
+time = czas
+clock = zegar
+watch = zegarek
+minute = minuta
+day = dzień
+morning = poranek
+evening = wieczór
+late = późno
+schedule = plan
+number = liczba
+
+# JUŻ / ALREADY
+now = teraz
+finished = skończony
+time = czas
+before = wcześniej
+done = gotowe
+end = koniec
+soon = zaraz
+later = później
+again = znowu
+complete = kompletny
+
+# KIEDYŚ / SOMEDAY
+future = przyszłość
+time = czas
+later = później
+maybe = może
+day = dzień
+plan = plan
+dream = marzenie
+soon = wkrótce
+never = nigdy
+sometime = kiedyś
+
+# NIGDY / NEVER
+time = czas
+no = nie
+nothing = nic
+always = zawsze
+absence = brak
+negative = przeczenie
+ever = kiedykolwiek
+impossible = niemożliwy
+empty = pusty
+again = znowu
+
+# TERAZ / NOW
+time = czas
+today = dzisiaj
+moment = chwila
+here = tutaj
+present = teraźniejszość
+doing = robienie
+current = obecny
+already = już
+soon = zaraz
+day = dzień
+
+# WCZORAJ / YESTERDAY
+past = przeszłość
+day = dzień
+time = czas
+today = dzisiaj
+tomorrow = jutro
+memory = pamięć
+before = wcześniej
+evening = wieczór
+morning = poranek
+calendar = kalendarz
+
+# WIECZOREM / EVENING
+night = noc
+day = dzień
+sunset = zachód
+dinner = kolacja
+sleep = sen
+time = czas
+darkness = ciemność
+home = dom
+moon = księżyc
+quiet = cisza
+
+# ZARAZ / SOON
+time = czas
+now = teraz
+later = później
+wait = czekać
+moment = chwila
+quickly = szybko
+coming = przyjście
+near = blisko
+future = przyszłość
+ready = gotowy
+
+# ZAWSZE / ALWAYS
+time = czas
+every = każdy
+never = nigdy
+again = znowu
+habit = zwyczaj
+constant = stały
+often = często
+same = taki
+all = wszystko
+forever = zawsze
+
+# ZNOWU / AGAIN
+again = znowu
+repeat = powtórka
+more = więcej
+also = też
+time = czas
+back = powrót
+another = kolejny
+same = taki
+later = później
+once = raz
+
+# ZOO / ZOO
+animal = zwierzę
+lion = lew
+elephant = słoń
+monkey = małpa
+tiger = tygrys
+cage = klatka
+visitor = gość
+children = dzieci
+ticket = bilet
+park = park
+
+# Other
+predator = drapieżnik
+prey = ofiara
