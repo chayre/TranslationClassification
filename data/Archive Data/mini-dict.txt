@@ -1,0 +1,1424 @@
+# mini-dict.txt
+# =============
+# This file stores selectable Polish/English word lists for mini_demo.py.
+#
+# Format:
+#   [list-name]
+#   description = Short description
+#
+#   pairs:
+#   polish_word = english_word
+#
+#   associates:
+#   english_associate = polish_associate
+#
+# Notes:
+# - In the pairs section, the left side is Polish and the right side is English.
+# - In the associates section, the left side is English and the right side is Polish.
+# - Use UTF-8 encoding so Polish characters like ł, ś, ż, ź display correctly.
+# - Most lists below use nouns with close one-word translation equivalents.
+# - list-1 preserves the original demo data, even though it includes adjectives/verbs.
+
+[list-1]
+description = shortest associate list (1 per word)
+
+pairs:
+samochód = car
+autobus = bus
+ciężarówka = truck
+helikopter = helicopter
+koparka	= excavator
+lokomotywa = locomotive
+motocykl = motorcycle
+pociąg = train
+karetka = ambulance
+rower = bicycle
+samolot = airplane
+statek = ship
+traktor = tractor
+tramwaj = tram
+pies = dog
+kot = cat
+dom = house
+woda = water
+duży = big
+mały = small
+jeść = eat
+spać = sleep
+mama = mom
+
+associates:
+puppy = szczeniak
+kitten = kociak
+chimney = komin
+river = rzeka
+mountain = góra
+seed = nasiono
+plate = talerz
+bed = łóżko
+family = rodzina
+engine = silnik
+
+[list-2]
+description = short associate list (2 per word)
+
+
+pairs:
+samochód = car
+autobus = bus
+ciężarówka = truck
+helikopter = helicopter
+koparka	= excavator
+lokomotywa = locomotive
+motocykl = motorcycle
+pociąg = train
+karetka = ambulance
+rower = bicycle
+samolot = airplane
+statek = ship
+traktor = tractor
+tramwaj = tram
+pies = dog
+kot = cat
+dom = house
+woda = water
+duży = big
+mały = small
+jeść = eat
+spać = sleep
+mama = mom
+
+associates:
+# DOG / PIES
+barking = szczekanie
+puppy = szczeniak
+
+# CAT / KOT
+meowing = miauczenie
+kitten = kociak
+
+# HOUSE / DOM
+roof = dach
+chimney = komin
+
+# WATER / WODA
+river = rzeka
+lake = jezioro
+
+# BIG / DUŻY
+skyscraper = wieżowiec
+mountain = góra
+
+# SMALL / MAŁY
+atom = atom
+seed = nasiono
+
+# EAT / JEŚĆ
+meal = posiłek
+plate = talerz
+
+# SLEEP / SPAĆ
+bed = łóżko
+pillow = poduszka
+
+# MOM / MAMA
+parent = rodzic
+family = rodzina
+
+# CAR / SAMOCHÓD
+engine = silnik
+wheel = koło
+
+
+[list-3]
+description = medium associate list (5 per word)
+
+pairs:
+samochód = car
+autobus = bus
+ciężarówka = truck
+helikopter = helicopter
+koparka	= excavator
+lokomotywa = locomotive
+motocykl = motorcycle
+pociąg = train
+karetka = ambulance
+rower = bicycle
+samolot = airplane
+statek = ship
+traktor = tractor
+tramwaj = tram
+pies = dog
+kot = cat
+dom = house
+woda = water
+duży = big
+mały = small
+jeść = eat
+spać = sleep
+mama = mom
+
+associates:
+# DOG / PIES
+barking = szczekanie
+leash = smycz
+collar = obroża
+puppy = szczeniak
+doghouse = buda
+
+# CAT / KOT
+meowing = miauczenie
+purring = mruczenie
+kitten = kociak
+whisker = wąs
+claw = pazur
+
+# HOUSE / DOM
+roof = dach
+wall = ściana
+door = drzwi
+window = okno
+floor = podłoga
+
+# WATER / WODA
+river = rzeka
+lake = jezioro
+ocean = ocean
+rain = deszcz
+flood = powódź
+
+# BIG / DUŻY
+skyscraper = wieżowiec
+mountain = góra
+elephant = słoń
+giant = olbrzym
+planet = planeta
+
+# SMALL / MAŁY
+atom = atom
+seed = nasiono
+coin = moneta
+button = guzik
+needle = igła
+
+# EAT / JEŚĆ
+meal = posiłek
+bread = chleb
+bite = kęs
+chewing = żucie
+restaurant = restauracja
+
+# SLEEP / SPAĆ
+bed = łóżko
+pillow = poduszka
+tiredness = zmęczenie
+snoring = chrapanie
+moon = księżyc
+
+# MOM / MAMA
+parent = rodzic
+family = rodzina
+care = opieka
+hug = uścisk
+love = miłość
+
+# CAR / SAMOCHÓD
+engine = silnik
+wheel = koło
+tire = opona
+driver = kierowca
+road = droga
+
+[list-4]
+description = longer associate list (10 per word)
+
+pairs:
+samochód = car
+autobus = bus
+ciężarówka = truck
+helikopter = helicopter
+koparka	= excavator
+lokomotywa = locomotive
+motocykl = motorcycle
+pociąg = train
+karetka = ambulance
+rower = bicycle
+samolot = airplane
+statek = ship
+traktor = tractor
+tramwaj = tram
+pies = dog
+kot = cat
+dom = house
+woda = water
+duży = big
+mały = small
+jeść = eat
+spać = sleep
+mama = mom
+
+associates:
+# DOG / PIES
+barking = szczekanie
+leash = smycz
+collar = obroża
+puppy = szczeniak
+doghouse = buda
+fetch = aportowanie
+kennel = kojec
+muzzle = kaganiec
+walk = spacer
+bone = kość
+
+# CAT / KOT
+meowing = miauczenie
+purring = mruczenie
+kitten = kociak
+whisker = wąs
+claw = pazur
+litter = kuweta
+scratching = drapanie
+catnip = kocimiętka
+furball = kłaczek
+mouse = mysz
+
+# HOUSE / DOM
+roof = dach
+wall = ściana
+door = drzwi
+window = okno
+floor = podłoga
+ceiling = sufit
+kitchen = kuchnia
+bedroom = sypialnia
+basement = piwnica
+chimney = komin
+
+# WATER / WODA
+river = rzeka
+lake = jezioro
+ocean = ocean
+rain = deszcz
+wave = fala
+ice = lód
+steam = para
+stream = strumień
+drop = kropla
+flood = powódź
+
+# BIG / DUŻY
+skyscraper = wieżowiec
+mountain = góra
+elephant = słoń
+giant = olbrzym
+planet = planeta
+truck = ciężarówka
+stadium = stadion
+tower = wieża
+whale = wieloryb
+castle = zamek
+
+# SMALL / MAŁY
+atom = atom
+seed = nasiono
+coin = moneta
+button = guzik
+needle = igła
+grain = ziarno
+insect = owad
+pebble = kamyk
+crumb = okruch
+bead = koralik
+
+# EAT / JEŚĆ
+meal = posiłek
+bread = chleb
+plate = talerz
+fork = widelec
+breakfast = śniadanie
+dinner = kolacja
+hunger = głód
+bite = kęs
+chewing = żucie
+restaurant = restauracja
+
+# SLEEP / SPAĆ
+bed = łóżko
+pillow = poduszka
+blanket = koc
+dream = sen
+night = noc
+nap = drzemka
+alarm clock = budzik
+tiredness = zmęczenie
+snoring = chrapanie
+moon = księżyc
+
+# MOM / MAMA
+parent = rodzic
+child = dziecko
+baby = niemowlę
+father = ojciec
+daughter = córka
+son = syn
+family = rodzina
+care = opieka
+hug = uścisk
+love = miłość
+
+# CAR / SAMOCHÓD
+engine = silnik
+wheel = koło
+tire = opona
+driver = kierowca
+road = droga
+garage = garaż
+headlights = reflektory
+gasoline = benzyna
+trunk = bagażnik
+steering wheel = kierownica
+
+[list-5]
+description = longer associate list (20 per word, no multiword associates)
+
+pairs:
+samochód = car
+autobus = bus
+ciężarówka = truck
+helikopter = helicopter
+koparka	= excavator
+lokomotywa = locomotive
+motocykl = motorcycle
+pociąg = train
+karetka = ambulance
+rower = bicycle
+samolot = airplane
+statek = ship
+traktor = tractor
+tramwaj = tram
+pies = dog
+kot = cat
+dom = house
+woda = water
+duży = big
+mały = small
+jeść = eat
+spać = sleep
+mama = mom
+
+associates:
+# DOG / PIES
+barking = szczekanie
+leash = smycz
+collar = obroża
+puppy = szczeniak
+kennel = kojec
+muzzle = kaganiec
+fetch = aportowanie
+bone = kość
+paw = łapa
+tail = ogon
+fur = sierść
+breed = rasa
+growl = warkot
+trainer = treser
+veterinarian = weterynarz
+walk = spacer
+obedience = posłuszeństwo
+guard = strażnik
+snout = pysk
+canine = psi
+
+# CAT / KOT
+meowing = miauczenie
+purring = mruczenie
+kitten = kociak
+whisker = wąs
+claw = pazur
+litter = kuweta
+catnip = kocimiętka
+furball = kłaczek
+mouse = mysz
+yarn = włóczka
+scratching = drapanie
+feline = koci
+tomcat = kocur
+lap = kolana
+agility = zwinność
+hissing = syczenie
+stalking = tropienie
+nap = drzemka
+milk = mleko
+scratch = zadrapanie
+
+# HOUSE / DOM
+roof = dach
+wall = ściana
+door = drzwi
+window = okno
+floor = podłoga
+ceiling = sufit
+kitchen = kuchnia
+bedroom = sypialnia
+basement = piwnica
+chimney = komin
+attic = strych
+stairs = schody
+porch = ganek
+garden = ogród
+garage = garaż
+bathroom = łazienka
+hallway = korytarz
+fence = płot
+foundation = fundament
+furniture = meble
+
+# WATER / WODA
+river = rzeka
+lake = jezioro
+ocean = ocean
+rain = deszcz
+wave = fala
+ice = lód
+steam = para
+stream = strumień
+drop = kropla
+flood = powódź
+spring = źródło
+pond = staw
+waterfall = wodospad
+current = nurt
+shore = brzeg
+tide = przypływ
+mist = mgła
+dew = rosa
+puddle = kałuża
+depth = głębokość
+
+# BIG / DUŻY
+skyscraper = wieżowiec
+mountain = góra
+elephant = słoń
+giant = olbrzym
+planet = planeta
+truck = ciężarówka
+stadium = stadion
+tower = wieża
+whale = wieloryb
+castle = zamek
+continent = kontynent
+galaxy = galaktyka
+ocean = ocean
+cathedral = katedra
+factory = fabryka
+airport = lotnisko
+boulder = głaz
+ship = statek
+monument = pomnik
+empire = imperium
+
+# SMALL / MAŁY
+atom = atom
+seed = nasiono
+coin = moneta
+button = guzik
+needle = igła
+grain = ziarno
+insect = owad
+pebble = kamyk
+crumb = okruch
+bead = koralik
+ant = mrówka
+pixel = piksel
+dot = kropka
+speck = drobina
+pin = szpilka
+feather = pióro
+berry = jagoda
+shell = muszla
+pill = tabletka
+sprout = kiełek
+
+# EAT / JEŚĆ
+meal = posiłek
+bread = chleb
+plate = talerz
+fork = widelec
+breakfast = śniadanie
+dinner = kolacja
+hunger = głód
+bite = kęs
+chewing = żucie
+restaurant = restauracja
+lunch = obiad
+supper = wieczerza
+snack = przekąska
+appetite = apetyt
+swallowing = połykanie
+taste = smak
+spoon = łyżka
+sandwich = kanapka
+dessert = deser
+feast = uczta
+
+# SLEEP / SPAĆ
+bed = łóżko
+pillow = poduszka
+blanket = koc
+dream = sen
+night = noc
+nap = drzemka
+tiredness = zmęczenie
+snoring = chrapanie
+moon = księżyc
+alarm = budzik
+mattress = materac
+yawn = ziewanie
+rest = odpoczynek
+bedroom = sypialnia
+darkness = ciemność
+quiet = cisza
+drowsiness = senność
+insomnia = bezsenność
+lullaby = kołysanka
+morning = poranek
+
+# MOM / MAMA
+parent = rodzic
+child = dziecko
+baby = niemowlę
+father = ojciec
+daughter = córka
+son = syn
+family = rodzina
+care = opieka
+hug = uścisk
+love = miłość
+birth = narodziny
+home = dom
+warmth = ciepło
+comfort = pociecha
+nurturing = wychowanie
+protection = ochrona
+motherhood = macierzyństwo
+guardian = opiekun
+affection = czułość
+patience = cierpliwość
+
+# CAR / SAMOCHÓD
+engine = silnik
+wheel = koło
+tire = opona
+driver = kierowca
+road = droga
+garage = garaż
+headlights = reflektory
+gasoline = benzyna
+trunk = bagażnik
+steering = kierownica
+brake = hamulec
+accelerator = gaz
+dashboard = deska
+mirror = lusterko
+seat = siedzenie
+bumper = zderzak
+license = rejestracja
+traffic = ruch
+highway = autostrada
+mechanic = mechanik
+
+[list-6]
+description = 30 associates per pair, no compound words
+
+pairs:
+samochód = car
+autobus = bus
+ciężarówka = truck
+helikopter = helicopter
+koparka	= excavator
+lokomotywa = locomotive
+motocykl = motorcycle
+pociąg = train
+karetka = ambulance
+rower = bicycle
+samolot = airplane
+statek = ship
+traktor = tractor
+tramwaj = tram
+pies = dog
+kot = cat
+dom = house
+woda = water
+duży = big
+mały = small
+jeść = eat
+spać = sleep
+mama = mom
+
+associates:
+# DOG / PIES
+barking = szczekanie
+leash = smycz
+collar = obroża
+puppy = szczeniak
+kennel = kojec
+muzzle = kaganiec
+fetch = aportowanie
+bone = kość
+paw = łapa
+tail = ogon
+fur = sierść
+breed = rasa
+growl = warkot
+trainer = treser
+veterinarian = weterynarz
+walk = spacer
+obedience = posłuszeństwo
+guard = strażnik
+snout = pysk
+canine = psi
+howl = wycie
+terrier = terier
+retriever = aporter
+bulldog = buldog
+spaniel = spaniel
+shepherd = owczarek
+hound = ogar
+biscuit = przysmak
+training = tresura
+bowl = miska
+
+# CAT / KOT
+meowing = miauczenie
+purring = mruczenie
+kitten = kociak
+whisker = wąs
+claw = pazur
+litter = kuweta
+catnip = kocimiętka
+furball = kłaczek
+mouse = mysz
+yarn = włóczka
+scratching = drapanie
+feline = koci
+tomcat = kocur
+lap = kolana
+agility = zwinność
+hissing = syczenie
+stalking = tropienie
+milk = mleko
+scratch = zadrapanie
+pounce = skok
+tabby = pręgowany
+siamese = syjamski
+panther = pantera
+lynx = ryś
+tiger = tygrys
+crouch = przykucnięcie
+prey = ofiara
+hunter = łowca
+slinking = skradanie
+basket = kosz
+
+# HOUSE / DOM
+roof = dach
+wall = ściana
+door = drzwi
+window = okno
+floor = podłoga
+ceiling = sufit
+kitchen = kuchnia
+bedroom = sypialnia
+basement = piwnica
+chimney = komin
+attic = strych
+stairs = schody
+porch = ganek
+garden = ogród
+bathroom = łazienka
+hallway = korytarz
+fence = płot
+foundation = fundament
+furniture = meble
+hearth = palenisko
+livingroom = salon
+pantry = spiżarnia
+balcony = balkon
+terrace = taras
+closet = szafa
+entryway = wejście
+siding = elewacja
+plumbing = hydraulika
+wiring = instalacja
+mailbox = skrzynka
+
+# WATER / WODA
+river = rzeka
+lake = jezioro
+ocean = ocean
+rain = deszcz
+wave = fala
+ice = lód
+steam = para
+stream = strumień
+drop = kropla
+flood = powódź
+spring = źródło
+pond = staw
+waterfall = wodospad
+current = nurt
+shore = brzeg
+tide = przypływ
+mist = mgła
+dew = rosa
+puddle = kałuża
+depth = głębokość
+canal = kanał
+reservoir = zbiornik
+creek = potok
+brook = struga
+marsh = bagno
+swamp = mokradło
+lagoon = laguna
+harbor = port
+well = studnia
+glacier = lodowiec
+
+# BIG / DUŻY
+skyscraper = wieżowiec
+mountain = góra
+elephant = słoń
+giant = olbrzym
+planet = planeta
+truck = ciężarówka
+stadium = stadion
+tower = wieża
+whale = wieloryb
+castle = zamek
+continent = kontynent
+galaxy = galaktyka
+cathedral = katedra
+factory = fabryka
+airport = lotnisko
+boulder = głaz
+ship = statek
+monument = pomnik
+empire = imperium
+colossus = kolos
+dinosaur = dinozaur
+mansion = rezydencja
+arena = arena
+crane = dźwig
+zeppelin = sterowiec
+fortress = twierdza
+titan = tytan
+volcano = wulkan
+globe = glob
+mammoth = mamut
+
+# SMALL / MAŁY
+atom = atom
+seed = nasiono
+coin = moneta
+button = guzik
+needle = igła
+grain = ziarno
+insect = owad
+pebble = kamyk
+crumb = okruch
+bead = koralik
+ant = mrówka
+pixel = piksel
+dot = kropka
+speck = drobina
+pin = szpilka
+feather = pióro
+berry = jagoda
+shell = muszla
+pill = tabletka
+sprout = kiełek
+mite = roztocz
+flea = pchła
+pea = groszek
+acorn = żołądź
+marble = kulka
+flake = płatek
+minnow = płotka
+chip = odprysk
+droplet = kropelka
+rivet = nit
+
+# EAT / JEŚĆ
+meal = posiłek
+bread = chleb
+plate = talerz
+fork = widelec
+breakfast = śniadanie
+dinner = kolacja
+hunger = głód
+bite = kęs
+chewing = żucie
+restaurant = restauracja
+lunch = obiad
+supper = wieczerza
+snack = przekąska
+appetite = apetyt
+swallowing = połykanie
+taste = smak
+spoon = łyżka
+sandwich = kanapka
+dessert = deser
+feast = uczta
+salad = sałatka
+soup = zupa
+meat = mięso
+fruit = owoc
+vegetable = warzywo
+cereal = płatki
+pizza = pizza
+noodles = makaron
+sauce = sos
+menu = menu
+
+# SLEEP / SPAĆ
+bed = łóżko
+pillow = poduszka
+blanket = koc
+dream = sen
+night = noc
+tiredness = zmęczenie
+snoring = chrapanie
+moon = księżyc
+alarm = budzik
+mattress = materac
+yawn = ziewanie
+rest = odpoczynek
+darkness = ciemność
+quiet = cisza
+drowsiness = senność
+insomnia = bezsenność
+lullaby = kołysanka
+morning = poranek
+pajamas = piżama
+cradle = kołyska
+slumber = drzemanie
+dozing = przysypianie
+fatigue = znużenie
+bedtime = dobranoc
+sheets = pościel
+nightmare = koszmar
+waking = budzenie
+napping = podsypianie
+relaxation = relaks
+hammock = hamak
+
+# MOM / MAMA
+parent = rodzic
+child = dziecko
+baby = niemowlę
+father = ojciec
+daughter = córka
+son = syn
+family = rodzina
+care = opieka
+hug = uścisk
+love = miłość
+birth = narodziny
+home = dom
+warmth = ciepło
+comfort = pociecha
+nurturing = wychowanie
+protection = ochrona
+motherhood = macierzyństwo
+guardian = opiekun
+affection = czułość
+patience = cierpliwość
+pregnancy = ciąża
+nurse = pielęgniarka
+crib = łóżeczko
+stroller = wózek
+diaper = pielucha
+lull = kołysanie
+feeding = karmienie
+tenderness = tkliwość
+womb = łono
+kinship = pokrewieństwo
+
+# CAR / SAMOCHÓD
+engine = silnik
+wheel = koło
+tire = opona
+driver = kierowca
+road = droga
+garage = garaż
+headlights = reflektory
+gasoline = benzyna
+trunk = bagażnik
+steering = kierownica
+brake = hamulec
+accelerator = gaz
+dashboard = deska
+mirror = lusterko
+seat = siedzenie
+bumper = zderzak
+license = rejestracja
+traffic = ruch
+highway = autostrada
+mechanic = mechanik
+clutch = sprzęgło
+gearbox = skrzynia
+hood = maska
+windshield = szyba
+radiator = chłodnica
+exhaust = wydech
+parking = parking
+speedometer = licznik
+ignition = zapłon
+carriage = karoseria
+
+[list-7]
+description = 40 associates per pair, no compound words, no duplicate associate keys
+
+pairs:
+samochód = car
+autobus = bus
+ciężarówka = truck
+helikopter = helicopter
+koparka	= excavator
+lokomotywa = locomotive
+motocykl = motorcycle
+pociąg = train
+karetka = ambulance
+rower = bicycle
+samolot = airplane
+statek = ship
+traktor = tractor
+tramwaj = tram
+pies = dog
+kot = cat
+dom = house
+woda = water
+duży = big
+mały = small
+jeść = eat
+spać = sleep
+mama = mom
+
+associates:
+# DOG / PIES
+barking = szczekanie
+leash = smycz
+collar = obroża
+puppy = szczeniak
+kennel = kojec
+muzzle = kaganiec
+fetch = aportowanie
+bone = kość
+paw = łapa
+tail = ogon
+fur = sierść
+breed = rasa
+growl = warkot
+trainer = treser
+veterinarian = weterynarz
+walk = spacer
+obedience = posłuszeństwo
+guard = strażnik
+snout = pysk
+canine = psi
+howl = wycie
+terrier = terier
+retriever = aporter
+bulldog = buldog
+spaniel = spaniel
+shepherd = owczarek
+hound = ogar
+biscuit = przysmak
+training = tresura
+bowl = miska
+tracking = tropienie
+loyalty = lojalność
+scent = zapach
+pack = stado
+owner = właściciel
+crate = klatka
+rescue = ratunek
+sled = sanie
+wolf = wilk
+drool = ślina
+
+# CAT / KOT
+meowing = miauczenie
+purring = mruczenie
+kitten = kociak
+claw = pazur
+litter = kuweta
+catnip = kocimiętka
+furball = kłaczek
+mouse = mysz
+yarn = włóczka
+scratching = drapanie
+feline = koci
+tomcat = kocur
+agility = zwinność
+hissing = syczenie
+stalking = tropienie
+scratch = zadrapanie
+pounce = skok
+tabby = pręgowany
+siamese = syjamski
+panther = pantera
+lynx = ryś
+tiger = tygrys
+crouch = przykucnięcie
+prey = ofiara
+hunter = łowca
+slinking = skradanie
+basket = kosz
+littering = załatwianie
+grooming = pielęgnacja
+sphinx = sfinks
+softness = miękkość
+cushion = poduszka
+shelf = półka
+curiosity = ciekawość
+independence = niezależność
+whiskers = wąsy
+purringly = mrucząco
+felinehood = kocisko
+
+# HOUSE / DOM
+roof = dach
+wall = ściana
+door = drzwi
+window = okno
+floor = podłoga
+ceiling = sufit
+bedroom = sypialnia
+basement = piwnica
+chimney = komin
+attic = strych
+stairs = schody
+porch = ganek
+garden = ogród
+bathroom = łazienka
+hallway = korytarz
+fence = płot
+foundation = fundament
+furniture = meble
+hearth = palenisko
+livingroom = salon
+pantry = spiżarnia
+balcony = balkon
+terrace = taras
+closet = szafa
+entryway = wejście
+siding = elewacja
+plumbing = hydraulika
+wiring = instalacja
+mailbox = skrzynka
+driveway = podjazd
+shelter = schronienie
+address = adres
+key = klucz
+rent = czynsz
+mortgage = hipoteka
+heating = ogrzewanie
+laundry = pralnia
+residence = rezydencja
+doormat = wycieraczka
+apartment = mieszkanie
+
+# WATER / WODA
+river = rzeka
+lake = jezioro
+ocean = ocean
+rain = deszcz
+wave = fala
+ice = lód
+steam = para
+stream = strumień
+drop = kropla
+flood = powódź
+spring = źródło
+pond = staw
+waterfall = wodospad
+current = nurt
+shore = brzeg
+tide = przypływ
+mist = mgła
+dew = rosa
+puddle = kałuża
+depth = głębokość
+canal = kanał
+reservoir = zbiornik
+creek = potok
+brook = struga
+marsh = bagno
+swamp = mokradło
+lagoon = laguna
+harbor = port
+well = studnia
+glacier = lodowiec
+foam = piana
+splash = plusk
+drought = susza
+moisture = wilgoć
+hydration = nawodnienie
+fountain = fontanna
+bay = zatoka
+coast = wybrzeże
+drizzle = mżawka
+hail = grad
+
+# BIG / DUŻY
+skyscraper = wieżowiec
+mountain = góra
+elephant = słoń
+giant = olbrzym
+planet = planeta
+truck = ciężarówka
+stadium = stadion
+tower = wieża
+whale = wieloryb
+castle = zamek
+continent = kontynent
+galaxy = galaktyka
+cathedral = katedra
+factory = fabryka
+airport = lotnisko
+boulder = głaz
+ship = statek
+monument = pomnik
+empire = imperium
+colossus = kolos
+dinosaur = dinozaur
+mansion = rezydencja
+arena = arena
+crane = dźwig
+zeppelin = sterowiec
+fortress = twierdza
+titan = tytan
+volcano = wulkan
+globe = glob
+mammoth = mamut
+universe = wszechświat
+giantess = olbrzymka
+warehouse = magazyn
+hangar = hangar
+dam = tama
+bridge = most
+pyramid = piramida
+canyon = kanion
+metropolis = metropolia
+leviathan = lewiatan
+
+# SMALL / MAŁY
+atom = atom
+seed = nasiono
+coin = moneta
+button = guzik
+needle = igła
+grain = ziarno
+insect = owad
+pebble = kamyk
+crumb = okruch
+bead = koralik
+ant = mrówka
+pixel = piksel
+dot = kropka
+speck = drobina
+pin = szpilka
+feather = pióro
+berry = jagoda
+shell = muszla
+pill = tabletka
+sprout = kiełek
+mite = roztocz
+flea = pchła
+pea = groszek
+acorn = żołądź
+marble = kulka
+flake = płatek
+minnow = płotka
+chip = odprysk
+droplet = kropelka
+rivet = nit
+molecule = cząsteczka
+freckle = pieg
+seedling = sadzonka
+beetle = chrząszcz
+thread = nić
+splinter = drzazga
+bud = pąk
+twig = gałązka
+particle = cząstka
+capsule = kapsułka
+
+# EAT / JEŚĆ
+meal = posiłek
+bread = chleb
+plate = talerz
+fork = widelec
+breakfast = śniadanie
+dinner = kolacja
+hunger = głód
+bite = kęs
+chewing = żucie
+restaurant = restauracja
+lunch = obiad
+supper = wieczerza
+snack = przekąska
+appetite = apetyt
+swallowing = połykanie
+taste = smak
+spoon = łyżka
+sandwich = kanapka
+dessert = deser
+feast = uczta
+salad = sałatka
+soup = zupa
+meat = mięso
+fruit = owoc
+vegetable = warzywo
+cereal = płatki
+pizza = pizza
+noodles = makaron
+sauce = sos
+menu = menu
+knife = nóż
+napkin = serwetka
+cooking = gotowanie
+stomach = żołądek
+digestion = trawienie
+flavor = aromat
+serving = porcja
+recipe = przepis
+cafeteria = stołówka
+banquet = bankiet
+
+# SLEEP / SPAĆ
+bed = łóżko
+blanket = koc
+dream = sen
+night = noc
+tiredness = zmęczenie
+snoring = chrapanie
+moon = księżyc
+alarm = budzik
+mattress = materac
+yawn = ziewanie
+rest = odpoczynek
+darkness = ciemność
+quiet = cisza
+drowsiness = senność
+insomnia = bezsenność
+lullaby = kołysanka
+morning = poranek
+pajamas = piżama
+cradle = kołyska
+slumber = drzemanie
+dozing = przysypianie
+fatigue = znużenie
+bedtime = dobranoc
+sheets = pościel
+nightmare = koszmar
+waking = budzenie
+napping = podsypianie
+relaxation = relaks
+hammock = hamak
+silence = milczenie
+twilight = zmierzch
+midnight = północ
+restfulness = wypoczynek
+sleepiness = ospałość
+duvet = kołdra
+cot = łóżeczko
+repose = spoczynek
+snooze = podsypianie
+siesta = sjesta
+dormancy = uśpienie
+
+# MOM / MAMA
+parent = rodzic
+child = dziecko
+baby = niemowlę
+father = ojciec
+daughter = córka
+son = syn
+family = rodzina
+care = opieka
+hug = uścisk
+love = miłość
+birth = narodziny
+home = dom
+warmth = ciepło
+comfort = pociecha
+nurturing = wychowanie
+protection = ochrona
+motherhood = macierzyństwo
+guardian = opiekun
+affection = czułość
+patience = cierpliwość
+pregnancy = ciąża
+nurse = pielęgniarka
+crib = łóżeczko
+stroller = wózek
+diaper = pielucha
+lull = kołysanie
+feeding = karmienie
+tenderness = tkliwość
+womb = łono
+kinship = pokrewieństwo
+kiss = pocałunek
+grandmother = babcia
+aunt = ciocia
+sibling = rodzeństwo
+parenting = rodzicielstwo
+security = bezpieczeństwo
+guidance = prowadzenie
+kindness = życzliwość
+embrace = objęcie
+devotion = oddanie
+
+# CAR / SAMOCHÓD
+engine = silnik
+wheel = koło
+tire = opona
+driver = kierowca
+road = droga
+garage = garaż
+headlights = reflektory
+gasoline = benzyna
+trunk = bagażnik
+steering = kierownica
+brake = hamulec
+accelerator = gaz
+dashboard = deska
+mirror = lusterko
+seat = siedzenie
+bumper = zderzak
+license = rejestracja
+traffic = ruch
+highway = autostrada
+mechanic = mechanik
+clutch = sprzęgło
+gearbox = skrzynia
+hood = maska
+windshield = szyba
+radiator = chłodnica
+exhaust = wydech
+parking = parking
+speedometer = licznik
+ignition = zapłon
+carriage = karoseria
+fuel = paliwo
+axle = oś
+battery = akumulator
+horn = klakson
+sedan = sedan
+coupe = coupe
+van = furgon
+taxi = taksówka
+motorway = szosa
+odometer = licznikometr
