@@ -1,1 +1,8 @@
 Screenshots/
+data/cc.pl.300.vec
+data/cc.en.300.vec
+data/word2vec.pl.vec
+data/word2vec.en.vec
+data/wiki.en.align.vec
+data/wiki.pl.align.vec
+data/wiki.no.align.vec
